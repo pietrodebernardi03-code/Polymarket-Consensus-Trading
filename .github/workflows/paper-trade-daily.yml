@@ -1,0 +1,51 @@
+name: Polymarket paper-trade daily
+
+# Runs the frozen engine once a day on GitHub's infrastructure, so it fires
+# whether or not Peter's Mac is on. State (paper_ledger.csv) persists because the
+# job commits the updated ledger back to the repo after each run.
+
+on:
+  schedule:
+    # GitHub cron is UTC only. 08:00 UTC = 09:00 Europe/Lisbon in summer (WEST),
+    # and 08:00 local in winter (WET). Good enough for a once-daily idempotent job.
+    # If you want exactly 09:00 Lisbon year-round, add a second '0 9 * * *' line.
+    - cron: "0 8 * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+# Allow the job to push the updated ledger back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: paper-trade-daily
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run daily engine (+ self-audit)
+        run: python run_daily.py >> paper_trader.log 2>&1
+
+      - name: Commit updated ledger
+        run: |
+          git config user.name  "polymarket-bot"
+          git config user.email "actions@github.com"
+          git add paper_ledger.csv paper_trader.log stuck_alerts.log 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No ledger changes to commit."
+          else
+            git commit -m "daily paper-trade run $(date -u +%Y-%m-%d)"
+            git push
+          fi

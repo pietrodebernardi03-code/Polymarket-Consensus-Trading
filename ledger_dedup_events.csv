@@ -1,0 +1,15 @@
+event_key,n_tickets,mean_entry_price,basket_return,result,valid_ge_48h,member_ticket_ids
+ENGARG_SF,10,0.464,0.076,WIN,yes,m31;m54;m71;r3;r4;r26;r28;r29;r30;r31
+BTC_DOWN,3,0.525,0.315,WIN,yes,m22;m23;m66
+HORMUZ,1,0.165,-1.0,LOSS,yes,m18
+USIRAN_SEP30,1,0.715,0.049,WIN,yes,m19
+QUAKES,1,0.23,-0.2391,LOSS,yes,m30
+ENG_WC,1,0.1505,-1.0,LOSS,yes,m43
+MOROCCO_0709,1,0.865,0.1561,WIN,yes,m44
+SANTOS,1,0.255,-0.0392,LOSS,yes,m47
+NORWAY_0711,1,0.775,0.2903,WIN,yes,m48
+ENG_0711,1,0.485,1.0619,WIN,yes,m55
+IRAN_BLOCKADE,1,0.8,-1.0,LOSS,yes,m65
+ARG_SWISS,1,0.275,-1.0,LOSS,yes,m67
+FERY,1,0.155,-1.0,LOSS,yes,m68
+DEDURA,1,0.445,-1.0,LOSS,yes,m70

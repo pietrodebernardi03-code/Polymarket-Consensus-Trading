@@ -1,0 +1,144 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+% ============================================================================
+% DRAFT SKELETON — Polymarket Smart-Money Consensus, Forward Paper-Trade
+% Author: Peter (MSc Finance, Nova SBE)
+%
+% All quantitative results below are marked \prov{...}. They are PROVISIONAL,
+% computed 22 July 2026 immediately after the v1.2 data-plumbing fix and the
+% back-fill of orphaned trades. They are placeholders to be regenerated from
+% the final ledger at the pre-committed evaluation point (>= 30 Sep 2026, >= 80
+% valid scored trades; PRE_REGISTRATION v1.3). Do NOT present these as final.
+% Regenerate numbers with: python3 segment_stats.py   (and paper_trader report)
+% ============================================================================
+\newcommand{\prov}[1]{\textcolor{red}{#1}\textsuperscript{\,$\dagger$}}
+
+\title{Does Copying Point-in-Time-Qualified Polymarket Traders Pay?\\
+\large A Pre-Registered Forward Paper-Trade}
+\author{Peter \\ \small Nova School of Business and Economics}
+\date{Draft --- \today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+We test, out of sample and under a frozen pre-registration, whether copying
+``smart-money'' Polymarket traders --- entering a market when $\geq 2$
+point-in-time-qualified wallets independently hold the same outcome near their
+entry price, and exiting when they exit or the market resolves --- earns a
+positive, calibration-beating return. On the sample accrued to date the frozen
+rule \prov{passes} both pre-registered success conditions (median per-trade
+return \prov{$+44\%$}, hit-rate \prov{$74\%$} $>$ average entry price
+\prov{$0.54$}). We stress that this reading is provisional and regime-narrow:
+\prov{$\sim$90\%} of scored trades are sports resolving in a single two-week
+window dominated by Wimbledon and the FIFA World Cup, and the non-sports stratum
+is currently too small to interpret. Tracking continues to a pre-committed
+evaluation point to test the rule across regimes.
+\footnotetext{$\dagger$ Provisional value (22 Jul 2026, post-fix); to be
+regenerated at the final evaluation point.}
+\end{abstract}
+
+\section{Introduction}
+% Motivation: prediction-market leaderboards; the survivorship problem that only
+% a forward test removes. Relation to insider/informed-trading and copy-trading
+% literature. State the one-sentence contribution.
+\emph{[To write.]}
+
+\section{Hypothesis and Pre-Registration}
+The strategy, universe, entry/exit rules, sizing, and success criterion were
+frozen before any forward data were observed (see \texttt{PRE\_REGISTRATION.md},
+v1.1, 5 July 2026). The pre-committed success criterion (\S6) is: after $\geq 30$
+resolved paper trades, declare \textbf{success} iff the \emph{median} per-trade
+return $>0$ \textbf{and} the hit-rate $>$ the average entry price paid.
+
+\paragraph{Entry.} A \texttt{(market, outcome)} is opened when: $\geq 2$ qualified
+roster wallets co-hold the outcome; price $\leq$ their median entry $+\,0.06$ and
+within $[0.10, 0.90]$; $>48$h to resolution; no dissent (no other outcome of the
+market has $\geq 2$ qualified holders); not previously booked.
+
+\paragraph{Exit.} On the first of: qualified holders drop below 2 (copy-the-exit),
+or resolution (settle 1/0).
+
+\section{Data and Method}
+Public Polymarket Data/Gamma APIs; no real capital. Roster re-qualified monthly
+by a point-in-time gate ($\geq 30$ resolved trades, trailing win-rate $\geq 0.55$).
+Per-trade return $r = (\text{exit}-\text{entry})/\text{entry}$. The scored sample
+is trades with \texttt{exit\_type} $\in$ \{resolved\_win, resolved\_loss\} held
+$\geq 48$h; a broader lens additionally includes copy-the-exit (\texttt{sharps\_left})
+closes.
+
+\subsection{Measurement correction (disclosed)}
+\label{sec:fix}
+A data-retrieval defect (v1.2, 23 July 2026) caused resolved markets to drop out
+of the Gamma query, freezing the affected trades \texttt{OPEN}. The failure was
+\emph{asymmetric}: losing outcomes pin to $\sim$0 and were usually recorded, while
+winning outcomes were orphaned, biasing the interim read \emph{downward}. The fix
+is retrieval-only (query \texttt{closed=true} first); no frozen rule changed.
+Orphaned trades were back-filled with identical resolution semantics, applied to
+all of them (winners and losers), verified against raw settlement prices, logged
+to \texttt{resolve\_stuck\_audit.csv}, with the pre-fix ledger retained. Both
+pre- and post-fix results are reported (Table~\ref{tab:strata}).
+
+\section{Results (provisional)}
+\label{sec:results}
+On the scored sample ($n=\prov{42}$): median $=\prov{+0.44}$, mean
+$=\prov{+0.52}$, hit-rate $=\prov{0.74}$ (\prov{31/42}), average entry price
+$=\prov{0.54}$. Both success conditions are \prov{met}. The broader lens
+($n=\prov{56}$, incl.\ copy-the-exit) gives median $=\prov{+0.30}$,
+hit-rate $=\prov{0.70}$ --- same qualitative conclusion.
+
+\begin{table}[h]
+\centering
+\caption{Provisional stratified performance (scored sample; 22 Jul 2026, post-fix).
+Verdict per PRE\_REGISTRATION \S6. Strata with $n<5$ are not interpreted.}
+\label{tab:strata}
+\begin{tabular}{lrrrrl}
+\toprule
+Stratum & $n$ & Median & Hit-rate & Avg.\ entry & Verdict \\
+\midrule
+Overall            & \prov{42} & \prov{$+0.44$} & \prov{0.74} & \prov{0.54} & \prov{pass} \\
+\midrule
+Tennis             & \prov{25} & \prov{$+0.58$} & \prov{0.84} & \prov{0.61} & \prov{pass} \\
+Football           & \prov{9}  & \prov{$+0.29$} & \prov{0.67} & \prov{0.39} & \prov{pass} \\
+Baseball           & \prov{3}  & \prov{$+0.87$} & \prov{1.00} & \prov{0.51} & small sample \\
+Geopolitics        & \prov{3}  & \prov{$-1.00$} & \prov{0.33} & \prov{0.57} & small sample \\
+MMA / Politics     & \prov{2}  & \prov{$-1.00$} & \prov{0.00} & \prov{0.30} & small sample \\
+\midrule
+Sports (all)       & \prov{38} & \prov{$+0.58$} & \prov{0.79} & \prov{0.54} & \prov{pass} \\
+Non-sports         & \prov{4}  & \prov{$-1.00$} & \prov{0.25} & \prov{0.49} & small sample \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The stratification exposes the central caveat: the apparent edge is carried by
+\prov{tennis} (and secondarily \prov{football}); the non-sports stratum is
+\prov{$0/4$} and uninterpretably small. The verdict is therefore, at this stage,
+essentially a statement about copying sharps on sports singles during one busy
+tournament fortnight.
+
+\section{Limitations}
+(i) \textbf{Regime concentration:} single-window, sports-dominated sample;
+the World Cup is a plausible outlier. (ii) \textbf{Survivorship (partial):} the
+roster starts from today's leaderboard; forward testing reframes but does not
+fully remove pool survivorship (see pre-registration \S8). (iii)
+\textbf{Longshot skew:} returns are right-skewed; we therefore lead with the
+median and hit-rate, never the mean alone. (iv) \textbf{Measurement correction:}
+results depend on the \S\ref{sec:fix} back-fill; both ledgers are retained for
+independent re-derivation. (v) \textbf{Provisional:} per pre-registration v1.3,
+no verdict is final before the pre-committed evaluation point.
+
+\section{Extended-Run Plan (pre-committed)}
+Per PRE\_REGISTRATION v1.3: a single evaluation at the first run on/after
+30 September 2026, requiring $\geq 80$ valid scored trades, reporting the
+criterion overall, sports vs non-sports, and pre- vs post-fix --- fixed in
+advance to avoid optional stopping.
+
+\section{Conclusion}
+\emph{[To write after the extended run.]}
+
+\end{document}

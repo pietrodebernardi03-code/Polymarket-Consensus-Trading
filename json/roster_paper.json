@@ -1,0 +1,470 @@
+{
+  "month": "2026-07",
+  "built": "2026-07-05",
+  "wallets": {
+    "0x204f72f35326db932158cba6adff0b9a1da95e14": {
+      "win_rate": 0.587,
+      "n": 600
+    },
+    "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf": {
+      "win_rate": 0.606,
+      "n": 66
+    },
+    "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563": {
+      "win_rate": 0.615,
+      "n": 600
+    },
+    "0xdc876e6873772d38716fda7f2452a78d426d7ab6": {
+      "win_rate": 0.683,
+      "n": 600
+    },
+    "0x507e52ef684ca2dd91f90a9d26d149dd3288beae": {
+      "win_rate": 0.55,
+      "n": 600
+    },
+    "0x2a2c53bd278c04da9962fcf96490e17f3dfb9bc1": {
+      "win_rate": 0.673,
+      "n": 600
+    },
+    "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e": {
+      "win_rate": 0.942,
+      "n": 600
+    },
+    "0x16b29c50f2439faf627209b2ac0c7bbddaa8a881": {
+      "win_rate": 0.683,
+      "n": 600
+    },
+    "0x9d84ce0306f8551e02efef1680475fc0f1dc1344": {
+      "win_rate": 0.628,
+      "n": 600
+    },
+    "0x17db3fcd93ba12d38382a0cade24b200185c5f6d": {
+      "win_rate": 0.959,
+      "n": 97
+    },
+    "0x5966db1fe50763c9e3c014d756369bad07e1f804": {
+      "win_rate": 0.896,
+      "n": 115
+    },
+    "0x9495425feeb0c250accb89275c97587011b19a27": {
+      "win_rate": 0.633,
+      "n": 600
+    },
+    "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": {
+      "win_rate": 0.976,
+      "n": 287
+    },
+    "0x343d4466dc323b850e5249394894c7381d91456e": {
+      "win_rate": 0.588,
+      "n": 34
+    },
+    "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1": {
+      "win_rate": 0.667,
+      "n": 600
+    },
+    "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73": {
+      "win_rate": 0.597,
+      "n": 600
+    },
+    "0xf0318c32136c2db7fec88b84869aee6a1106c80c": {
+      "win_rate": 0.88,
+      "n": 183
+    },
+    "0x7fb7ad0d194d7123e711e7db6c9d418fac14e33d": {
+      "win_rate": 0.723,
+      "n": 600
+    },
+    "0xa9878e59934ab507f9039bcb917c1bae0451141d": {
+      "win_rate": 0.588,
+      "n": 600
+    },
+    "0x0b9cae2b0dfe7a71c413e0604eaac1c352f87e44": {
+      "win_rate": 0.745,
+      "n": 600
+    },
+    "0x6db568e61e5e3de7d87f831431b673f38ce2e279": {
+      "win_rate": 0.562,
+      "n": 464
+    },
+    "0x0c0e270cf879583d6a0142fc817e05b768d0434e": {
+      "win_rate": 0.62,
+      "n": 600
+    },
+    "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3": {
+      "win_rate": 0.954,
+      "n": 87
+    },
+    "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5": {
+      "win_rate": 0.892,
+      "n": 600
+    },
+    "0x37c1874a60d348903594a96703e0507c518fc53a": {
+      "win_rate": 0.663,
+      "n": 600
+    },
+    "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82": {
+      "win_rate": 0.837,
+      "n": 600
+    },
+    "0x5c3a1a602848565bb16165fcd460b00c3d43020b": {
+      "win_rate": 0.695,
+      "n": 600
+    },
+    "0x212954857f5efc138748c33d032a93bf95974222": {
+      "win_rate": 0.572,
+      "n": 600
+    },
+    "0x000d257d2dc7616feaef4ae0f14600fdf50a758e": {
+      "win_rate": 0.868,
+      "n": 600
+    },
+    "0xb91aeb5accc33a5f9a8615b8ed6b2d352e913987": {
+      "win_rate": 0.609,
+      "n": 138
+    },
+    "0xa6a856a8c8a7f14fd9be6ae11c367c7cbb755009": {
+      "win_rate": 0.605,
+      "n": 600
+    },
+    "0x26437896ed9dfeb2f69765edcafe8fdceaab39ae": {
+      "win_rate": 0.68,
+      "n": 197
+    },
+    "0x85f031d069de300055900c4055c1baeb6bde3f67": {
+      "win_rate": 0.985,
+      "n": 66
+    },
+    "0x876426b52898c295848f56760dd24b55eda2604a": {
+      "win_rate": 0.684,
+      "n": 76
+    },
+    "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
+      "win_rate": 0.635,
+      "n": 600
+    },
+    "0xde7be6d489bce070a959e0cb813128ae659b5f4b": {
+      "win_rate": 0.783,
+      "n": 198
+    },
+    "0xf2f6af4f27ec2dcf4072095ab804016e14cd5817": {
+      "win_rate": 0.822,
+      "n": 600
+    },
+    "0x32ed517a571c01b6e9adecf61ba81ca48ff2f960": {
+      "win_rate": 0.67,
+      "n": 600
+    },
+    "0xbddf61af533ff524d27154e589d2d7a81510c684": {
+      "win_rate": 0.908,
+      "n": 600
+    },
+    "0xd0b4c4c020abdc88ad9a884f999f3d8cff8ffed6": {
+      "win_rate": 0.558,
+      "n": 600
+    },
+    "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b": {
+      "win_rate": 0.622,
+      "n": 600
+    },
+    "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227": {
+      "win_rate": 0.628,
+      "n": 600
+    },
+    "0x6bab41a0dc40d6dd4c1a915b8c01969479fd1292": {
+      "win_rate": 0.617,
+      "n": 600
+    },
+    "0xd1acd3925d895de9aec98ff95f3a30c5279d08d5": {
+      "win_rate": 0.587,
+      "n": 600
+    },
+    "0x31519628fb5e5aa559d4ba27aa1248810b9f0977": {
+      "win_rate": 0.563,
+      "n": 600
+    },
+    "0xe5c8026239919339b988fdb150a7ef4ea196d3e7": {
+      "win_rate": 0.706,
+      "n": 143
+    },
+    "0x83255595ba1fadd2e734cb30a0fb8110301a19cc": {
+      "win_rate": 0.713,
+      "n": 600
+    },
+    "0xe549581668a5751c1972d3ad2d1991d900bd2d54": {
+      "win_rate": 0.986,
+      "n": 71
+    },
+    "0x51393c00184b39182f09a8a62b8549642e69a8db": {
+      "win_rate": 0.74,
+      "n": 600
+    },
+    "0x7ee1b64be7016b0b0234ab6cabcaa689fd18dae8": {
+      "win_rate": 0.561,
+      "n": 66
+    },
+    "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3": {
+      "win_rate": 0.62,
+      "n": 600
+    },
+    "0x1ff26f9f8a048d4f6fb2e4283f32f6ca64d2dbbd": {
+      "win_rate": 0.959,
+      "n": 73
+    },
+    "0x1cc16713196d456f86fa9c7387dd326a7f73b8df": {
+      "win_rate": 0.582,
+      "n": 600
+    },
+    "0x1d8a377c5020f612ce63a0a151970df64baae842": {
+      "win_rate": 0.625,
+      "n": 96
+    },
+    "0x9703676286b93c2eca71ca96e8757104519a69c2": {
+      "win_rate": 0.692,
+      "n": 600
+    },
+    "0xf195721ad850377c96cd634457c70cd9e8308057": {
+      "win_rate": 0.623,
+      "n": 53
+    },
+    "0x6e82b93eb57b01a63027bd0c6d2f3f04934a752c": {
+      "win_rate": 0.883,
+      "n": 600
+    },
+    "0x9b3dcd99eec7fe11602e6534e6302c0f318d7422": {
+      "win_rate": 0.891,
+      "n": 110
+    },
+    "0x8a4c788f043023b8b28a762216d037e9f148532b": {
+      "win_rate": 0.63,
+      "n": 600
+    },
+    "0x67542c3219b37fd1610aad290676ff91cdbfe3bc": {
+      "win_rate": 0.56,
+      "n": 191
+    },
+    "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223": {
+      "win_rate": 0.747,
+      "n": 91
+    },
+    "0x924379a79c64b77ad5816ad362122a5f6228658e": {
+      "win_rate": 0.956,
+      "n": 91
+    },
+    "0xbc1b1e935cf5a06f9378fe2b249338649dc29d59": {
+      "win_rate": 0.987,
+      "n": 78
+    },
+    "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244": {
+      "win_rate": 0.665,
+      "n": 167
+    },
+    "0xe9a6ed2e4d4ee8ce47cd47cac834746dc4cf627b": {
+      "win_rate": 0.98,
+      "n": 50
+    },
+    "0x545129ec7719de8599872cc52850f9f19462616c": {
+      "win_rate": 0.914,
+      "n": 35
+    },
+    "0x65018f9fc473f6e920b8929a375d39c26a461220": {
+      "win_rate": 0.938,
+      "n": 32
+    },
+    "0xa49becb692927d455924583b5e3e5788246f4c40": {
+      "win_rate": 0.805,
+      "n": 600
+    },
+    "0xa6d188fb70c2e2e9ad411c42c02379ed3020286a": {
+      "win_rate": 0.798,
+      "n": 99
+    },
+    "0x7d787c72c8317046fda90814a93c87fc192529a5": {
+      "win_rate": 0.803,
+      "n": 426
+    },
+    "0xfaa2b54347bd9a9f62d6e4bfb2d3180da53de80a": {
+      "win_rate": 0.745,
+      "n": 184
+    },
+    "0xc41d736bded9ed1accd6a44235039266219774fd": {
+      "win_rate": 0.785,
+      "n": 107
+    },
+    "0xa6cd8300ff70129ced69975180609e40a12b2f2c": {
+      "win_rate": 0.978,
+      "n": 45
+    },
+    "0xf1528f12e645462c344799b62b1b421a6a4c64aa": {
+      "win_rate": 0.638,
+      "n": 600
+    },
+    "0x547f2917d51f2e63ab382dcf641d4e0240162937": {
+      "win_rate": 0.707,
+      "n": 41
+    },
+    "0x73bcd24d510ff4e4d5feac6aec763c5511e246ce": {
+      "win_rate": 0.561,
+      "n": 228
+    },
+    "0x37e053beabee77acc15e641dfe8e395b2b2d024e": {
+      "win_rate": 0.703,
+      "n": 600
+    },
+    "0x1465b79bff7992bc703e1aafb3683b1089647072": {
+      "win_rate": 0.891,
+      "n": 55
+    },
+    "0xcf6c5492124794394dd9eac46498a8babbe47e66": {
+      "win_rate": 0.818,
+      "n": 600
+    },
+    "0xe0ac9addc56c19e771a0524f5d172af4d7a476ff": {
+      "win_rate": 0.929,
+      "n": 238
+    },
+    "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
+      "win_rate": 0.59,
+      "n": 600
+    },
+    "0x10a6fadcbacd66330862206f6199b197e3ad4d8b": {
+      "win_rate": 0.723,
+      "n": 600
+    },
+    "0x2dc13c6bda81b202281e796953a7323de675b33c": {
+      "win_rate": 0.692,
+      "n": 156
+    },
+    "0xca97f5464912ba0308bd40c095bea215980849f6": {
+      "win_rate": 0.602,
+      "n": 93
+    },
+    "0x73c5701afdefba2814193168448b2992306b2f80": {
+      "win_rate": 0.74,
+      "n": 600
+    },
+    "0x0224bb9eb0a5c9fd261ac9123a72cbdd5748292a": {
+      "win_rate": 0.593,
+      "n": 600
+    },
+    "0xf0726b6a29afdfd3c193aa5540df16b0175d467a": {
+      "win_rate": 0.66,
+      "n": 53
+    },
+    "0xc660ae71765d0d9eaf5fa8328c1c959841d2bd28": {
+      "win_rate": 0.775,
+      "n": 600
+    },
+    "0x162ca4c5249987872fea1e15c846d7fe80316c47": {
+      "win_rate": 0.776,
+      "n": 85
+    },
+    "0x7650e94d9c2decc455d7e2b9f8af0c0aa319fac1": {
+      "win_rate": 0.841,
+      "n": 170
+    },
+    "0x8a269634753d90783f52c58e5ae9a8b9679e937e": {
+      "win_rate": 0.563,
+      "n": 600
+    },
+    "0x336bf6f91a4619d54f0711a20fe468adf4d71233": {
+      "win_rate": 0.593,
+      "n": 600
+    },
+    "0x8806a6f1a847ba4360599ce0f54ce96167712e83": {
+      "win_rate": 0.75,
+      "n": 340
+    },
+    "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de": {
+      "win_rate": 0.682,
+      "n": 600
+    },
+    "0x36a74fda8204b1e1680b8512613b0b520f7eb6e9": {
+      "win_rate": 0.607,
+      "n": 84
+    },
+    "0xe548376f231af12b4d56aff55a7503a88892a9fe": {
+      "win_rate": 0.9,
+      "n": 40
+    },
+    "0x45721362269008ac5988bec2e5c22ca463af5e86": {
+      "win_rate": 0.662,
+      "n": 139
+    },
+    "0xc29198ad764bd6adaf7bb971a3757a689ece5d74": {
+      "win_rate": 0.59,
+      "n": 600
+    },
+    "0xc57f19fd86e4531560980d1cd73310c9fbfbc909": {
+      "win_rate": 0.636,
+      "n": 55
+    },
+    "0x1a2f67124f12eaa88be0f6683a95abede555647a": {
+      "win_rate": 0.692,
+      "n": 600
+    },
+    "0xd81e5bc01e4a98d0af93d82dc2c542a4c0f9e3d0": {
+      "win_rate": 0.942,
+      "n": 377
+    },
+    "0x122b758a408246a180efeb5ba654e21b553fac59": {
+      "win_rate": 0.637,
+      "n": 281
+    },
+    "0x325f0e5b5afc66ff54102d850f67f0c621304511": {
+      "win_rate": 0.58,
+      "n": 600
+    },
+    "0xc8075693f48668a264b9fa313b47f52712fcc12b": {
+      "win_rate": 0.636,
+      "n": 574
+    },
+    "0x9e86ad1cb29ab0ff1e00c89bf68b8db98d926dfb": {
+      "win_rate": 0.748,
+      "n": 107
+    },
+    "0xf3c73f43afd680a35b4c65af727ebf7a495dc83b": {
+      "win_rate": 0.884,
+      "n": 173
+    },
+    "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1": {
+      "win_rate": 0.622,
+      "n": 600
+    },
+    "0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4": {
+      "win_rate": 0.657,
+      "n": 600
+    },
+    "0x55f544a537f6b9f50a8d27e662c250e93418e2a0": {
+      "win_rate": 0.963,
+      "n": 216
+    },
+    "0x39932ca2b7a1b8ab6cbf0b8f7419261b950ccded": {
+      "win_rate": 0.722,
+      "n": 600
+    },
+    "0x6100acd1f9ebe426750cb5cf7bc89e262beaed95": {
+      "win_rate": 0.929,
+      "n": 85
+    },
+    "0x2e78d7a77df765928de65f17196671fa83f2067e": {
+      "win_rate": 0.787,
+      "n": 371
+    },
+    "0x87da2f16cf98af9b3e2f6ba6d9c4c470815b53d1": {
+      "win_rate": 0.938,
+      "n": 600
+    },
+    "0x3d85d47d2f366dc0f2a21e95404428233bba197f": {
+      "win_rate": 0.821,
+      "n": 56
+    },
+    "0x54525ee78bd513b0bf75f94e560158f6fc35d448": {
+      "win_rate": 0.91,
+      "n": 600
+    },
+    "0xdb83e85ffd22faa4009273034770f96ffc5b1e50": {
+      "win_rate": 0.602,
+      "n": 600
+    }
+  }
+}

@@ -1,0 +1,100 @@
+date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,size_kelly_eur,status,date_closed,exit_price,exit_type,ret,mark_price,last_update
+2026-07-05,0x8054fef9f1b2bbf57dc4fc438b3744c96c0b4d59d128f660cc467fff34a7c3f0,Aryna Sabalenka,Wimbledon WTA: Aryna Sabalenka vs Naomi Osaka,0.695,4,1,158.73,CLOSED,2026-07-06,0.0,resolved_loss,-1.0,0.0,2026-07-06
+2026-07-05,0xa1cb668f44322a8975bdd12276b7c43bd7705b47298cc6d869858e62ead1435c,Chicago White Sox,Chicago White Sox vs. Cleveland Guardians,0.455,2,1,90.09,OPEN,,,,,0.445,2026-07-05
+2026-07-05,0x84f698ac4e21f27dfa51803083f5c115933c13611259e2968e4b2ba06f854912,NC Dinos,KBO: NC Dinos vs. Kia Tigers,0.515,2,1,101.01,OPEN,,,,,0.2055,2026-07-22
+2026-07-05,0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892,Yes,Will Spain win the 2026 FIFA World Cup?,0.1335,11,1,57.05,OPEN,,,,,0.5905,2026-07-19
+2026-07-05,0x2745c38ff0617cb345c1d2df19b4f74ea777508e07411e88eeb6ab3affcda2a2,No,"Will Bitcoin dip to $35,000 by December 31, 2026?",0.885,2,1,250.0,OPEN,,,,,0.905,2026-07-22
+2026-07-05,0xa01d48a973e40770719dab42faf1aeae5da4376d9eca46e77265c7551d1be0f7,Yes,Will Delcy Rodríguez be the leader of Venezuela end of 2026?,0.145,4,1,57.8,OPEN,,,,,0.105,2026-07-22
+2026-07-05,0x5e082f0b57f47a29044aa35b4c5658393122e659d5feae521c06b57cdd7f905c,Yes,Will 1 Fed rate cut happen in 2026?,0.155,2,1,58.48,OPEN,,,,,0.105,2026-07-22
+2026-07-05,0xd1796c09d0d6f876f8580086ae9808ec991784e3a74b25a1830a25de71a78c96,No,Netanyahu out by end of 2026?,0.55,3,1,108.7,OPEN,,,,,0.585,2026-07-22
+2026-07-05,0x6522024c060166830e53a48b0db1cab9296601a8539ab005124db5e4bf50a303,No,Anthropic IPO before 2027?,0.265,2,1,67.11,OPEN,,,,,0.355,2026-07-22
+2026-07-05,0x4167e22670f31e5f93d132f78108f3fae809bd15cadf78983eff096845ed1415,Yes,Ukraine signs peace deal with Russia before 2027?,0.225,2,1,63.69,OPEN,,,,,0.215,2026-07-22
+2026-07-05,0x533aab0d99851ea6dccf14861b8b7bb5026a40a15718769f8cc519d93380b391,Yes,"U.S. agrees to a new trade deal with ""India"" before 2027?",0.245,2,1,65.36,OPEN,,,,,0.215,2026-07-22
+2026-07-05,0xff68b32e6543ae8b44ccb520604b6ea224a1bac071a186fb65f6f40949a758df,Yes, Iran agrees to end enrichment of uranium by December 31?,0.285,2,1,68.97,OPEN,,,,,0.215,2026-07-22
+2026-07-05,0x32e869cb0f7316273417ec79aa94c8a139f8c390ebff8a24150a18753d257f8e,Yes,Will GameStop acquire eBay?,0.135,2,1,57.14,OPEN,,,,,0.135,2026-07-22
+2026-07-05,0x4dc5c13eb9646b10da7d5f079f77ef2480ec5466861ce1cfbc910fabed3d7d0d,Yes,Kash Patel out by December 31?,0.43,3,1,86.21,OPEN,,,,,0.35,2026-07-22
+2026-07-05,0xca0329cd4392d91e39df0702949229573d2415ae4a37b0103d0c6e9d03b8dd44,No,Will Abdul El-Sayed win the 2026 Michigan Democratic Primary?,0.145,2,1,57.8,OPEN,,,,,0.205,2026-07-22
+2026-07-05,0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d,Yes,Will Flávio Bolsonaro win the 2026 Brazilian presidential election?,0.233,2,1,64.35,OPEN,,,,,0.2565,2026-07-22
+2026-07-05,0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21,Yes,Strait of Hormuz traffic returns to normal by July 31?,0.165,2,1,59.17,CLOSED,2026-07-14,0.0,resolved_loss,-1.0,0.0195,2026-07-14
+2026-07-05,0x23667427b34ca1c7144d50540beba9e7ffb608443a84252c194bb8b40919a0cb,No,"US-Iran Final Nuclear Deal by September 30, 2026?",0.715,2,1,169.49,CLOSED,2026-07-08,0.75,sharps_left,0.049,0.76,2026-07-08
+2026-07-05,0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b,Yes,"2026 Balance of Power: R Senate, R House",0.155,3,1,58.48,OPEN,,,,,0.145,2026-07-22
+2026-07-05,0x024b68f77bfc019341ee3db8f57c103334e4b9430bba4746d8c94aafd8b36fee,No,"Will Bitcoin dip to $45,000 by December 31, 2026?",0.645,2,1,136.99,CLOSED,2026-07-18,0.775,sharps_left,0.2016,0.785,2026-07-18
+2026-07-05,0x752fa61c93f16c4b15e85b0bd438d9c684176b0ea7b319a84c8aca34616e8a8c,No,"Will Bitcoin dip to $55,000 by December 31, 2026?",0.305,2,1,70.92,CLOSED,2026-07-14,0.465,sharps_left,0.5246,0.475,2026-07-14
+2026-07-05,0xce3c54c3e773e8b3bf73e4c12af93205b21195d03b9c386e22f274b9acfc2c56,No,"Will Bitcoin dip to $50,000 by December 31, 2026?",0.505,2,1,99.01,CLOSED,2026-07-16,0.665,sharps_left,0.3168,0.675,2026-07-16
+2026-07-05,0xdaa4866bae18be58c5a79d2aeeffd035ec78f1bb49dbd88f72993997778a990f,Yes,"Will Bitcoin reach $100,000 by December 31, 2026?",0.115,2,1,55.87,OPEN,,,,,0.105,2026-07-22
+2026-07-05,0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4,Yes,Will the Democratic Party control the House after the 2026 Midterm elections?,0.845,3,1,250.0,OPEN,,,,,0.855,2026-07-22
+2026-07-05,0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57,Yes,Will Gavin Newsom win the 2028 US Presidential Election?,0.1315,4,1,56.92,OPEN,,,,,0.1305,2026-07-22
+2026-07-05,0xccd02457c87dc4d3d5a1e6d5ec71bdd21f3ef922b61e326f270d6ff0382a7eec,Sinner,Set Handicap: Sinner (-1.5) vs Mochizuki (+1.5),0.91,2,1,250.0,OPEN,,,,,0.9,2026-07-05
+2026-07-05,0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d,Yes,"2026 Balance of Power: D Senate, D House",0.435,3,1,86.96,OPEN,,,,,0.435,2026-07-22
+2026-07-05,0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64,Yes,Will United Russia (ER) gain the most seats in the next Russian parliamentary election?,0.565,3,1,112.36,OPEN,,,,,0.565,2026-07-22
+2026-07-05,0x5328ccb90355de61509485631db102862ec06146c9fd10d101fb9607c4344e03,Yes,Will there be between 11 and 13 earthquakes of magnitude 7.0 or higher worldwide in 2026?,0.23,2,1,64.1,CLOSED,2026-07-09,0.175,sharps_left,-0.2391,0.185,2026-07-09
+2026-07-05,0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139,Yes,Will England reach the 2026 FIFA World Cup final?,0.185,2,1,60.61,CLOSED,2026-07-14,0.535,sharps_left,1.8919,0.545,2026-07-14
+2026-07-05,0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928,Yes,Will the Republican Party control the House after the 2026 Midterm elections?,0.175,2,1,59.88,OPEN,,,,,0.145,2026-07-22
+2026-07-05,0x9198139a69951b7eb4c13e226533c4e4f34e634c019691c6bc326d77d3b2d348,Washington Nationals,Pittsburgh Pirates vs. Washington Nationals,0.585,2,1,117.65,CLOSED,2026-07-06,0.0,resolved_loss,-1.0,0.0,2026-07-06
+2026-07-05,0xcf25ccc8360f3952139fb5e3f14cb9bb0636cb53d0e30e947321ceccab7e9780,No,"Will Ethereum dip to $1,500 by December 31, 2026?",0.3315,2,1,73.69,OPEN,,,,,0.592,2026-07-22
+2026-07-05,0x80b3af88cb991980e8da1ce86b9794a0957f96ec98c29319dd7ba65e9744d82b,No,Fed rate hike in 2026?,0.535,2,1,105.26,OPEN,,,,,0.405,2026-07-22
+2026-07-06,0x9840fe7e15ad16c1f918c0b923f6e5eb770c1fa9c2ce2b37d362bfe8d15190f0,Ashlyn Krueger,Wimbledon WTA: Ashlyn Krueger vs Marta Kostyuk,0.315,5,1,71.94,CLOSED,2026-07-07,0.0,resolved_loss,-1.0,0.0,2026-07-07
+2026-07-06,0xc09537a0976d0927901432859fbb6dfe5d23d1d69bb4e8355253e7b142a44e83,No,Will France win on 2026-07-09?,0.395,2,1,81.3,CLOSED,2026-07-07,0.375,sharps_left,-0.0506,0.385,2026-07-07
+2026-07-06,0xcf8482eb154c9e79b6b7ec3f698164448432494bc532037069bb1f5f8f3d140f,Flavio Cobolli,Wimbledon ATP: Alex de Minaur vs Flavio Cobolli,0.225,2,1,63.69,OPEN,,,,,0.215,2026-07-06
+2026-07-06,0x13063378354efc19bd137751a04fb78e0a7b21dbc1636dcb028d52838f08ae11,Noma Noha Akugue,Bastad: Noma Noha Akugue vs Irene Burillo Escorihuela,0.7752,2,1,212.95,OPEN,,,,,0.7575,2026-07-06
+2026-07-06,0x24c61d77ad48518a1c3a865d65771c7c62526e633cd119d5dc8bc59ba8b6107d,Miriam Bulgaru,Bastad: Miriam Bulgaru vs Valeriya Strakhova,0.735,2,1,181.82,OPEN,,,,,0.725,2026-07-06
+2026-07-06,0x89ab30a18e87b65cfbfce393abbcc2e55543c75c217aec05a5e44f27278c9666,Alexandra Eala,Wimbledon WTA: Jasmine Paolini vs Alexandra Eala,0.605,2,1,123.46,CLOSED,2026-07-07,0.0,resolved_loss,-1.0,0.0,2026-07-07
+2026-07-06,0x07cf19dc78b559bd9aef41b00839d9e5a5637a073e87eb0185ee417db4006447,Elise Mertens,Wimbledon WTA: Marie Bouzkova vs Elise Mertens,0.545,2,1,107.53,OPEN,,,,,0.535,2026-07-06
+2026-07-06,0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f,Yes,Will England win the 2026 FIFA World Cup?,0.1505,11,1,58.17,CLOSED,2026-07-16,0.0,resolved_loss,-1.0,0.0,2026-07-16
+2026-07-06,0x17e6ca6b83b4937b4cd575f2acbbefa194b3d52b62e8af192feae6f1c38da0c1,No,Will Morocco win on 2026-07-09?,0.865,2,1,250.0,CLOSED,2026-07-10,1.0,resolved_win,0.1561,1.0,2026-07-10
+2026-07-06,0xbc0079f0872035a9eccf8920c3ceb807750685c25a5f5dcd8a8a235a34cd7bb0,No,"Will Samuel Alito announce his retirement by September 30, 2026?",0.845,3,1,250.0,OPEN,,,,,0.935,2026-07-22
+2026-07-06,0x903a1387e6414be5529efc8f7757e30371e6698de9d68fa4ce33252009db69ef,No,"Will Bitcoin dip to $30,000 by December 31, 2026?",0.905,2,1,250.0,OPEN,,,,,0.915,2026-07-22
+2026-07-06,0x43c2a58c4c9d57017bd20fbaf8248920c3a50dcad5981aeb5f8fcf3e6edffb9f,Yes,Will Santos FC win on 2026-07-16?,0.255,2,1,66.23,CLOSED,2026-07-14,0.245,sharps_left,-0.0392,0.255,2026-07-14
+2026-07-07,0x4b84a8e08cb3376c9e5be5cc5a37f7073de05cdf0810d2ad3fe745c4760ef3e0,No,Will Norway win on 2026-07-11?,0.775,2,1,212.77,CLOSED,2026-07-14,1.0,resolved_win,0.2903,1.0,2026-07-14
+2026-07-07,0x00a98be91394689188f2979411d033b64ac94e86fd64c8cdec0e47a44b2b5f2a,Marta Kostyuk,Wimbledon WTA: Marta Kostyuk vs Jasmine Paolini,0.7049,2,1,163.88,OPEN,,,,,0.705,2026-07-08
+2026-07-07,0x5a65916bffaf64914bdbfededab08b150d85648b53d1f6d03582cce3bd07b9c2,Diego Dedura-Palomero,Braunschweig: Diego Dedura-Palomero vs Clement Tabur,0.495,3,1,97.09,OPEN,,,,,0.475,2026-07-07
+2026-07-07,0xbe76d109a293ab750050261d7fa2ec77f17df9603e99f31973b07442baa8b273,Guido Justo,Trieste: Guido Justo vs Georgii Kravchenko,0.625,2,1,129.87,OPEN,,,,,0.615,2026-07-07
+2026-07-07,0x644a285bd58c399ab9c9fe8a6dcb35bc9d598d6ac4601b7c416019635f047e9e,Lisa Pigato,Contrexeville: Angela Fita Boluda vs Lisa Pigato,0.6905,2,1,156.49,OPEN,,,,,0.6805,2026-07-07
+2026-07-07,0x508af22a38ad600b6b7526970e26be280e4183731954b575320050735d991fa8,No,Will France reach the Semifinals at the 2026 FIFA World Cup?,0.225,2,1,63.69,OPEN,,,,,0.225,2026-07-09
+2026-07-07,0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66,No,Will Argentina reach the 2026 FIFA World Cup final?,0.635,2,1,133.33,CLOSED,2026-07-10,0.5815,sharps_left,-0.0843,0.5915,2026-07-10
+2026-07-08,0x0f5e01cf1cabb6c49e424f230ca77a2ccd3e1ac63b31ae03ef749ac2bde7fa0e,No,Will England win on 2026-07-11?,0.485,2,1,95.24,CLOSED,2026-07-14,1.0,resolved_win,1.0619,1.0,2026-07-14
+2026-07-08,0xce879a93a2ec2e37b5da3ed2fb3d7d6e703256afa838ac193de14329bb8a8568,Madison Brengle,Newport: Madison Brengle vs Ana Sofia Sanchez,0.885,2,1,250.0,OPEN,,,,,0.875,2026-07-08
+2026-07-08,0xc0aed6d5d893988b4bef5a8242435bbc7c3b45b1e438bcffc9e9bf71d173ae46,Yes,"US-Iran Final Nuclear Deal by August 18, 2026?",0.135,2,1,57.14,CLOSED,2026-07-21,0.0355,sharps_left,-0.737,0.0455,2026-07-21
+2026-07-08,0xdbbbbd6ea71cad296d859aa629497400402ab253a51350bddd5d761dbbad1460,Yes,Will Norway vs. England end in a draw?,0.275,2,1,68.03,OPEN,,,,,0.2612,2026-07-10
+2026-07-09,0xb7abfb57c5e753d61b3f938893096c07b047b6d42c16ee92b6e3b371919288b0,Cleveland Guardians,Cleveland Guardians vs. Minnesota Twins,0.545,2,1,107.53,OPEN,,,,,0.535,2026-07-09
+2026-07-09,0x2f2928298f0b27749912d7a89fa39abda0c21e732724e6cfbb423e09aec8d420,Jacob Fearnley,Newport: Jacob Fearnley vs Mark Lajal,0.635,2,1,133.33,OPEN,,,,,0.625,2026-07-09
+2026-07-09,0x5cf1e28bbfee9ba6342813129b8544ee17ee9b6ecea1d3dc20795fe132e396ab,Niels McDonald,Braunschweig: Niels McDonald vs Martin Krumich,0.495,3,1,97.09,OPEN,,,,,0.485,2026-07-09
+2026-07-09,0xe5522d598794604abed0c7c95a2b1c4b86337105574cdeeaacea5cca91f2c922,Atlanta Braves,Atlanta Braves vs. Pittsburgh Pirates,0.535,2,1,105.26,OPEN,,,,,0.525,2026-07-09
+2026-07-09,0x2fedbf4c599783787d6a001573db07dd92c3293275c6d8a8ea910bfb97333edc,LG Twins,KBO: LG Twins vs. Samsung Lions,0.5749,2,1,114.92,CLOSED,2026-07-10,0.0,resolved_loss,-1.0,0.0,2026-07-10
+2026-07-09,0x191b1bc8f411f34678ba2aacb279b0a3fc1c5c1f6cc5432cd5d5e36aa433d514,Facundo Acosta,Braunschweig: Vilius Gaubas vs Facundo Acosta,0.635,2,1,133.33,OPEN,,,,,0.625,2026-07-09
+2026-07-09,0x136f4e242faeb42f66fa6baf4c192fbfa0b5788ed47a2bf1a3d3a2051b87715a,No,Will the US announce a blockade on Iran by July 31?,0.8,2,1,238.1,CLOSED,2026-07-14,0.0,resolved_loss,-1.0,0.0,2026-07-14
+2026-07-09,0x1e5564c1a2a6839cc2780a889437c63786a2c2ec5e95569b710ee659a3e8baa2,No,"Will Bitcoin dip to $40,000 by December 31, 2026?",0.765,2,1,204.08,CLOSED,2026-07-16,0.845,sharps_left,0.1046,0.855,2026-07-16
+2026-07-09,0x0891e4792a016a079765dd25029639cd731f7dc0bde3d65d6002b2b19dae2777,Switzerland,Argentina vs. Switzerland: Team to Advance,0.275,2,1,68.03,CLOSED,2026-07-14,0.0,resolved_loss,-1.0,0.0,2026-07-14
+2026-07-10,0x528663818f8f40350e20d63acd3dbae9955ddbdd03860019a752c699aa6e5f31,Arthur Fery,Wimbledon ATP: Arthur Fery vs Alexander Zverev,0.155,2,1,58.48,CLOSED,2026-07-14,0.0,resolved_loss,-1.0,0.0,2026-07-14
+2026-07-10,0xd5986eab83b310f42619111912d385f5cfdd8fb39c5dec43758ae2046b86aee4,Lukas Neumayer,Trieste: Lukas Neumayer vs Henri Squire,0.69,2,1,156.25,OPEN,,,,,0.68,2026-07-10
+2026-07-10,0x7b4ddec43a52faf68d507924e88d5cfa4b7c88ff3925410528a0541ae9d17129,Diego Dedura-Palomero,Braunschweig: Jan Choinski vs Diego Dedura-Palomero,0.445,2,1,88.5,CLOSED,2026-07-14,0.0,resolved_loss,-1.0,0.0,2026-07-14
+2026-07-10,0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66,Yes,Will Argentina reach the 2026 FIFA World Cup final?,0.4184,2,1,84.52,CLOSED,2026-07-14,0.4495,sharps_left,0.0743,0.4595,2026-07-14
+2026-07-14,0x2a1c1a8edc28f1a314a64fadddea8b9b9a5de2317c28c22718b99829994116fb,Hugo Dellien,Cordenons: Hugo Dellien vs Ioannis Xilas,0.845,2,1,250.0,OPEN,,,,,0.8375,2026-07-15
+2026-07-14,0x029737e72b5b1661c0f96acb70528cf9a94bb3b2e211d7658f4449414665c03b,Kamaru Usman,"UFC Fight Night: Kamaru Usman vs. Dricus Du Plessis (Middleweight, Main Card)",0.315,2,1,71.94,CLOSED,2026-07-19,0.0,resolved_loss,-1.0,0.0,2026-07-19
+2026-07-14,0x50456e2e7c3255745217051c90241a036a508b2972ffcf6a6eb83779f1934661,No,Will Troy Jackson be the Maine Senate Democratic nominee on July 27?,0.265,2,1,67.11,CLOSED,2026-07-19,0.0,resolved_loss,-1.0,0.0075,2026-07-19
+2026-07-14,0x518df6d694ad4658fe6c284850c029c6f00c9b3609cf05f7757d1fecba1641f8,Yes,US-Iran 60 day negotiation period extended?,0.345,2,1,75.19,OPEN,,,,,0.545,2026-07-22
+2026-07-14,0x752fa61c93f16c4b15e85b0bd438d9c684176b0ea7b319a84c8aca34616e8a8c,Yes,"Will Bitcoin dip to $55,000 by December 31, 2026?",0.535,2,1,105.26,OPEN,,,,,0.445,2026-07-22
+2026-07-14,0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e,Yes,Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?,0.285,3,1,68.97,OPEN,,,,,0.925,2026-07-19
+2026-07-14,0xa37edbac74383987e7b3c4e25360c223207b5f8ffdaaddea7e6e62ab2aa0d56a,No,Will Iran announce withdrawal from MOU negotiations by July 17?,0.74,2,1,185.19,CLOSED,2026-07-17,1.0,resolved_win,0.3514,0.982,2026-07-17
+2026-07-15,0x5fe50c3617f3a7385aaaa076897b60ca9312dfe67252b0581a688af31b7961ca,No,Will the US announce withdrawal from MOU negotiations by July 31?,0.845,2,1,250.0,CLOSED,2026-07-21,0.915,sharps_left,0.0828,0.925,2026-07-21
+2026-07-16,0x1d88092b2e151927cc5fc6a02ae3f84fb0551d2b44c6c5c961bd530d53638f9a,Paula Badosa,Iasi Open: Alevtina Ibragimova vs Paula Badosa,0.855,2,1,250.0,OPEN,,,,,0.845,2026-07-16
+2026-07-16,0x8015c1c5633f488ec6fc7d759aa13621bc3ca1b91f1473e0ba850787f8cc9df4,Panna Udvardy,Iasi Open: Panna Udvardy vs Katarzyna Kawa,0.545,2,1,107.53,OPEN,,,,,0.535,2026-07-16
+2026-07-16,0x3065a37a66dc5d8088593269e04c58c693b6442e9bbda540250f84cbb441b921,Daniel Merida Aguilar,Croatia Open: Daniel Merida Aguilar vs Titouan Droguet,0.605,2,1,123.46,OPEN,,,,,0.595,2026-07-16
+2026-07-16,0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846,No,Will the U.S. invade Iran before 2027?,0.775,7,1,212.77,OPEN,,,,,0.715,2026-07-22
+2026-07-16,0x80ebf0a88a44bf737d4047b3accd7108285c69b84257e5c684bdc4c715c81139,Yes,Will the U.S. invade Cuba in 2026?,0.155,2,1,58.48,OPEN,,,,,0.125,2026-07-22
+2026-07-16,0x3de0f3d7d7efb40cde68e814d40a0b232832083653c8e78260eb999baa967de0,Yes,US strike on Cuba by December 31?,0.325,2,1,72.99,OPEN,,,,,0.325,2026-07-22
+2026-07-17,0x93ef6ecab1a8c9c50d084547f1648bec4de13ea1dd795ee95128320d457b73d3,Raphael Collignon,Swiss Open: Raphael Collignon vs Valentin Vacherot,0.5749,2,1,114.92,OPEN,,,,,0.565,2026-07-17
+2026-07-17,0xc0335c9816ab0bf9b4d493f9fb9f2c31c625181a0d33a3fcd66f329b6952c731,Quentin Halys,Swiss Open: Alexander Bublik vs Quentin Halys,0.3115,6,1,71.58,OPEN,,,,,0.3015,2026-07-17
+2026-07-17,0x056cf5f0999932490946ba2e6521104984dcc0ae04b97e6d2c21fbfa90e6d1cf,Luciano Darderi,Swedish Open: Nuno Borges vs Luciano Darderi,0.5749,2,1,114.92,OPEN,,,,,0.565,2026-07-17
+2026-07-18,0x6c9175f064e6abf866e56adb8f4cd48108db41e33a3785e13ca44b45f88307ae,Raphael Collignon,Swiss Open: Raphael Collignon vs Juan Manuel Cerundolo,0.56,2,1,111.11,OPEN,,,,,0.545,2026-07-18
+2026-07-18,0xd082d41946af85390844de74030abb9ac114acf093cc84fa8454767bb8f418d3,Luciano Darderi,Swedish Open: Adolfo Vallejo vs Luciano Darderi,0.695,2,1,158.73,OPEN,,,,,0.685,2026-07-18
+2026-07-18,0x024b68f77bfc019341ee3db8f57c103334e4b9430bba4746d8c94aafd8b36fee,Yes,"Will Bitcoin dip to $45,000 by December 31, 2026?",0.225,2,1,63.69,CLOSED,2026-07-20,0.215,sharps_left,-0.0444,0.225,2026-07-20
+2026-07-19,0x1768f684378926419bd483f767e4d03e16f1368dd0013bd0c99bc215262f4277,August Holmgren,Granby: Aleksandar Vukic vs August Holmgren,0.325,2,1,72.99,CLOSED,2026-07-20,0.0,resolved_loss,-1.0,0.0,2026-07-20
+2026-07-20,0xce3c54c3e773e8b3bf73e4c12af93205b21195d03b9c386e22f274b9acfc2c56,Yes,"Will Bitcoin dip to $50,000 by December 31, 2026?",0.345,2,1,75.19,CLOSED,2026-07-22,0.305,sharps_left,-0.1159,0.315,2026-07-22
+2026-07-21,0x4580509bd2130de97dc14a002359a70c9ff04d7dc6e637d28d58d1a1d3488ca3,Paula Badosa,Hamburg European Open: Katarzyna Kawa vs Paula Badosa,0.605,3,1,123.46,OPEN,,,,,0.635,2026-07-22
+2026-07-21,0x9d512e915b826e2b89b5acfd08452fee32fc22f4f9405e37ee31044b2473b7c4,Rio Noguchi,Winnipeg: Rio Noguchi vs Braden Shick,0.606,2,1,123.76,OPEN,,,,,0.5715,2026-07-21
+2026-07-21,0xb5a00342b8d5547e3ef04896d928b1438fe1614b40ac813afbcd9a5df235f44f,Nikola Bartunkova,Livesport Prague Open: Nikola Bartunkova vs Yue Yuan,0.755,2,1,196.08,OPEN,,,,,0.745,2026-07-21
+2026-07-22,0xfc20e326d52c24e220a020d6e64a239707b06936e3a5a6c52f559ffab77bba35,Tessa Brockmann,Hamburg European Open: Tessa Brockmann vs Elsa Jacquemot,0.395,3,1,81.3,OPEN,,,,,0.385,2026-07-22
+2026-07-22,0xf330a9c9053053882f094c3cd3dd63984f7a6a32ca94a933eb0094fce730b788,Marie Bouzkova,Livesport Prague Open: Marie Bouzkova vs Carol Young Suh Lee,0.845,2,1,250.0,OPEN,,,,,0.835,2026-07-22
+2026-07-22,0xa6f18041a9e4db4936e9da82108169296ade7b2d7c9f0bcf2aec7402db9bfd3b,Boston Red Sox,Baltimore Orioles vs. Boston Red Sox,0.5749,5,1,114.92,OPEN,,,,,0.565,2026-07-22
+2026-07-22,0x5a9395dae6c7643ea06e7a555580a5526e81073aea9c9306363529c5b76a8f8b,Yes,US x Iran Effective Ceasefire by July 31?,0.195,2,1,61.35,OPEN,,,,,0.185,2026-07-22

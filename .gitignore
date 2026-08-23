@@ -1,0 +1,13 @@
+# Throwaway API response cache (~13k files) — never commit this
+.pmc_cache/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# macOS cruft
+.DS_Store
+
+# Reconstructed gap-fill is a local, non-canonical artifact — keep it out of the
+# audit-proof repo history. Comment this line out if you decide to track it.
+paper_ledger_reconstructed.csv

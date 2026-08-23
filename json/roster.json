@@ -1,0 +1,301 @@
+{
+  "generated_at": "2026-06-29T20:07:43.352771+00:00",
+  "config": {
+    "MIN_RESOLVED_TRADES": 75,
+    "MIN_LIFETIME_PNL": 20000.0,
+    "MIN_WIN_RATE": 0.55,
+    "MIN_ROI": 0.04
+  },
+  "wallets": [
+    {
+      "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+      "resolved_trades": 287,
+      "lifetime_pnl": 2673262.16,
+      "win_rate": 0.976,
+      "roi": 0.513,
+      "best_trade_share": 0.035,
+      "n_positions": 287,
+      "skill": 0.965
+    },
+    {
+      "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
+      "resolved_trades": 300,
+      "lifetime_pnl": 4055583.63,
+      "win_rate": 0.95,
+      "roi": 0.458,
+      "best_trade_share": 0.061,
+      "n_positions": 300,
+      "skill": 0.918
+    },
+    {
+      "wallet": "0x17db3fcd93ba12d38382a0cade24b200185c5f6d",
+      "resolved_trades": 97,
+      "lifetime_pnl": 3133968.2,
+      "win_rate": 0.959,
+      "roi": 0.248,
+      "best_trade_share": 0.228,
+      "n_positions": 97,
+      "skill": 0.733
+    },
+    {
+      "wallet": "0x9b3dcd99eec7fe11602e6534e6302c0f318d7422",
+      "resolved_trades": 110,
+      "lifetime_pnl": 1069068.64,
+      "win_rate": 0.891,
+      "roi": 0.403,
+      "best_trade_share": 0.043,
+      "n_positions": 110,
+      "skill": 0.72
+    },
+    {
+      "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+      "resolved_trades": 300,
+      "lifetime_pnl": 4526176.05,
+      "win_rate": 0.717,
+      "roi": 0.321,
+      "best_trade_share": 0.277,
+      "n_positions": 300,
+      "skill": 0.562
+    },
+    {
+      "wallet": "0x3de4543d599ffb09386aac2eab198a295511b032",
+      "resolved_trades": 106,
+      "lifetime_pnl": 981995.24,
+      "win_rate": 0.66,
+      "roi": 0.477,
+      "best_trade_share": 0.097,
+      "n_positions": 106,
+      "skill": 0.532
+    },
+    {
+      "wallet": "0x7fb7ad0d194d7123e711e7db6c9d418fac14e33d",
+      "resolved_trades": 300,
+      "lifetime_pnl": 2282134.46,
+      "win_rate": 0.733,
+      "roi": 0.279,
+      "best_trade_share": 0.366,
+      "n_positions": 300,
+      "skill": 0.498
+    },
+    {
+      "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+      "resolved_trades": 190,
+      "lifetime_pnl": 1537305.38,
+      "win_rate": 0.774,
+      "roi": 0.255,
+      "best_trade_share": 0.304,
+      "n_positions": 190,
+      "skill": 0.495
+    },
+    {
+      "wallet": "0x5966db1fe50763c9e3c014d756369bad07e1f804",
+      "resolved_trades": 115,
+      "lifetime_pnl": 3044108.69,
+      "win_rate": 0.73,
+      "roi": 0.239,
+      "best_trade_share": 0.089,
+      "n_positions": 115,
+      "skill": 0.48
+    },
+    {
+      "wallet": "0xea2b4224411e723499a803ce3f4758779fb31fc6",
+      "resolved_trades": 300,
+      "lifetime_pnl": 1777295.69,
+      "win_rate": 0.673,
+      "roi": 0.269,
+      "best_trade_share": 0.092,
+      "n_positions": 300,
+      "skill": 0.409
+    },
+    {
+      "wallet": "0x51393c00184b39182f09a8a62b8549642e69a8db",
+      "resolved_trades": 300,
+      "lifetime_pnl": 1263905.09,
+      "win_rate": 0.737,
+      "roi": 0.2,
+      "best_trade_share": 0.184,
+      "n_positions": 300,
+      "skill": 0.396
+    },
+    {
+      "wallet": "0xf2f6af4f27ec2dcf4072095ab804016e14cd5817",
+      "resolved_trades": 300,
+      "lifetime_pnl": 1554930.27,
+      "win_rate": 0.773,
+      "roi": 0.099,
+      "best_trade_share": 0.061,
+      "n_positions": 300,
+      "skill": 0.362
+    },
+    {
+      "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+      "resolved_trades": 300,
+      "lifetime_pnl": 456327.47,
+      "win_rate": 0.607,
+      "roi": 0.396,
+      "best_trade_share": 0.04,
+      "n_positions": 300,
+      "skill": 0.356
+    },
+    {
+      "wallet": "0x16b29c50f2439faf627209b2ac0c7bbddaa8a881",
+      "resolved_trades": 300,
+      "lifetime_pnl": 3648171.81,
+      "win_rate": 0.713,
+      "roi": 0.072,
+      "best_trade_share": 0.319,
+      "n_positions": 300,
+      "skill": 0.332
+    },
+    {
+      "wallet": "0xbddf61af533ff524d27154e589d2d7a81510c684",
+      "resolved_trades": 300,
+      "lifetime_pnl": 1572729.33,
+      "win_rate": 0.74,
+      "roi": 0.101,
+      "best_trade_share": 0.055,
+      "n_positions": 300,
+      "skill": 0.329
+    },
+    {
+      "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+      "resolved_trades": 186,
+      "lifetime_pnl": 647096.46,
+      "win_rate": 0.683,
+      "roi": 0.206,
+      "best_trade_share": 0.043,
+      "n_positions": 186,
+      "skill": 0.299
+    },
+    {
+      "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+      "resolved_trades": 300,
+      "lifetime_pnl": 544943.38,
+      "win_rate": 0.69,
+      "roi": 0.186,
+      "best_trade_share": 0.168,
+      "n_positions": 300,
+      "skill": 0.278
+    },
+    {
+      "wallet": "0xc6587b11a2209e46dfe3928b31c5514a8e33b784",
+      "resolved_trades": 300,
+      "lifetime_pnl": 597819.15,
+      "win_rate": 0.79,
+      "roi": 0.049,
+      "best_trade_share": 0.17,
+      "n_positions": 300,
+      "skill": 0.274
+    },
+    {
+      "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+      "resolved_trades": 300,
+      "lifetime_pnl": 227248.5,
+      "win_rate": 0.697,
+      "roi": 0.226,
+      "best_trade_share": 0.089,
+      "n_positions": 300,
+      "skill": 0.261
+    },
+    {
+      "wallet": "0x26437896ed9dfeb2f69765edcafe8fdceaab39ae",
+      "resolved_trades": 193,
+      "lifetime_pnl": 1678740.93,
+      "win_rate": 0.648,
+      "roi": 0.127,
+      "best_trade_share": 0.175,
+      "n_positions": 193,
+      "skill": 0.258
+    },
+    {
+      "wallet": "0x2b3ff45c91540e46fae1e0c72f61f4b049453446",
+      "resolved_trades": 112,
+      "lifetime_pnl": 1044505.33,
+      "win_rate": 0.679,
+      "roi": 0.122,
+      "best_trade_share": 0.23,
+      "n_positions": 112,
+      "skill": 0.255
+    },
+    {
+      "wallet": "0x3c593aeb73ebdadbc9ce76d4264a6a2af4011766",
+      "resolved_trades": 300,
+      "lifetime_pnl": 223619.21,
+      "win_rate": 0.673,
+      "roi": 0.206,
+      "best_trade_share": 0.183,
+      "n_positions": 300,
+      "skill": 0.217
+    },
+    {
+      "wallet": "0x1cc16713196d456f86fa9c7387dd326a7f73b8df",
+      "resolved_trades": 300,
+      "lifetime_pnl": 1163485.28,
+      "win_rate": 0.64,
+      "roi": 0.102,
+      "best_trade_share": 0.291,
+      "n_positions": 300,
+      "skill": 0.204
+    },
+    {
+      "wallet": "0xb91aeb5accc33a5f9a8615b8ed6b2d352e913987",
+      "resolved_trades": 138,
+      "lifetime_pnl": 1633834.11,
+      "win_rate": 0.609,
+      "roi": 0.105,
+      "best_trade_share": 0.087,
+      "n_positions": 138,
+      "skill": 0.196
+    },
+    {
+      "wallet": "0xb74711992caf6d04fa55eecc46b8efc95311b050",
+      "resolved_trades": 300,
+      "lifetime_pnl": 992969.73,
+      "win_rate": 0.617,
+      "roi": 0.094,
+      "best_trade_share": 0.239,
+      "n_positions": 300,
+      "skill": 0.162
+    },
+    {
+      "wallet": "0xfc0847fe2ea938d6e2624650eb29ef8d8142a137",
+      "resolved_trades": 300,
+      "lifetime_pnl": 342986.87,
+      "win_rate": 0.703,
+      "roi": 0.051,
+      "best_trade_share": 0.163,
+      "n_positions": 300,
+      "skill": 0.146
+    },
+    {
+      "wallet": "0x7d787c72c8317046fda90814a93c87fc192529a5",
+      "resolved_trades": 300,
+      "lifetime_pnl": 254215.92,
+      "win_rate": 0.683,
+      "roi": 0.089,
+      "best_trade_share": 0.286,
+      "n_positions": 300,
+      "skill": 0.138
+    },
+    {
+      "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+      "resolved_trades": 300,
+      "lifetime_pnl": 562741.02,
+      "win_rate": 0.6,
+      "roi": 0.104,
+      "best_trade_share": 0.099,
+      "n_positions": 300,
+      "skill": 0.115
+    },
+    {
+      "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+      "resolved_trades": 119,
+      "lifetime_pnl": 352367.6,
+      "win_rate": 0.613,
+      "roi": 0.041,
+      "best_trade_share": 0.366,
+      "n_positions": 119,
+      "skill": 0.044
+    }
+  ]
+}
