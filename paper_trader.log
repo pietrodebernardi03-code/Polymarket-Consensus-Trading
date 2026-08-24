@@ -1761,3 +1761,32 @@
     ...read 40/146 traders
     ...read 60/146 traders
     ...read 80/146 traders
+=== paper_trader 2026-08-24 (frozen strategy v1.1) ===
+[scan] reading current positions of 146 roster traders...
+    ...read 20/146 traders
+    ...read 40/146 traders
+    ...read 60/146 traders
+    ...read 80/146 traders
+    ...read 100/146 traders
+    ...read 120/146 traders
+    ...read 140/146 traders
+[ENTRY]    No @ 0.905  x2  Will VfB Stuttgart win on 2026-08-28?
+[ENTRY]    No @ 0.545  x2  Will Tianjin Jinmen Hu FC win on 2026-07-12?
+[ENTRY]    No @ 0.545  x2  Will Racing Club de Lens win on 2026-08-29?
+[ENTRY]   Yes @ 0.230  x2  Will the total domestic gross for Spider-Man: Bran
+[ENTRY]    No @ 0.905  x3  Delcy Rodríguez out as leader of Venezuela by Dece
+[ENTRY]    No @ 0.320  x2  Will Bitcoin reach $85,000 by December 31, 2026?
+[ENTRY]   Yes @ 0.757  x3  Will no qualifying diplomatic US-Iran meeting occu
+[ENTRY]    No @ 0.810  x2  Trump tries to fire Lisa Cook by September 30?
+[ENTRY]   Yes @ 0.275  x2  Mojtaba Khamenei seen in public by December 31?
+[ENTRY]    No @ 0.815  x2  Will the price of Ethereum be above $2,600 on Augu
+[ENTRY]    No @ 0.765  x2  Will Bitcoin reach $100,000 by December 31, 2026?
+[EXIT]     No sharps left, entry 0.860 -> 0.875  ret 0.0174
+[RESOLVE]    No entry 0.585 -> 1  ret 0.7094
+[RESOLVE]   Yes entry 0.125 -> 0  ret -1.0
+[RESOLVE] Iga Swiatek entry 0.695 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.705 -> 0.705  ret 0.0
+[report] valid-resolved=101 (40 sub-48h excluded)  hit_rate=0.644  avg_entry_price=0.475  median_ret=+0.360
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +11 entries, 5 closed, 94 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
