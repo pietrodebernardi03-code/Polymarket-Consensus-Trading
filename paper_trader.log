@@ -1790,3 +1790,41 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +11 entries, 5 closed, 94 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-08-25 (frozen strategy v1.1) ===
+[scan] reading current positions of 146 roster traders...
+    ...read 20/146 traders
+    ...read 40/146 traders
+    ...read 60/146 traders
+    ...read 80/146 traders
+    ...read 100/146 traders
+    ...read 120/146 traders
+    ...read 140/146 traders
+[ENTRY] Rio Noguchi @ 0.285  x3  US Open, Qualification ATP: Yunchaokete Bu vs Rio 
+[ENTRY]    No @ 0.665  x2  Will Brentford FC win on 2026-08-30?
+[ENTRY]    No @ 0.365  x2  Will Arsenal FC win on 2026-08-31?
+[ENTRY] Aston Villa FC @ 0.635  x2  Spread: Arsenal FC (-1.5)
+[ENTRY]    No @ 0.245  x2  Will FC Bayern München win on 2026-08-28?
+[ENTRY] Haruka Kaji @ 0.660  x2  ITF W50 Kursumlijska Banja Women: Haruka Kaji vs A
+[ENTRY] Lorenzo Giustino @ 0.115  x2  US Open, Qualification ATP: Lorenzo Giustino vs Gr
+[ENTRY] Laura Samson @ 0.615  x2  US Open, Qualification WTA: Laura Samson vs Tamara
+[ENTRY] Botic van de Zandschulp @ 0.595  x2  Winston-Salem Open: Botic van de Zandschulp vs Ado
+[ENTRY] Michael Mmoh @ 0.435  x3  US Open, Qualification ATP: Henrique Rocha vs Mich
+[ENTRY] Gilles Arnaud Bailly @ 0.435  x2  US Open, Qualification ATP: Timofey Skatov vs Gill
+[ENTRY]    No @ 0.795  x2  Will Hull City AFC win on 2026-08-29?
+[ENTRY] Juan Manuel La Serna @ 0.450  x2  Augsburg: Benjamin Hassan vs Juan Manuel La Serna
+[ENTRY] Daniel Milavsky @ 0.415  x2  US Open, Qualification ATP: Shintaro Mochizuki vs 
+[ENTRY]    No @ 0.815  x2  Will Bitcoin reach $87,500 in August?
+[ENTRY]   Yes @ 0.125  x2  Will Bitcoin dip to $72,500 in August?
+[ENTRY]    No @ 0.896  x2  Will Bitcoin reach $90,000 in August?
+[ENTRY]    No @ 0.900  x2  Will Iran target Jordan by August 31, 2026?
+[ENTRY]    No @ 0.862  x2  Will Solana reach $120 in August?
+[ENTRY]   Yes @ 0.370  x2  Will Anthropic have the highest IPO Market Cap 202
+[RESOLVE]    No entry 0.410 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.815 -> 0.939  ret 0.1521
+[EXIT]     No sharps left, entry 0.905 -> 0.895  ret -0.011
+[EXIT]     No sharps left, entry 0.320 -> 0.245  ret -0.2344
+[EXIT]     No sharps left, entry 0.815 -> 0.745  ret -0.0859
+[report] valid-resolved=102 (40 sub-48h excluded)  hit_rate=0.637  avg_entry_price=0.475  median_ret=+0.360
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +20 entries, 5 closed, 109 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
