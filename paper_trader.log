@@ -1828,3 +1828,51 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +20 entries, 5 closed, 109 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-08-26 (frozen strategy v1.1) ===
+[scan] reading current positions of 146 roster traders...
+    ...read 20/146 traders
+    ...read 40/146 traders
+    ...read 60/146 traders
+    ...read 80/146 traders
+    ...read 100/146 traders
+    ...read 120/146 traders
+    ...read 140/146 traders
+[ENTRY] Nikola Bartunkova @ 0.515  x3  Monterrey Open: Nikola Bartunkova vs Anastasia Pot
+[ENTRY] Under @ 0.435  x2  Tottenham Hotspur FC vs. Newcastle United FC: O/U 
+[ENTRY]    No @ 0.495  x2  Will Chelsea FC win on 2026-08-30?
+[ENTRY] Tahlia Kokkinis @ 0.245  x2  ITF W50 Kursumlijska Banja Women: Lea Boskovic vs 
+[ENTRY]   Yes @ 0.465  x2  Will Club Atlético de Madrid win on 2026-08-29?
+[ENTRY]    No @ 0.695  x2  Will Newcastle United FC win on 2026-08-29?
+[ENTRY]    No @ 0.355  x2  Will Liverpool FC win on 2026-08-29?
+[ENTRY] Hamburger SV @ 0.505  x2  Spread: BV Borussia 09 Dortmund (-1.5)
+[ENTRY] Elena Pridankina @ 0.565  x2  US Open, Qualification WTA: Elena Pridankina vs Re
+[ENTRY] Juan Estevez @ 0.400  x2  Augsburg: Juan Estevez vs Benito Sanchez Martinez
+[ENTRY]    No @ 0.765  x2  Will Chelsea FC vs. Brighton & Hove Albion FC end 
+[ENTRY] Los Angeles Angels @ 0.445  x2  Cleveland Guardians vs. Los Angeles Angels
+[ENTRY] Cincinnati Reds @ 0.495  x2  Cincinnati Reds vs. San Francisco Giants
+[ENTRY]   Yes @ 0.435  x2  Another GTA VI trailer released by August 31?
+[ENTRY]   Yes @ 0.530  x2  Iran-Oman Hormuz Agreement by September 30?
+[ENTRY]    No @ 0.825  x2  Will Solana reach $160 by December 31, 2026?
+[ENTRY]    No @ 0.775  x4  Will WTI Crude Oil (WTI) hit (LOW) $75 in August?
+[ENTRY]    No @ 0.235  x2  Will OpenAI’s Astra model be released by September
+[ENTRY]    No @ 0.905  x2  Will Ethereum dip to $2,200 in August?
+[ENTRY] Boluda @ 0.485  x2  Set Handicap: Watson (-1.5) vs Boluda (+1.5)
+[RESOLVE]   Yes entry 0.484 -> 1  ret 1.067
+[RESOLVE]    No entry 0.845 -> 1  ret 0.1834
+[RESOLVE]    No entry 0.910 -> 1  ret 0.0989
+[RESOLVE]    No entry 0.882 -> 1  ret 0.1331
+[RESOLVE] Rio Noguchi entry 0.285 -> 0  ret -1.0
+[RESOLVE] Haruka Kaji entry 0.660 -> 1  ret 0.5152
+[RESOLVE] Lorenzo Giustino entry 0.115 -> 0  ret -1.0
+[RESOLVE] Laura Samson entry 0.615 -> 0  ret -1.0
+[RESOLVE] Botic van de Zandschulp entry 0.595 -> 1  ret 0.6807
+[RESOLVE] Michael Mmoh entry 0.435 -> 0  ret -1.0
+[RESOLVE] Gilles Arnaud Bailly entry 0.435 -> 0  ret -1.0
+[RESOLVE] Juan Manuel La Serna entry 0.450 -> 1  ret 1.2222
+[RESOLVE] Daniel Milavsky entry 0.415 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.815 -> 0.905  ret 0.1104
+[EXIT]    Yes sharps left, entry 0.370 -> 0.508  ret 0.373
+[report] valid-resolved=106 (49 sub-48h excluded)  hit_rate=0.651  avg_entry_price=0.486  median_ret=+0.360
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +20 entries, 15 closed, 114 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
