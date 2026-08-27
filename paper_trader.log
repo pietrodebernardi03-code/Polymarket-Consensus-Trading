@@ -1876,3 +1876,39 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +20 entries, 15 closed, 114 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-08-27 (frozen strategy v1.1) ===
+[scan] reading current positions of 146 roster traders...
+    ...read 20/146 traders
+    ...read 40/146 traders
+    ...read 60/146 traders
+    ...read 80/146 traders
+    ...read 100/146 traders
+    ...read 120/146 traders
+    ...read 140/146 traders
+[ENTRY]    No @ 0.135  x2  Will Real Madrid CF win on 2026-08-30?
+[ENTRY] Under @ 0.505  x2  Real Madrid CF vs. Málaga CF: O/U 3.5
+[ENTRY]    No @ 0.895  x3  Bitcoin all time high by December 31, 2026?
+[ENTRY]   Yes @ 0.245  x2  US announces end of Iranian blockade by September 
+[ENTRY] New York Mets @ 0.365  x2  Milwaukee Brewers vs. New York Mets
+[ENTRY]    No @ 0.845  x2  UNSC Resolution Endorsing Final U.S.-Iran Deal by 
+[ENTRY]    No @ 0.855  x2  US-Iran Hormuz Agreement by September 30?
+[ENTRY] Pablo Llamas Ruiz @ 0.395  x2  US Open, Qualification ATP: Lloyd Harris vs Pablo 
+[RESOLVE]    No entry 0.365 -> 1  ret 1.7397
+[EXIT]    Yes sharps left, entry 0.290 -> 0.186  ret -0.358
+[RESOLVE]    No entry 0.835 -> 1  ret 0.1976
+[EXIT]  Aston Villa FC sharps left, entry 0.635 -> 0.615  ret -0.0315
+[EXIT]    Yes sharps left, entry 0.125 -> 0.041  ret -0.676
+[RESOLVE] Nikola Bartunkova entry 0.515 -> 1  ret 0.9417
+[EXIT]  Under sharps left, entry 0.435 -> 0.405  ret -0.069
+[RESOLVE] Tahlia Kokkinis entry 0.245 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.465 -> 0.455  ret -0.0215
+[RESOLVE] Elena Pridankina entry 0.565 -> 1  ret 0.7699
+[RESOLVE] Juan Estevez entry 0.400 -> 0  ret -1.0
+[RESOLVE] Los Angeles Angels entry 0.445 -> 0  ret -1.0
+[RESOLVE] Cincinnati Reds entry 0.495 -> 1  ret 1.0202
+[EXIT]     No sharps left, entry 0.905 -> 0.954  ret 0.0536
+[RESOLVE] Boluda entry 0.485 -> 1  ret 1.0619
+[report] valid-resolved=108 (56 sub-48h excluded)  hit_rate=0.657  avg_entry_price=0.488  median_ret=+0.360
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +8 entries, 15 closed, 107 still open
+[check_stuck] WARNING: 3 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
