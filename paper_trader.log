@@ -1912,3 +1912,36 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +8 entries, 15 closed, 107 still open
 [check_stuck] WARNING: 3 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-08-28 (frozen strategy v1.1) ===
+[scan] reading current positions of 146 roster traders...
+    ...read 20/146 traders
+    ...read 40/146 traders
+    ...read 60/146 traders
+    ...read 80/146 traders
+    ...read 100/146 traders
+    ...read 120/146 traders
+    ...read 140/146 traders
+[ENTRY] Casper Ruud @ 0.685  x2  US Open ATP: Juan Manuel Cerundolo vs Casper Ruud
+[ENTRY]   Yes @ 0.465  x2  Will Spider-Man: Brand New Day have the best domes
+[ENTRY]   Yes @ 0.335  x2  Will another country leave OPEC in 2026?
+[ENTRY]    No @ 0.708  x2  Will Bitcoin dip to $75,000 in August?
+[ENTRY]    No @ 0.715  x2  Will Bitcoin dip to $60,000 by December 31, 2026?
+[ENTRY]    No @ 0.505  x2  Will STRC hit $100 by September 30?
+[ENTRY]   Yes @ 0.795  x2  Will Sergio Moro win the Governor of Paraná electi
+[ENTRY]   Yes @ 0.845  x2  Will Flavio Bolsonaro win the most votes in the ne
+[ENTRY]    No @ 0.715  x2  Will GPT-6 be released by September 30, 2026?
+[ENTRY]    No @ 0.340  x2  Will Ethereum dip to $2,400 in August?
+[ENTRY]    No @ 0.864  x2  Will Ethereum dip to $2,300 in August?
+[ENTRY]    No @ 0.840  x2  Will WTI Crude Oil (WTI) hit (HIGH) $100 in Septem
+[ENTRY] Ignacio Buse @ 0.455  x2  Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi
+[RESOLVE]    No entry 0.796 -> 0  ret -1.0
+[RESOLVE]    No entry 0.245 -> 0  ret -1.0
+[RESOLVE]    No entry 0.896 -> 1  ret 0.1161
+[EXIT]     No sharps left, entry 0.355 -> 0.355  ret 0.0
+[EXIT]    Yes sharps left, entry 0.435 -> 0.025  ret -0.9414
+[RESOLVE] New York Mets entry 0.365 -> 0  ret -1.0
+[RESOLVE] Pablo Llamas Ruiz entry 0.395 -> 0  ret -1.0
+[report] valid-resolved=111 (58 sub-48h excluded)  hit_rate=0.649  avg_entry_price=0.493  median_ret=+0.325
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +13 entries, 7 closed, 113 still open
+[check_stuck] WARNING: 6 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
