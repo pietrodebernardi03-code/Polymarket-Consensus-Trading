@@ -1945,3 +1945,36 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +13 entries, 7 closed, 113 still open
 [check_stuck] WARNING: 6 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-08-29 (frozen strategy v1.1) ===
+[scan] reading current positions of 146 roster traders...
+    ...read 20/146 traders
+    ...read 40/146 traders
+    ...read 60/146 traders
+    ...read 80/146 traders
+    ...read 100/146 traders
+    ...read 120/146 traders
+    ...read 140/146 traders
+[ENTRY] Corentin Moutet @ 0.745  x2  US Open ATP: Dane Sweeny vs Corentin Moutet
+[ENTRY]   Yes @ 0.715  x2  Will there be no change in Fed interest rates afte
+[ENTRY]   Yes @ 0.840  x3  Google Maps renames Lake Ontario to "Lake America"
+[ENTRY]    No @ 0.845  x3  Jerome Powell out from Fed Board by December 31?
+[ENTRY]   Yes @ 0.445  x2  US x Iran diplomatic meeting by December 31, 2026?
+[ENTRY]   Yes @ 0.895  x2  Will Flavio Bolsonaro win the most votes in the ne
+[ENTRY]   Yes @ 0.820  x2  Will Flavio Bolsonaro win the most votes in the ne
+[RESOLVE]   Yes entry 0.338 -> 1  ret 1.963
+[RESOLVE]   Yes entry 0.317 -> 0  ret -1.0
+[RESOLVE]   Yes entry 0.115 -> 0  ret -1.0
+[RESOLVE]    No entry 0.825 -> 1  ret 0.2121
+[EXIT]     No sharps left, entry 0.545 -> 0.505  ret -0.0734
+[EXIT]     No sharps left, entry 0.545 -> 0.485  ret -0.1101
+[RESOLVE]   Yes entry 0.230 -> 0  ret -1.0
+[RESOLVE]    No entry 0.900 -> 1  ret 0.1111
+[EXIT]  Hamburger SV sharps left, entry 0.505 -> 0.515  ret 0.0198
+[EXIT]     No sharps left, entry 0.765 -> 0.745  ret -0.0261
+[RESOLVE]    No entry 0.775 -> 1  ret 0.2903
+[EXIT]  Under sharps left, entry 0.505 -> 0.465  ret -0.0792
+[RESOLVE] Ignacio Buse entry 0.455 -> 1  ret 1.1978
+[report] valid-resolved=118 (59 sub-48h excluded)  hit_rate=0.644  avg_entry_price=0.493  median_ret=+0.290
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +7 entries, 13 closed, 107 still open
+[check_stuck] WARNING: 6 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
