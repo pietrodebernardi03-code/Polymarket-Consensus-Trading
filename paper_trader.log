@@ -1978,3 +1978,24 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +7 entries, 13 closed, 107 still open
 [check_stuck] WARNING: 6 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-08-30 (frozen strategy v1.1) ===
+[scan] reading current positions of 146 roster traders...
+    ...read 20/146 traders
+    ...read 40/146 traders
+    ...read 60/146 traders
+    ...read 80/146 traders
+    ...read 100/146 traders
+    ...read 120/146 traders
+    ...read 140/146 traders
+[ENTRY] Enzo Aguiard @ 0.885  x2  Zhangjiagang: Enzo Aguiard vs Jesse Delaney
+[ENTRY] Veronika Erjavec @ 0.155  x2  US Open WTA: Jasmine Paolini vs Veronika Erjavec
+[ENTRY]    No @ 0.405  x2  Will Bitcoin dip to $70,000 by December 31, 2026?
+[RESOLVE]    No entry 0.795 -> 0  ret -1.0
+[RESOLVE]    No entry 0.695 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.340 -> 0.785  ret 1.3088
+[RESOLVE]    No entry 0.864 -> 1  ret 0.1581
+[RESOLVE]   Yes entry 0.840 -> 1  ret 0.1905
+[report] valid-resolved=121 (60 sub-48h excluded)  hit_rate=0.636  avg_entry_price=0.500  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +3 entries, 5 closed, 105 still open
+[check_stuck] WARNING: 5 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
