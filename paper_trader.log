@@ -1999,3 +1999,50 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +3 entries, 5 closed, 105 still open
 [check_stuck] WARNING: 5 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-08-31 (frozen strategy v1.1) ===
+[scan] reading current positions of 146 roster traders...
+    ...read 20/146 traders
+    ...read 40/146 traders
+    ...read 60/146 traders
+    ...read 80/146 traders
+    ...read 100/146 traders
+    ...read 120/146 traders
+    ...read 140/146 traders
+[ENTRY] Arthur Fils @ 0.850  x2  US Open ATP: Stefanos Tsitsipas vs Arthur Fils
+[ENTRY]   Yes @ 0.500  x3  Will Arsenal win the 2026-27 English Premier Leagu
+[ENTRY] Milic @ 0.510  x2  Set Handicap: Milic (-1.5) vs Lazarov (+1.5)
+[ENTRY] Sebastian Gorzny @ 0.239  x2  US Open ATP: Sebastian Gorzny vs Raphael Collignon
+[ENTRY]    No @ 0.750  x2  Masoud Pezeshkian out by December 31?
+[ENTRY]    No @ 0.885  x2  Will Bitcoin reach $110,000 by December 31, 2026?
+[ENTRY]    No @ 0.865  x2  Will Ethereum reach $4,000 by December 31, 2026?
+[ENTRY]    No @ 0.775  x2  Pete Hegseth out as Secretary of Defense by Decemb
+[ENTRY]    No @ 0.650  x2  Will Iran target Qatar by September 15, 2026?
+[ENTRY]   Yes @ 0.590  x2  Will the price of Bitcoin be above $78,000 on Sept
+[ENTRY]   Yes @ 0.605  x2  Will the price of Bitcoin be above $78,000 on Sept
+[ENTRY] Rublev @ 0.510  x2  Set Handicap: Rublev (-1.5) vs Virtanen (+1.5)
+[ENTRY]    No @ 0.655  x2  Lula participates in debate before first round?
+[ENTRY] Cincinnati Reds @ 0.425  x2  San Diego Padres vs. Cincinnati Reds
+[ENTRY]    No @ 0.899  x2  Will WTI Crude Oil (WTI) hit (HIGH) $105 in Septem
+[ENTRY] Federico Cina @ 0.135  x3  US Open ATP: Alex Michelsen vs Federico Cina
+[ENTRY] Mika Petkovic @ 0.175  x2  Porto: Mika Petkovic vs Tiago Torres
+[ENTRY] Cristina Bucsa @ 0.365  x2  US Open WTA: Sara Bejlek vs Cristina Bucsa
+[ENTRY] Aoi Ito @ 0.385  x2  US Open WTA: Aoi Ito vs Oksana Selekhmeteva
+[ENTRY] Osorio @ 0.300  x2  Set Handicap: Sabalenka (-1.5) vs Osorio (+1.5)
+[EXIT]    Yes sharps left, entry 0.350 -> 0.240  ret -0.3143
+[RESOLVE]    No entry 0.655 -> 1  ret 0.5267
+[RESOLVE]   Yes entry 0.745 -> 0  ret -1.0
+[RESOLVE]   Yes entry 0.655 -> 0  ret -1.0
+[RESOLVE]   Yes entry 0.560 -> 0  ret -1.0
+[RESOLVE]    No entry 0.665 -> 1  ret 0.5038
+[RESOLVE]    No entry 0.862 -> 1  ret 0.1608
+[RESOLVE]    No entry 0.495 -> 0  ret -1.0
+[RESOLVE]    No entry 0.135 -> 0  ret -1.0
+[RESOLVE] Casper Ruud entry 0.685 -> 1  ret 0.4599
+[RESOLVE]    No entry 0.708 -> 1  ret 0.4134
+[EXIT]     No sharps left, entry 0.505 -> 0.600  ret 0.1881
+[RESOLVE] Enzo Aguiard entry 0.885 -> 1  ret 0.1299
+[RESOLVE] Veronika Erjavec entry 0.155 -> 0  ret -1.0
+[report] valid-resolved=131 (62 sub-48h excluded)  hit_rate=0.626  avg_entry_price=0.509  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +20 entries, 14 closed, 111 still open
+[check_stuck] WARNING: 2 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
