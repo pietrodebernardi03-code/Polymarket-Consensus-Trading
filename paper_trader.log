@@ -2046,3 +2046,145 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +20 entries, 14 closed, 111 still open
 [check_stuck] WARNING: 2 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-09-01 (frozen strategy v1.1) ===
+[roster] scoring 291 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/291 traders (5 qualify so far)
+    ...checked 40/291 traders (15 qualify so far)
+    ...checked 60/291 traders (25 qualify so far)
+    ...checked 80/291 traders (35 qualify so far)
+    ...checked 100/291 traders (41 qualify so far)
+    ...checked 120/291 traders (54 qualify so far)
+    ...checked 140/291 traders (66 qualify so far)
+    ...checked 160/291 traders (75 qualify so far)
+    ...checked 180/291 traders (85 qualify so far)
+    ...checked 200/291 traders (96 qualify so far)
+    ...checked 220/291 traders (110 qualify so far)
+    ...checked 240/291 traders (120 qualify so far)
+    ...checked 260/291 traders (129 qualify so far)
+    ...checked 280/291 traders (138 qualify so far)
+[roster] built 144 qualified wallets for 2026-09
+[scan] reading current positions of 144 roster traders...
+    ...read 20/144 traders
+    ...read 40/144 traders
+    ...read 60/144 traders
+    ...read 80/144 traders
+    ...read 100/144 traders
+    ...read 120/144 traders
+    ...read 140/144 traders
+[ENTRY] Raul Brancaccio @ 0.495  x5  Como: Raul Brancaccio vs Duje Ajdukovic
+[ENTRY] Jan-Lennard Struff @ 0.675  x2  US Open ATP: Camilo Ugo Carabelli vs Jan-Lennard S
+[ENTRY]   Yes @ 0.530  x4  Will J.D. Vance win the 2028 Republican presidenti
+[ENTRY] Nishesh Basavareddy @ 0.735  x2  US Open ATP: Nishesh Basavareddy vs Tristan School
+[ENTRY] Tampa Bay Rays @ 0.435  x2  Tampa Bay Rays vs. New York Yankees
+[ENTRY] Detroit Tigers @ 0.525  x3  Detroit Tigers vs. Minnesota Twins
+[ENTRY] Jerome Kym @ 0.680  x2  Manacor: Remy Bertola vs Jerome Kym
+[ENTRY]   Yes @ 0.395  x2  Will Max Martin attend Taylor Swift's wedding?
+[ENTRY]    No @ 0.407  x2  Will Anthropic have the highest IPO Market Cap 202
+[ENTRY]   Yes @ 0.495  x3  Will Bitcoin reach $90,000 by December 31, 2026?
+[ENTRY]   Yes @ 0.355  x2  Will Bitcoin reach $95,000 by December 31, 2026?
+[ENTRY]   Yes @ 0.695  x2  Will Bitcoin reach $85,000 by December 31, 2026?
+[ENTRY]    No @ 0.775  x3  Will Bitcoin dip to $74,000 August 31-September 6?
+[ENTRY]   Yes @ 0.115  x2  Will Bitcoin reach $92,500 in September?
+[ENTRY]    No @ 0.405  x2  Will Bitcoin dip to $76,000 August 31-September 6?
+[ENTRY]    No @ 0.905  x2  Will OpenAI's valuation hit (LOW) $600B by Decembe
+[ENTRY]   Yes @ 0.185  x3  Will Marco Rubio win the 2028 Republican president
+[ENTRY]    No @ 0.895  x3  2026 Balance of Power: R Senate, R House
+[ENTRY]   Yes @ 0.365  x2  2026 Balance of Power: R Senate, D House
+[ENTRY]   Yes @ 0.435  x2  Will the price of Bitcoin be above $78,000 on Sept
+[ENTRY]   Yes @ 0.445  x2  Will the price of Bitcoin be above $78,000 on Sept
+[ENTRY]   Yes @ 0.200  x2  Russia x Ukraine ceasefire agreement by December 3
+[ENTRY]   Yes @ 0.116  x2  Will Alexandria Ocasio-Cortez win the 2028 US Pres
+[ENTRY]   Yes @ 0.280  x2  Will Bitcoin outperform Gold in 2026?
+[ENTRY] Cleveland Guardians @ 0.470  x2  Detroit Tigers vs. Cleveland Guardians
+[ENTRY]   Yes @ 0.390  x2  Will SpaceX have the highest IPO Market Cap 2026?
+[ENTRY]    No @ 0.375  x3  Will Hyperliquid reach $100 by December 31, 2026?
+[ENTRY] Michael Page @ 0.625  x2  UFC Fight Night: Michael Page vs. Nursulton Ruzibo
+[ENTRY]   Yes @ 0.485  x2  Will Columbus Crew win on 2026-09-05?
+[ENTRY]    No @ 0.165  x3  Will FC Bayern München win on 2026-09-05?
+[ENTRY] Robin Montgomery @ 0.405  x3  US Open WTA: Maria Sakkari vs Robin Montgomery
+[ENTRY] Reese Brantmeier @ 0.495  x2  US Open WTA: Oleksandra Oliynykova vs Reese Brantm
+[ENTRY]    No @ 0.315  x2  Will Paris Saint-Germain FC win on 2026-09-04?
+[ENTRY]   Yes @ 0.225  x2  Will Oklahoma City Thunder win the 2027 NBA Finals
+[ENTRY]    No @ 0.175  x2  Will Manchester City FC win on 2026-09-05?
+[ENTRY] Under @ 0.495  x2  Elche CF vs. Real Sociedad de Fútbol: O/U 2.5
+[ENTRY] Rafael Jodar @ 0.895  x2  US Open ATP: Rafael Jodar vs Thanasi Kokkinakis
+[ENTRY]   Yes @ 0.585  x2  Will Ethereum reach $2,500 August 31-September 6?
+[ENTRY] Broncos @ 0.445  x2  Broncos vs. Chiefs
+[ENTRY]   Yes @ 0.897  x2  Will Kawhi play for the Toronto Raptors in 2026-27
+[ENTRY]   Yes @ 0.885  x2  Will AfD win the most seats in the 2026 Mecklenbur
+[EXIT]    Yes sharps left, entry 0.155 -> 0.105  ret -0.3226
+[EXIT]    Yes sharps left, entry 0.375 -> 0.340  ret -0.0933
+[EXIT]    Yes sharps left, entry 0.138 -> 0.093  ret -0.32
+[EXIT]     No sharps left, entry 0.835 -> 0.825  ret -0.012
+[EXIT]    Yes sharps left, entry 0.815 -> 0.865  ret 0.0613
+[EXIT]     No sharps left, entry 0.875 -> 0.925  ret 0.0571
+[EXIT]     No sharps left, entry 0.835 -> 0.515  ret -0.3832
+[EXIT]     No sharps left, entry 0.910 -> 0.745  ret -0.1813
+[EXIT]     No sharps left, entry 0.675 -> 0.700  ret 0.037
+[EXIT]     No sharps left, entry 0.657 -> 0.800  ret 0.2167
+[EXIT]     No sharps left, entry 0.895 -> 0.966  ret 0.0788
+[EXIT]    Yes sharps left, entry 0.345 -> 0.180  ret -0.4783
+[EXIT]    Yes sharps left, entry 0.405 -> 0.410  ret 0.0123
+[EXIT]    Yes sharps left, entry 0.185 -> 0.370  ret 1.0
+[EXIT]    Yes sharps left, entry 0.880 -> 0.195  ret -0.7784
+[EXIT]    Yes sharps left, entry 0.545 -> 0.095  ret -0.8257
+[EXIT]    Yes sharps left, entry 0.715 -> 0.860  ret 0.2028
+[EXIT]     No sharps left, entry 0.850 -> 0.505  ret -0.4059
+[EXIT]     No sharps left, entry 0.910 -> 0.951  ret 0.0451
+[EXIT]     No sharps left, entry 0.705 -> 0.830  ret 0.1773
+[EXIT]    Yes sharps left, entry 0.735 -> 0.745  ret 0.0136
+[EXIT]     No sharps left, entry 0.695 -> 0.665  ret -0.0432
+[EXIT]    Yes sharps left, entry 0.185 -> 0.045  ret -0.7568
+[EXIT]    Yes sharps left, entry 0.595 -> 0.685  ret 0.1513
+[EXIT]     No sharps left, entry 0.485 -> 0.585  ret 0.2062
+[EXIT]    Yes sharps left, entry 0.445 -> 0.485  ret 0.0899
+[EXIT]     No sharps left, entry 0.465 -> 0.355  ret -0.2366
+[EXIT]    Yes sharps left, entry 0.695 -> 0.655  ret -0.0576
+[EXIT]     No sharps left, entry 0.374 -> 0.349  ret -0.0668
+[EXIT]     No sharps left, entry 0.675 -> 0.425  ret -0.3704
+[EXIT]    Yes sharps left, entry 0.425 -> 0.120  ret -0.7176
+[EXIT]     No sharps left, entry 0.685 -> 0.660  ret -0.0365
+[EXIT]     No sharps left, entry 0.785 -> 0.915  ret 0.1656
+[EXIT]    Yes sharps left, entry 0.740 -> 0.840  ret 0.1351
+[EXIT]     No sharps left, entry 0.515 -> 0.780  ret 0.5146
+[RESOLVE]    No entry 0.514 -> 1  ret 0.9455
+[EXIT]    Yes sharps left, entry 0.757 -> 0.873  ret 0.1525
+[EXIT]     No sharps left, entry 0.810 -> 0.780  ret -0.037
+[EXIT]    Yes sharps left, entry 0.275 -> 0.205  ret -0.2545
+[RESOLVE]    No entry 0.365 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.530 -> 0.250  ret -0.5283
+[EXIT]     No sharps left, entry 0.235 -> 0.149  ret -0.3652
+[EXIT]    Yes sharps left, entry 0.245 -> 0.155  ret -0.3673
+[EXIT]     No sharps left, entry 0.845 -> 0.825  ret -0.0237
+[EXIT]     No sharps left, entry 0.855 -> 0.925  ret 0.0819
+[EXIT]    Yes sharps left, entry 0.465 -> 0.445  ret -0.043
+[EXIT]     No sharps left, entry 0.715 -> 0.725  ret 0.014
+[EXIT]    Yes sharps left, entry 0.795 -> 0.800  ret 0.0063
+[EXIT]    Yes sharps left, entry 0.845 -> 0.785  ret -0.071
+[EXIT]     No sharps left, entry 0.715 -> 0.535  ret -0.2517
+[EXIT]     No sharps left, entry 0.840 -> 0.750  ret -0.1071
+[EXIT]    Yes sharps left, entry 0.715 -> 0.695  ret -0.028
+[EXIT]     No sharps left, entry 0.845 -> 0.825  ret -0.0237
+[EXIT]    Yes sharps left, entry 0.445 -> 0.400  ret -0.1011
+[EXIT]    Yes sharps left, entry 0.895 -> 0.910  ret 0.0168
+[EXIT]    Yes sharps left, entry 0.820 -> 0.800  ret -0.0244
+[EXIT]     No sharps left, entry 0.405 -> 0.410  ret 0.0123
+[RESOLVE] Arthur Fils entry 0.850 -> 0  ret -1.0
+[RESOLVE] Milic entry 0.510 -> 0  ret -1.0
+[RESOLVE] Sebastian Gorzny entry 0.239 -> 1  ret 3.1754
+[EXIT]     No sharps left, entry 0.750 -> 0.750  ret 0.0
+[EXIT]     No sharps left, entry 0.775 -> 0.725  ret -0.0645
+[EXIT]     No sharps left, entry 0.650 -> 0.740  ret 0.1385
+[RESOLVE] Rublev entry 0.510 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.655 -> 0.585  ret -0.1069
+[RESOLVE] Cincinnati Reds entry 0.425 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.899 -> 0.904  ret 0.0056
+[RESOLVE] Federico Cina entry 0.135 -> 0  ret -1.0
+[RESOLVE] Mika Petkovic entry 0.175 -> 1  ret 4.7143
+[RESOLVE] Cristina Bucsa entry 0.365 -> 1  ret 1.7397
+[RESOLVE] Aoi Ito entry 0.385 -> 0  ret -1.0
+[RESOLVE] Osorio entry 0.300 -> 0  ret -1.0
+[report] valid-resolved=133 (72 sub-48h excluded)  hit_rate=0.624  avg_entry_price=0.508  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +41 entries, 72 closed, 80 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
