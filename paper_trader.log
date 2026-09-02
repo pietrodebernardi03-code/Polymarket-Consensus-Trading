@@ -2188,3 +2188,91 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +41 entries, 72 closed, 80 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-09-02 (frozen strategy v1.1) ===
+[roster] scoring 292 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/292 traders (4 qualify so far)
+    ...checked 40/292 traders (14 qualify so far)
+    ...checked 60/292 traders (25 qualify so far)
+    ...checked 80/292 traders (35 qualify so far)
+    ...checked 100/292 traders (42 qualify so far)
+    ...checked 120/292 traders (54 qualify so far)
+    ...checked 140/292 traders (65 qualify so far)
+    ...checked 160/292 traders (75 qualify so far)
+    ...checked 180/292 traders (81 qualify so far)
+    ...checked 200/292 traders (98 qualify so far)
+    ...checked 220/292 traders (104 qualify so far)
+    ...checked 240/292 traders (117 qualify so far)
+    ...checked 260/292 traders (126 qualify so far)
+    ...checked 280/292 traders (136 qualify so far)
+[roster] built 146 qualified wallets for 2026-09
+[scan] reading current positions of 146 roster traders...
+    ...read 20/146 traders
+    ...read 40/146 traders
+    ...read 60/146 traders
+    ...read 80/146 traders
+    ...read 100/146 traders
+    ...read 120/146 traders
+    ...read 140/146 traders
+[ENTRY]    No @ 0.455  x2  Will The Odyssey win Best Picture at the 99th Acad
+[ENTRY]    No @ 0.745  x2  Will Matt Damon win Best Actor at the 99th Academy
+[ENTRY]    No @ 0.835  x2  Callum Turner announced as next James Bond?
+[ENTRY] Jelena Ostapenko @ 0.525  x3  US Open WTA: Tatjana Maria vs Jelena Ostapenko
+[ENTRY] Nippon Ham Fighters @ 0.530  x2  Nippon Ham Fighters vs. Fukuoka SoftBank Hawks
+[ENTRY]    No @ 0.200  x2  Will Bitcoin dip to $75,000 in September?
+[ENTRY]    No @ 0.573  x2  Will Bitcoin reach $82,500 in September?
+[ENTRY]   Yes @ 0.660  x2  Will Bitcoin reach $80,000 in September?
+[ENTRY]    No @ 0.665  x2  Will Bitcoin dip to $70,000 in September?
+[ENTRY]    No @ 0.875  x2  Will Bitcoin dip to $65,000 in September?
+[ENTRY]    No @ 0.825  x2  Will Bitcoin reach $87,500 in September?
+[ENTRY]    No @ 0.875  x2  Will Bitcoin reach $90,000 in September?
+[ENTRY] Brandon Nakashima @ 0.685  x2  US Open ATP: Brandon Nakashima vs Alex Michelsen
+[ENTRY] Alex Molcan @ 0.335  x3  US Open ATP: Alex Molcan vs Benjamin Bonzi
+[ENTRY]    No @ 0.715  x2  Will Bitcoin reach $95,000 by December 31, 2026?
+[EXIT]    Yes sharps left, entry 0.175 -> 0.105  ret -0.4
+[EXIT]    Yes sharps left, entry 0.455 -> 0.505  ret 0.1099
+[EXIT]     No sharps left, entry 0.815 -> 0.905  ret 0.1104
+[EXIT]     No sharps left, entry 0.795 -> 0.855  ret 0.0755
+[EXIT]    Yes sharps left, entry 0.159 -> 0.152  ret -0.0379
+[EXIT]     No sharps left, entry 0.535 -> 0.495  ret -0.0748
+[EXIT]    Yes sharps left, entry 0.905 -> 0.955  ret 0.0547
+[EXIT]     No sharps left, entry 0.850 -> 0.845  ret -0.0059
+[EXIT]     No sharps left, entry 0.880 -> 0.925  ret 0.0511
+[EXIT]    Yes sharps left, entry 0.115 -> 0.095  ret -0.1739
+[EXIT]     No sharps left, entry 0.310 -> 0.365  ret 0.1774
+[EXIT]    Yes sharps left, entry 0.335 -> 0.375  ret 0.1194
+[RESOLVE] Corentin Moutet entry 0.745 -> 0  ret -1.0
+[RESOLVE] Raul Brancaccio entry 0.495 -> 0  ret -1.0
+[RESOLVE] Jan-Lennard Struff entry 0.675 -> 1  ret 0.4815
+[RESOLVE] Nishesh Basavareddy entry 0.735 -> 0  ret -1.0
+[EXIT]  Tampa Bay Rays sharps left, entry 0.435 -> 0.415  ret -0.046
+[RESOLVE] Detroit Tigers entry 0.525 -> 0  ret -1.0
+[RESOLVE] Jerome Kym entry 0.680 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.395 -> 0.438  ret 0.1076
+[EXIT]    Yes sharps left, entry 0.355 -> 0.285  ret -0.1972
+[EXIT]    Yes sharps left, entry 0.695 -> 0.585  ret -0.1583
+[EXIT]    Yes sharps left, entry 0.115 -> 0.055  ret -0.5217
+[EXIT]     No sharps left, entry 0.895 -> 0.885  ret -0.0112
+[EXIT]    Yes sharps left, entry 0.365 -> 0.345  ret -0.0548
+[EXIT]    Yes sharps left, entry 0.435 -> 0.270  ret -0.3793
+[EXIT]    Yes sharps left, entry 0.200 -> 0.155  ret -0.225
+[EXIT]    Yes sharps left, entry 0.116 -> 0.099  ret -0.1472
+[EXIT]    Yes sharps left, entry 0.280 -> 0.235  ret -0.1607
+[EXIT]  Cleveland Guardians sharps left, entry 0.470 -> 0.535  ret 0.1383
+[EXIT]  Michael Page sharps left, entry 0.625 -> 0.595  ret -0.048
+[EXIT]    Yes sharps left, entry 0.485 -> 0.455  ret -0.0619
+[EXIT]     No sharps left, entry 0.165 -> 0.140  ret -0.1515
+[RESOLVE] Robin Montgomery entry 0.405 -> 0  ret -1.0
+[RESOLVE] Reese Brantmeier entry 0.495 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.315 -> 0.295  ret -0.0635
+[EXIT]    Yes sharps left, entry 0.225 -> 0.205  ret -0.0889
+[EXIT]     No sharps left, entry 0.175 -> 0.155  ret -0.1143
+[EXIT]  Under sharps left, entry 0.495 -> 0.465  ret -0.0606
+[RESOLVE] Rafael Jodar entry 0.895 -> 1  ret 0.1173
+[EXIT]    Yes sharps left, entry 0.585 -> 0.215  ret -0.6325
+[EXIT]  Broncos sharps left, entry 0.445 -> 0.425  ret -0.0449
+[EXIT]    Yes sharps left, entry 0.897 -> 0.864  ret -0.0373
+[EXIT]    Yes sharps left, entry 0.885 -> 0.925  ret 0.0452
+[report] valid-resolved=134 (80 sub-48h excluded)  hit_rate=0.619  avg_entry_price=0.510  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +15 entries, 44 closed, 51 still open
+[check_stuck] clean — every open position is being refreshed.
