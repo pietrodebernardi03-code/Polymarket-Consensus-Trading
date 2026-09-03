@@ -2276,3 +2276,60 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +15 entries, 44 closed, 51 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-03 (frozen strategy v1.1) ===
+[roster] scoring 291 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/291 traders (4 qualify so far)
+    ...checked 40/291 traders (13 qualify so far)
+    ...checked 60/291 traders (26 qualify so far)
+    ...checked 80/291 traders (35 qualify so far)
+    ...checked 100/291 traders (42 qualify so far)
+    ...checked 120/291 traders (54 qualify so far)
+    ...checked 140/291 traders (65 qualify so far)
+    ...checked 160/291 traders (73 qualify so far)
+    ...checked 180/291 traders (81 qualify so far)
+    ...checked 200/291 traders (94 qualify so far)
+    ...checked 220/291 traders (109 qualify so far)
+    ...checked 240/291 traders (120 qualify so far)
+    ...checked 260/291 traders (129 qualify so far)
+    ...checked 280/291 traders (140 qualify so far)
+[roster] built 148 qualified wallets for 2026-09
+[scan] reading current positions of 148 roster traders...
+    ...read 20/148 traders
+    ...read 40/148 traders
+    ...read 60/148 traders
+    ...read 80/148 traders
+    ...read 100/148 traders
+    ...read 120/148 traders
+    ...read 140/148 traders
+[ENTRY] Alejandro Moro Canas @ 0.655  x4  Porto: Alejandro Moro Canas vs Marco Cecchinato
+[ENTRY]   Yes @ 0.160  x2  Will Lamine Yamal win the 2026 Ballon d'Or?
+[ENTRY] Chicago White Sox @ 0.405  x2  Chicago White Sox vs. Houston Astros
+[ENTRY] Kilian Feldbausch @ 0.705  x2  Como: Andrej Nedic vs Kilian Feldbausch
+[ENTRY]   Yes @ 0.843  x4  Will Mojtaba Khamenei be head of state in Iran end
+[ENTRY]    No @ 0.605  x2  Will Bitcoin reach $85,000 in September?
+[ENTRY]    No @ 0.850  x2  Will Solana reach $110 August 31-September 6?
+[ENTRY] Francisco Cerundolo @ 0.605  x2  US Open ATP: Jan-Lennard Struff vs Francisco Cerun
+[ENTRY] Alexei Popyrin @ 0.405  x2  US Open ATP: Alexei Popyrin vs Alejandro Tabilo
+[ENTRY] Dalibor Svrcina @ 0.445  x2  US Open ATP: Luciano Darderi vs Dalibor Svrcina
+[ENTRY] Maria Sakkari @ 0.635  x2  US Open WTA: Maria Sakkari vs Yulia Starodubtseva
+[ENTRY] Quentin Halys @ 0.165  x2  US Open ATP: Alexander Zverev vs Quentin Halys
+[ENTRY] Elena Rybakina @ 0.845  x2  US Open WTA: Jessica Bouzas Maneiro vs Elena Rybak
+[ENTRY] Gael Monfils @ 0.185  x2  US Open ATP: Gael Monfils vs Learner Tien
+[ENTRY] Qinwen Zheng @ 0.715  x2  US Open WTA: Qinwen Zheng vs Yulia Putintseva
+[EXIT]    Yes sharps left, entry 0.137 -> 0.190  ret 0.3883
+[EXIT]    Yes sharps left, entry 0.202 -> 0.132  ret -0.3474
+[EXIT]    Yes sharps left, entry 0.325 -> 0.285  ret -0.1231
+[EXIT]     No sharps left, entry 0.407 -> 0.392  ret -0.038
+[EXIT]    Yes sharps left, entry 0.495 -> 0.475  ret -0.0404
+[EXIT]     No sharps left, entry 0.905 -> 0.890  ret -0.0166
+[EXIT]    Yes sharps left, entry 0.185 -> 0.165  ret -0.1132
+[EXIT]    Yes sharps left, entry 0.390 -> 0.380  ret -0.0256
+[EXIT]     No sharps left, entry 0.375 -> 0.405  ret 0.08
+[RESOLVE] Jelena Ostapenko entry 0.525 -> 0  ret -1.0
+[RESOLVE] Nippon Ham Fighters entry 0.530 -> 1  ret 0.8868
+[RESOLVE] Brandon Nakashima entry 0.685 -> 0  ret -1.0
+[RESOLVE] Alex Molcan entry 0.335 -> 0  ret -1.0
+[report] valid-resolved=134 (84 sub-48h excluded)  hit_rate=0.619  avg_entry_price=0.510  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +15 entries, 13 closed, 53 still open
+[check_stuck] clean — every open position is being refreshed.
