@@ -2333,3 +2333,78 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +15 entries, 13 closed, 53 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-04 (frozen strategy v1.1) ===
+[roster] scoring 282 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/282 traders (3 qualify so far)
+    ...checked 40/282 traders (12 qualify so far)
+    ...checked 60/282 traders (25 qualify so far)
+    ...checked 80/282 traders (34 qualify so far)
+    ...checked 100/282 traders (41 qualify so far)
+    ...checked 120/282 traders (53 qualify so far)
+    ...checked 140/282 traders (64 qualify so far)
+    ...checked 160/282 traders (75 qualify so far)
+    ...checked 180/282 traders (80 qualify so far)
+    ...checked 200/282 traders (94 qualify so far)
+    ...checked 220/282 traders (102 qualify so far)
+    ...checked 240/282 traders (114 qualify so far)
+    ...checked 260/282 traders (130 qualify so far)
+    ...checked 280/282 traders (141 qualify so far)
+[roster] built 143 qualified wallets for 2026-09
+[scan] reading current positions of 143 roster traders...
+    ...read 20/143 traders
+    ...read 40/143 traders
+    ...read 60/143 traders
+    ...read 80/143 traders
+    ...read 100/143 traders
+    ...read 120/143 traders
+    ...read 140/143 traders
+[ENTRY] Jiri Lehecka @ 0.635  x2  US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas
+[ENTRY]    No @ 0.385  x2  Israel x Iran ceasefire continues through December
+[ENTRY]    No @ 0.845  x2  Will Barcelona win the 2026-27 UEFA Champions Leag
+[ENTRY]   Yes @ 0.115  x2  Will the Carolina Hurricanes be named the 2026-27 
+[ENTRY]   Yes @ 0.142  x2  Will the season series between the Cardinals and S
+[ENTRY]    No @ 0.460  x2  Will Josh Allen have 3,599.5+ passing yards in the
+[ENTRY]   Yes @ 0.252  x2  Will the season series between the Cardinals and 4
+[ENTRY]   Yes @ 0.405  x2  Will Los Angeles Dodgers win the 2026 National Lea
+[ENTRY]   Yes @ 0.125  x4  US-Iran Final Nuclear Deal by December 31, 2026?
+[ENTRY]    No @ 0.670  x2  Will Bitcoin dip to $65,000 by December 31, 2026?
+[ENTRY]    No @ 0.245  x2  Will Bitcoin dip to $75,000 by December 31, 2026?
+[ENTRY] Denis Shapovalov @ 0.225  x2  US Open ATP: Ben Shelton vs Denis Shapovalov
+[ENTRY] Mariano Navone @ 0.505  x2  US Open ATP: Tomas Etcheverry vs Mariano Navone
+[ENTRY]   Yes @ 0.460  x2  Will the Bengals win the season series against the
+[ENTRY] Marta Kostyuk @ 0.755  x2  US Open WTA: Marta Kostyuk vs Ekaterina Alexandrov
+[EXIT]     No sharps left, entry 0.860 -> 0.920  ret 0.0698
+[EXIT]     No sharps left, entry 0.825 -> 0.805  ret -0.0242
+[EXIT]     No sharps left, entry 0.865 -> 0.830  ret -0.0405
+[EXIT]    Yes sharps left, entry 0.590 -> 0.772  ret 0.3085
+[RESOLVE]   Yes entry 0.605 -> 1  ret 0.6529
+[EXIT]     No sharps left, entry 0.775 -> 0.963  ret 0.2419
+[EXIT]    Yes sharps left, entry 0.445 -> 0.795  ret 0.7876
+[EXIT]     No sharps left, entry 0.455 -> 0.455  ret 0.0
+[EXIT]     No sharps left, entry 0.745 -> 0.725  ret -0.0268
+[EXIT]     No sharps left, entry 0.835 -> 0.825  ret -0.012
+[EXIT]     No sharps left, entry 0.200 -> 0.415  ret 1.075
+[EXIT]     No sharps left, entry 0.573 -> 0.305  ret -0.4672
+[RESOLVE]   Yes entry 0.660 -> 1  ret 0.5152
+[EXIT]     No sharps left, entry 0.665 -> 0.775  ret 0.1654
+[EXIT]     No sharps left, entry 0.875 -> 0.895  ret 0.0229
+[EXIT]     No sharps left, entry 0.825 -> 0.655  ret -0.2061
+[EXIT]     No sharps left, entry 0.875 -> 0.785  ret -0.1029
+[EXIT]     No sharps left, entry 0.715 -> 0.605  ret -0.1538
+[RESOLVE] Alejandro Moro Canas entry 0.655 -> 1  ret 0.5267
+[RESOLVE] Chicago White Sox entry 0.405 -> 0  ret -1.0
+[RESOLVE] Kilian Feldbausch entry 0.705 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.605 -> 0.505  ret -0.1653
+[EXIT]     No sharps left, entry 0.850 -> 0.885  ret 0.0412
+[RESOLVE] Francisco Cerundolo entry 0.605 -> 1  ret 0.6529
+[RESOLVE] Alexei Popyrin entry 0.405 -> 0  ret -1.0
+[RESOLVE] Dalibor Svrcina entry 0.445 -> 0  ret -1.0
+[RESOLVE] Maria Sakkari entry 0.635 -> 0  ret -1.0
+[RESOLVE] Quentin Halys entry 0.165 -> 0  ret -1.0
+[RESOLVE] Elena Rybakina entry 0.845 -> 1  ret 0.1834
+[RESOLVE] Gael Monfils entry 0.185 -> 0  ret -1.0
+[RESOLVE] Qinwen Zheng entry 0.715 -> 1  ret 0.3986
+[report] valid-resolved=136 (95 sub-48h excluded)  hit_rate=0.625  avg_entry_price=0.512  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +15 entries, 31 closed, 37 still open
+[check_stuck] clean — every open position is being refreshed.

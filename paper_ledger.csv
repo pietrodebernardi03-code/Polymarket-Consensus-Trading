@@ -22,11 +22,11 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-07-05,0x752fa61c93f16c4b15e85b0bd438d9c684176b0ea7b319a84c8aca34616e8a8c,No,"Will Bitcoin dip to $55,000 by December 31, 2026?",0.305,2,1,70.92,CLOSED,2026-07-14,0.465,sharps_left,0.5246,0.475,2026-07-14
 2026-07-05,0xce3c54c3e773e8b3bf73e4c12af93205b21195d03b9c386e22f274b9acfc2c56,No,"Will Bitcoin dip to $50,000 by December 31, 2026?",0.505,2,1,99.01,CLOSED,2026-07-16,0.665,sharps_left,0.3168,0.675,2026-07-16
 2026-07-05,0xdaa4866bae18be58c5a79d2aeeffd035ec78f1bb49dbd88f72993997778a990f,Yes,"Will Bitcoin reach $100,000 by December 31, 2026?",0.115,2,1,55.87,CLOSED,2026-07-28,0.085,sharps_left,-0.2609,0.095,2026-07-28
-2026-07-05,0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4,Yes,Will the Democratic Party control the House after the 2026 Midterm elections?,0.845,3,1,250.0,OPEN,,,,,0.895,2026-09-03
-2026-07-05,0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57,Yes,Will Gavin Newsom win the 2028 US Presidential Election?,0.1315,4,1,56.92,OPEN,,,,,0.0855,2026-09-03
+2026-07-05,0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4,Yes,Will the Democratic Party control the House after the 2026 Midterm elections?,0.845,3,1,250.0,OPEN,,,,,0.895,2026-09-04
+2026-07-05,0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57,Yes,Will Gavin Newsom win the 2028 US Presidential Election?,0.1315,4,1,56.92,OPEN,,,,,0.0855,2026-09-04
 2026-07-05,0xccd02457c87dc4d3d5a1e6d5ec71bdd21f3ef922b61e326f270d6ff0382a7eec,Sinner,Set Handicap: Sinner (-1.5) vs Mochizuki (+1.5),0.91,2,1,250.0,CLOSED,2026-07-11,1.0,resolved_win,0.0989,1.0,2026-07-22
-2026-07-05,0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d,Yes,"2026 Balance of Power: D Senate, D House",0.435,3,1,86.96,OPEN,,,,,0.505,2026-09-03
-2026-07-05,0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64,Yes,Will United Russia (ER) gain the most seats in the next Russian parliamentary election?,0.565,3,1,112.36,OPEN,,,,,0.705,2026-09-03
+2026-07-05,0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d,Yes,"2026 Balance of Power: D Senate, D House",0.435,3,1,86.96,OPEN,,,,,0.495,2026-09-04
+2026-07-05,0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64,Yes,Will United Russia (ER) gain the most seats in the next Russian parliamentary election?,0.565,3,1,112.36,OPEN,,,,,0.695,2026-09-04
 2026-07-05,0x5328ccb90355de61509485631db102862ec06146c9fd10d101fb9607c4344e03,Yes,Will there be between 11 and 13 earthquakes of magnitude 7.0 or higher worldwide in 2026?,0.23,2,1,64.1,CLOSED,2026-07-09,0.175,sharps_left,-0.2391,0.185,2026-07-09
 2026-07-05,0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139,Yes,Will England reach the 2026 FIFA World Cup final?,0.185,2,1,60.61,CLOSED,2026-07-14,0.535,sharps_left,1.8919,0.545,2026-07-14
 2026-07-05,0x4e4f77e7dbf4cab666e9a1943674d7ae66348e862df03ea6f44b11eb95731928,Yes,Will the Republican Party control the House after the 2026 Midterm elections?,0.175,2,1,59.88,CLOSED,2026-09-02,0.105,sharps_left,-0.4,0.115,2026-09-02
@@ -80,7 +80,7 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-07-16,0x1d88092b2e151927cc5fc6a02ae3f84fb0551d2b44c6c5c961bd530d53638f9a,Paula Badosa,Iasi Open: Alevtina Ibragimova vs Paula Badosa,0.855,2,1,250.0,CLOSED,2026-07-23,1.0,resolved_win,0.1696,1.0,2026-07-22
 2026-07-16,0x8015c1c5633f488ec6fc7d759aa13621bc3ca1b91f1473e0ba850787f8cc9df4,Panna Udvardy,Iasi Open: Panna Udvardy vs Katarzyna Kawa,0.545,2,1,107.53,CLOSED,2026-07-23,1.0,resolved_win,0.8349,1.0,2026-07-22
 2026-07-16,0x3065a37a66dc5d8088593269e04c58c693b6442e9bbda540250f84cbb441b921,Daniel Merida Aguilar,Croatia Open: Daniel Merida Aguilar vs Titouan Droguet,0.605,2,1,123.46,CLOSED,2026-07-23,1.0,resolved_win,0.6529,1.0,2026-07-22
-2026-07-16,0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846,No,Will the U.S. invade Iran before 2027?,0.775,7,1,212.77,OPEN,,,,,0.855,2026-09-03
+2026-07-16,0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846,No,Will the U.S. invade Iran before 2027?,0.775,7,1,212.77,OPEN,,,,,0.865,2026-09-04
 2026-07-16,0x80ebf0a88a44bf737d4047b3accd7108285c69b84257e5c684bdc4c715c81139,Yes,Will the U.S. invade Cuba in 2026?,0.155,2,1,58.48,CLOSED,2026-07-28,0.115,sharps_left,-0.2581,0.125,2026-07-28
 2026-07-16,0x3de0f3d7d7efb40cde68e814d40a0b232832083653c8e78260eb999baa967de0,Yes,US strike on Cuba by December 31?,0.325,2,1,72.99,CLOSED,2026-07-28,0.295,sharps_left,-0.0923,0.305,2026-07-28
 2026-07-17,0x93ef6ecab1a8c9c50d084547f1648bec4de13ea1dd795ee95128320d457b73d3,Raphael Collignon,Swiss Open: Raphael Collignon vs Valentin Vacherot,0.5749,2,1,114.92,CLOSED,2026-07-24,1.0,resolved_win,0.7394,1.0,2026-07-22
@@ -126,7 +126,7 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-08-02,0xd1e93b3af50b6218aaf8ac710eef6dce437a93aad52cedacfbc0a45f36b5d7cd,Yes,Will New England Revolution vs. Houston Dynamo end in a draw?,0.285,2,1,68.97,CLOSED,2026-08-04,0.265,sharps_left,-0.0702,0.275,2026-08-04
 2026-08-02,0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277,Yes,Will Marco Rubio win the 2028 US Presidential Election?,0.1375,4,1,57.31,CLOSED,2026-09-01,0.0935,sharps_left,-0.32,0.1035,2026-09-01
 2026-08-02,0x0f49db97f71c68b1e42a6d16e3de93d85dbf7d4148e3f018eb79e88554be9f75,Yes,Will Gavin Newsom win the 2028 Democratic presidential nomination?,0.2015,4,1,61.84,CLOSED,2026-09-03,0.1315,sharps_left,-0.3474,0.1415,2026-09-03
-2026-08-02,0x1e5204036bd51e6ca0e0da6221319c5839bd9940782adc6d0f6fa703aa8a3bf4,Yes,Will Hamas agree to disarm by December 31?,0.665,5,1,144.93,OPEN,,,,,0.225,2026-09-03
+2026-08-02,0x1e5204036bd51e6ca0e0da6221319c5839bd9940782adc6d0f6fa703aa8a3bf4,Yes,Will Hamas agree to disarm by December 31?,0.665,5,1,144.93,OPEN,,,,,0.225,2026-09-04
 2026-08-02,0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d,No,Will the Fed increase interest rates by 25 bps after the September 2026 meeting?,0.425,2,1,85.47,CLOSED,2026-08-07,0.655,sharps_left,0.5412,0.665,2026-08-07
 2026-08-02,0x741bb46008b72234857c5118c8365ab3c2f69dbf28b30b59de04f173b8a778de,Yes,Will Dan Sullivan win the Alaska Senate race in 2026?,0.455,2,1,90.09,CLOSED,2026-08-08,0.475,sharps_left,0.044,0.485,2026-08-08
 2026-08-02,0x86e8f678e6cebb9596ffbb5a736b2ff9f36b12905d5b65b1556329c28533c7a1,No,Will Manchester City win the 2026-27 English Premier League (EPL) Championship?,0.715,2,1,169.49,CLOSED,2026-08-16,0.735,sharps_left,0.028,0.745,2026-08-16
@@ -137,7 +137,7 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-08-02,0x23667427b34ca1c7144d50540beba9e7ffb608443a84252c194bb8b40919a0cb,Yes,"US-Iran Final Nuclear Deal by September 30, 2026?",0.135,2,1,57.14,CLOSED,2026-08-03,0.135,sharps_left,0.0,0.145,2026-08-03
 2026-08-02,0x7f0d84b155c484b801f2cba68eb0f9ef8b2a0a54b7e6bb0fa53a1778964f53fd,Yes,"US x Iran diplomatic meeting by August 15, 2026?",0.28,2,1,68.49,CLOSED,2026-08-06,0.195,sharps_left,-0.3036,0.205,2026-08-06
 2026-08-02,0xf2bf04609e7458df56c9bb4b1e051286dea11da1c944bbc1dafbcc6b76904e52,Yes,"NATO x Russia military clash by December 31, 2026?",0.27,2,1,67.57,CLOSED,2026-08-16,0.205,sharps_left,-0.2407,0.215,2026-08-16
-2026-08-02,0x15d2e66dcf1d63c5695d6d0e9e2f8e06dd246d00fd5dfc254f2b22baa33bfa1b,No,Mitch McConnell steps down from Senate before his term ends?,0.665,4,1,144.93,OPEN,,,,,0.875,2026-09-03
+2026-08-02,0x15d2e66dcf1d63c5695d6d0e9e2f8e06dd246d00fd5dfc254f2b22baa33bfa1b,No,Mitch McConnell steps down from Senate before his term ends?,0.665,4,1,144.93,OPEN,,,,,0.855,2026-09-04
 2026-08-02,0x4219333003bec448d39151bfe3ea3d6fa91f15bedf23c3f26e28d304be5c893a,Yes,Mojtaba Khamenei seen in public by September 30?,0.14,2,1,57.47,CLOSED,2026-08-06,0.105,sharps_left,-0.25,0.115,2026-08-06
 2026-08-02,0x840fe2606472a13ee62e3009a360af8be2576cd1d9dbcda8749e89eed5d02a98,No,Will Trump visit Greenland by December 31?,0.86,2,1,250.0,CLOSED,2026-08-24,0.875,sharps_left,0.0174,0.885,2026-08-24
 2026-08-02,0x307a1ed89d60b61002dd5bbf00e1408c5ed2ab3fcdb056191ca7ef9bc34d38f3,Yes,Will the Democratic Party control the Senate after the 2026 Midterm elections?,0.455,3,1,90.09,CLOSED,2026-09-02,0.505,sharps_left,0.1099,0.515,2026-09-02
@@ -157,7 +157,7 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-08-03,0xbf49e98d47f0506d0cd07f07a9308711752f869ee10a0b7598b013b947fea503,Atlanta Braves,Spread: Atlanta Braves (-1.5),0.2949,2,1,69.92,CLOSED,2026-08-06,0.285,sharps_left,-0.0336,0.295,2026-08-06
 2026-08-03,0x9ff4564352afcc3da71f0ad7ad3bdb19e69c1309c45520f8557f46bb85d351d0,Over,Chicago Fire FC vs. Vancouver Whitecaps FC: O/U 4.5,0.275,2,1,68.03,CLOSED,2026-08-06,0.385,sharps_left,0.4,0.395,2026-08-06
 2026-08-03,0x02bf8e9941392b30793bc025df6a580a8d11430bb22a3288bcf351230722b5da,Yulia Putintseva,National Bank Open: Yulia Putintseva vs Shuai Zhang,0.655,2,1,140.85,CLOSED,2026-08-04,0.0,resolved_loss,-1.0,0.0,2026-08-04
-2026-08-03,0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a,Yes,Will there be no change in Fed interest rates after the September 2026 meeting?,0.425,2,1,85.47,OPEN,,,,,0.565,2026-09-03
+2026-08-03,0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a,Yes,Will there be no change in Fed interest rates after the September 2026 meeting?,0.425,2,1,85.47,OPEN,,,,,0.475,2026-09-04
 2026-08-03,0x12aa13b3da17ceae1b0a59b5d5b77121e91bb79b4bb0b52bf6543ed3f8d0953b,Yes,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,0.235,2,1,64.52,CLOSED,2026-08-07,0.225,sharps_left,-0.0426,0.235,2026-08-07
 2026-08-03,0x5dc212b712dcf514432221436140eec9717aea8f9fbead457c858d14ee519b90,Yes,"US announces end of Iranian blockade by August 7, 2026?",0.214,4,1,62.81,CLOSED,2026-08-08,0.0,resolved_loss,-1.0,0.0,2026-08-08
 2026-08-03,0xb818eb1084fdbc85161dda72c93e1e2da6eb3cc675aa815becb69f45f30683c9,Yes,Iran charges Hormuz fees by October 31?,0.5799,2,1,116.25,CLOSED,2026-08-06,0.345,sharps_left,-0.4051,0.355,2026-08-06
@@ -196,12 +196,12 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-08-07,0xfee11055c350d06a6165f39cee89aed0614bfb8dc121cafe6ac1a9a56ce60592,Yes,Will the total domestic gross for Spider-Man: Brand New Day be between 800m and 900m by August 31?,0.3375,2,1,74.35,CLOSED,2026-08-29,1.0,resolved_win,1.963,0.9865,2026-08-29
 2026-08-07,0x2167ab5c0d163f85195ccea4d11734e4ba53913c838c6720fb815794128c68f2,Yes,China x Philippines military clash before 2027?,0.305,2,1,70.92,CLOSED,2026-08-16,0.325,sharps_left,0.0656,0.335,2026-08-16
 2026-08-07,0x780b6fca63638b937e141d49935ad34234c4a170d61948eadf48bf7dabdec232,Yes,"Will the United States send warships through the Strait of Hormuz by August 31, 2026?",0.16,2,1,58.82,CLOSED,2026-08-16,0.035,sharps_left,-0.7812,0.045,2026-08-16
-2026-08-07,0xa08a5ce99e14ce0b22767af6f16c08a2ab012249444c20887193a9a3e98e11fc,No,Strait of Hormuz traffic returns to normal by September 30?,0.735,2,1,181.82,OPEN,,,,,0.9735,2026-09-03
+2026-08-07,0xa08a5ce99e14ce0b22767af6f16c08a2ab012249444c20887193a9a3e98e11fc,No,Strait of Hormuz traffic returns to normal by September 30?,0.735,2,1,181.82,OPEN,,,,,0.9775,2026-09-04
 2026-08-07,0xf1568f444e1e341e3aceb0e975cb1f88da832301ae54a4fa8e85138072265b7e,Yes,Iran-Oman Hormuz Agreement by August 15?,0.755,2,1,196.08,CLOSED,2026-08-08,0.7,sharps_left,-0.0728,0.71,2026-08-08
 2026-08-07,0x48d47eede033257e77d676631e6f805d5e1848c0567589030a3a76a862fa1e47,No,Gianni Infantino out as FIFA President by December 31?,0.795,4,1,232.56,CLOSED,2026-09-02,0.855,sharps_left,0.0755,0.865,2026-09-02
 2026-08-07,0x80b3af88cb991980e8da1ce86b9794a0957f96ec98c29319dd7ba65e9744d82b,Yes,Fed rate hike in 2026?,0.565,2,1,112.36,CLOSED,2026-08-16,0.455,sharps_left,-0.1947,0.465,2026-08-16
 2026-08-07,0x1c38a64c494e01c9bd81362cfadeadb3b87023d1d9ffae1df5a428c03152fc74,Yes,Iran-Oman Hormuz Agreement by August 31?,0.885,2,1,250.0,CLOSED,2026-08-08,0.845,sharps_left,-0.0452,0.855,2026-08-08
-2026-08-07,0x5c2f3ac4fe84f1a399f9f1e05de8e5cf1a5e80e2de32e92c084253972a3e7e67,No,"Will Solana dip to $40 by December 31, 2026?",0.86,2,1,250.0,OPEN,,,,,0.925,2026-09-03
+2026-08-07,0x5c2f3ac4fe84f1a399f9f1e05de8e5cf1a5e80e2de32e92c084253972a3e7e67,No,"Will Solana dip to $40 by December 31, 2026?",0.86,2,1,250.0,CLOSED,2026-09-04,0.92,sharps_left,0.0698,0.93,2026-09-04
 2026-08-07,0x094772b3529f455e881a4483eaf1c24266384f55e97c23f24f638f5726ba9920,No,Iran leadership change by September 30?,0.895,4,1,250.0,CLOSED,2026-09-01,0.9655,sharps_left,0.0788,0.9755,2026-09-01
 2026-08-07,0x3dbbbe0f8e69b1aee0092e1eca397b24c954c00ecc54995035a8683201ad26aa,Yes,Will Ronaldo Caiado finish in third place in the first round of the 2026 Brazilian presidential election?,0.345,2,1,75.19,CLOSED,2026-09-01,0.18,sharps_left,-0.4783,0.19,2026-09-01
 2026-08-07,0x8c773ddca5739e30a49cd8aa214a2f7e99b96784b7155a1997f4fe0d9586c11d,No,Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?,0.845,2,1,250.0,CLOSED,2026-08-26,1.0,resolved_win,0.1834,0.987,2026-08-26
@@ -267,7 +267,7 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-08-12,0x9de1ce47bfd44f05526ce5739a94436204d4cb6d8cbc907784609f42f67c5bd6,Emiliana Arango,"Cincinnati Open, Qualification: Emiliana Arango vs Aliaksandra Sasnovich",0.375,2,1,78.74,CLOSED,2026-08-16,1.0,resolved_win,1.6667,1.0,2026-08-16
 2026-08-16,0x74dba1ce1ae9dd535414e85f2d9ab5ea32c0fb1acc9b7130b67e6d91217e24e1,Yes,Will Jon Ossoff win the 2028 Democratic presidential nomination?,0.1585,2,1,58.72,CLOSED,2026-09-02,0.1525,sharps_left,-0.0379,0.1625,2026-09-02
 2026-08-16,0x2d144e6f334f048a7e155981dd131f47a96b639d6dd7c72a4e71e1df68f004ba,Texas Rangers,Texas Rangers vs. Athletics,0.505,5,1,99.01,CLOSED,2026-08-19,0.0,resolved_loss,-1.0,0.0,2026-08-19
-2026-08-16,0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390,Yes,Clarity Act (H.R.3633) signed into law in 2026?,0.195,2,1,61.35,OPEN,,,,,0.155,2026-09-03
+2026-08-16,0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390,Yes,Clarity Act (H.R.3633) signed into law in 2026?,0.195,2,1,61.35,OPEN,,,,,0.155,2026-09-04
 2026-08-16,0xa87d333443e0e6718a060246618b20d2e5d271acf9cd561d4caa31d7fd6f770a,Los Angeles Angels,Kansas City Royals vs. Los Angeles Angels,0.155,2,1,58.48,CLOSED,2026-08-19,0.0,resolved_loss,-1.0,0.0,2026-08-19
 2026-08-16,0xd63e7f882658ae3a10f9ffdee6091fec3a4ef7ce113accb41873e069dcab0c17,Cleveland Guardians,San Diego Padres vs. Cleveland Guardians,0.285,2,1,68.97,CLOSED,2026-08-19,0.0,resolved_loss,-1.0,0.0,2026-08-19
 2026-08-16,0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587,No,Will the Republican Party control the Senate after the 2026 Midterm elections?,0.535,3,1,105.26,CLOSED,2026-09-02,0.495,sharps_left,-0.0748,0.505,2026-09-02
@@ -303,8 +303,8 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-08-19,0xdbb98d866363c79ffcdf8f5a97331d99a3ea77ba1fd0ee0efdb223cc4d2588be,Marta Kostyuk,Cincinnati Open: Marta Kostyuk vs Mirra Andreeva,0.465,2,1,91.74,CLOSED,2026-08-22,1.0,resolved_win,1.1505,1.0,2026-08-22
 2026-08-22,0x95959560144520f539cadad1509aaa3fc47e95aaeb1ade1849987ad5f1f6b58f,Iga Swiatek,Cincinnati Open: Jessica Pegula vs Iga Swiatek,0.695,2,1,158.73,CLOSED,2026-08-24,0.0,resolved_loss,-1.0,0.0,2026-08-24
 2026-08-22,0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a,No,Will Harry Kane win the 2026 Ballon d'Or?,0.3745,3,1,78.68,CLOSED,2026-09-01,0.3495,sharps_left,-0.0668,0.3595,2026-09-01
-2026-08-22,0x84c625fdccf5c5246a15e476361e4563033906ee225800e1136c0d737596a72f,Yes,"Russia x Ukraine ceasefire by December 31, 2026?",0.155,2,1,58.48,OPEN,,,,,0.145,2026-09-03
-2026-08-22,0xd4e77ba6f29fc093509d24f508631abd445ecf506bbdc9c4c80e60256a318527,Yes,Will no Fed rate cuts happen in 2026?,0.8705,2,1,250.0,OPEN,,,,,0.8885,2026-09-03
+2026-08-22,0x84c625fdccf5c5246a15e476361e4563033906ee225800e1136c0d737596a72f,Yes,"Russia x Ukraine ceasefire by December 31, 2026?",0.155,2,1,58.48,OPEN,,,,,0.165,2026-09-04
+2026-08-22,0xd4e77ba6f29fc093509d24f508631abd445ecf506bbdc9c4c80e60256a318527,Yes,Will no Fed rate cuts happen in 2026?,0.8705,2,1,250.0,OPEN,,,,,0.929,2026-09-04
 2026-08-22,0x14d327328063504ab74b2ab11fe68ad305525fafc70effcd5ba5c5c688971988,No,Will Avengers: Doomsday have the best domestic opening weekend in 2026?,0.675,2,1,149.25,CLOSED,2026-09-01,0.425,sharps_left,-0.3704,0.435,2026-09-01
 2026-08-22,0xdfd9e88f948c6875027c881dcb50daf56ae577b0e4c4349779e7bd448ddc3a0b,Yes,No one announced as next James Bond?,0.2905,2,1,69.49,CLOSED,2026-08-27,0.1865,sharps_left,-0.358,0.1965,2026-08-27
 2026-08-22,0x5244e82400ae4fb15981580bd5d6782f00ee0451c6d9b1dd04ac355f9ba76e53,Yes,Will Shohei Ohtani win the 2026 National League MVP Award?,0.425,2,1,85.47,CLOSED,2026-09-01,0.12,sharps_left,-0.7176,0.13,2026-09-01
@@ -313,7 +313,7 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-08-22,0x55ae2f91bba959ea0ab4ecbbfa2eb3501a12fd5f7107f0d71415e76cbf9a7d11,No,"Will Bitcoin reach $82,500 in August?",0.655,3,1,140.85,CLOSED,2026-08-31,1.0,resolved_win,0.5267,0.9885,2026-08-31
 2026-08-22,0x317323044ed5c5295ac3ac6e984dcd31be99bda30818df47b82b1ce019d05b23,No,"Will Bitcoin dip to $70,000 in August?",0.835,2,1,250.0,CLOSED,2026-08-27,1.0,resolved_win,0.1976,0.981,2026-08-27
 2026-08-22,0xfd105823dbf627e8a57aa1924703ef23138050d9d8da4a98a5136ea2ad98acd4,No,"Will Bitcoin reach $80,000 in August?",0.4105,3,1,83.4,CLOSED,2026-08-25,0.0,resolved_loss,-1.0,0.0,2026-08-25
-2026-08-22,0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8,Yes,Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?,0.645,3,1,136.99,OPEN,,,,,0.545,2026-09-03
+2026-08-22,0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8,Yes,Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?,0.645,3,1,136.99,OPEN,,,,,0.545,2026-09-04
 2026-08-22,0x9b94d7e2e7250d156b02435f4d59634d357dc789d842eaee15c35c1158d5bca4,Yes,US ceasefire against Iran continues through September 15?,0.745,2,1,188.68,CLOSED,2026-08-31,0.0,resolved_loss,-1.0,0.0,2026-08-31
 2026-08-22,0x9601280c3d5109783ba64644da25bdfdf120ce516a696f88a42f54ffd2ac761b,Yes,US ceasefire against Iran continues through September 30?,0.655,3,1,140.85,CLOSED,2026-08-31,0.0,resolved_loss,-1.0,0.0,2026-08-31
 2026-08-22,0xb5395470c9b87f5ae8ffc719c1376aa89b493adf083e01cb8064e683fbaa18fc,No,Will Trump meet with Kim Jong Un in 2026?,0.685,2,1,153.85,CLOSED,2026-09-01,0.66,sharps_left,-0.0365,0.67,2026-09-01
@@ -331,13 +331,13 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-08-24,0xb1510ddf75e8c5dd7e7db9c73e0dd777e9784066779c3bab30094adacad7d684,No,Will Tianjin Jinmen Hu FC win on 2026-07-12?,0.545,2,1,107.53,CLOSED,2026-08-29,0.505,sharps_left,-0.0734,0.515,2026-08-29
 2026-08-24,0x69ecaaaefc5d31fc61ccbcbf32e97ecbd56570a1b5a91557cdf2dd47d9f060d9,No,Will Racing Club de Lens win on 2026-08-29?,0.545,2,1,107.53,CLOSED,2026-08-29,0.485,sharps_left,-0.1101,0.495,2026-08-29
 2026-08-24,0x88b9821a45b189cc6f92798778217242dd0aa7ca9cc27ff6a0fea5922b3075ed,Yes,Will the total domestic gross for Spider-Man: Brand New Day be between 900m and 920m by August 31?,0.23,2,1,64.1,CLOSED,2026-08-29,0.0,resolved_loss,-1.0,0.0105,2026-08-29
-2026-08-24,0x4cba9bf990370fac4f6ec2b3513d7dbbc5c569a88d01180ccda081cccc57eed7,No,"Delcy Rodríguez out as leader of Venezuela by December 31, 2026?",0.905,3,1,250.0,OPEN,,,,,0.9,2026-09-03
+2026-08-24,0x4cba9bf990370fac4f6ec2b3513d7dbbc5c569a88d01180ccda081cccc57eed7,No,"Delcy Rodríguez out as leader of Venezuela by December 31, 2026?",0.905,3,1,250.0,OPEN,,,,,0.89,2026-09-04
 2026-08-24,0x1239389645c8a73b170b78ef3a83d69b6cf1d2711d412829ea8836660b08fc93,No,"Will Bitcoin reach $85,000 by December 31, 2026?",0.32,2,1,72.46,CLOSED,2026-08-25,0.245,sharps_left,-0.2344,0.255,2026-08-25
 2026-08-24,0xc4ebab9f2830f6df67ab1b98615d5a9be8eebd106fd0f37e9a25e4a4edcc427c,Yes,"Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?",0.7575,3,1,198.02,CLOSED,2026-09-01,0.873,sharps_left,0.1525,0.883,2026-09-01
 2026-08-24,0xbde9eea3d33f8cf3e6967c9b55ca96fa3a2e7ba678c645410bdffde2cefcd597,No,Trump tries to fire Lisa Cook by September 30?,0.81,2,1,250.0,CLOSED,2026-09-01,0.78,sharps_left,-0.037,0.79,2026-09-01
 2026-08-24,0xfed2dd1e83691ca08b8bc08d2bed09cb19003730f2be47da6a467ee37df96fbb,Yes,Mojtaba Khamenei seen in public by December 31?,0.275,2,1,68.03,CLOSED,2026-09-01,0.205,sharps_left,-0.2545,0.215,2026-09-01
 2026-08-24,0xbe64f8e147f7c157761ca86054675201fe7eb10b9d2ec35a7276ee6f201e4556,No,"Will the price of Ethereum be above $2,600 on August 28?",0.815,2,1,250.0,CLOSED,2026-08-25,0.745,sharps_left,-0.0859,0.755,2026-08-25
-2026-08-24,0xdaa4866bae18be58c5a79d2aeeffd035ec78f1bb49dbd88f72993997778a990f,No,"Will Bitcoin reach $100,000 by December 31, 2026?",0.765,2,1,204.08,OPEN,,,,,0.795,2026-09-03
+2026-08-24,0xdaa4866bae18be58c5a79d2aeeffd035ec78f1bb49dbd88f72993997778a990f,No,"Will Bitcoin reach $100,000 by December 31, 2026?",0.765,2,1,204.08,OPEN,,,,,0.715,2026-09-04
 2026-08-25,0xe3a5c6a4d8057b7d8a14d3091183aab4ee27b232f21c603a9574b81898b46094,Rio Noguchi,"US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi",0.285,3,1,68.97,CLOSED,2026-08-26,0.0,resolved_loss,-1.0,0.0,2026-08-26
 2026-08-25,0x0eead812dd20ebafbf0eec0531c9d6844a111e776a440685853bc4ca91af7c2a,No,Will Brentford FC win on 2026-08-30?,0.665,2,1,144.93,CLOSED,2026-08-31,1.0,resolved_win,0.5038,1.0,2026-08-31
 2026-08-25,0xd4cea7608974a3f2df2c6cd4aac691f17d251b874ee4e8eea39af6949c4ad995,No,Will Arsenal FC win on 2026-08-31?,0.365,2,1,77.52,CLOSED,2026-09-01,0.0,resolved_loss,-1.0,0.0,2026-09-01
@@ -373,14 +373,14 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-08-26,0xf444c701a2865e72683907805f1dd89bfc5441aad89bfa859a28f34e434d9067,Cincinnati Reds,Cincinnati Reds vs. San Francisco Giants,0.495,2,1,97.09,CLOSED,2026-08-27,1.0,resolved_win,1.0202,1.0,2026-08-27
 2026-08-26,0x1d5cd4867b48d97d017db0bb6b4ed39d7b641d882b5bc99eaa0a9e9f05e16e78,Yes,Another GTA VI trailer released by August 31?,0.435,2,1,86.96,CLOSED,2026-08-28,0.0255,sharps_left,-0.9414,0.0355,2026-08-28
 2026-08-26,0xde64f0c49c7b26baa1ed2ebb7097574de5532c2237b779ab9b415e822c12a0a0,Yes,Iran-Oman Hormuz Agreement by September 30?,0.53,2,1,104.17,CLOSED,2026-09-01,0.25,sharps_left,-0.5283,0.26,2026-09-01
-2026-08-26,0x715479b7c428c778fba2e26bbf30e0c06c9e878acdcf1be461be736ef0f554a3,No,"Will Solana reach $160 by December 31, 2026?",0.825,2,1,250.0,OPEN,,,,,0.84,2026-09-03
+2026-08-26,0x715479b7c428c778fba2e26bbf30e0c06c9e878acdcf1be461be736ef0f554a3,No,"Will Solana reach $160 by December 31, 2026?",0.825,2,1,250.0,CLOSED,2026-09-04,0.805,sharps_left,-0.0242,0.815,2026-09-04
 2026-08-26,0x9a3ff64dc7b27e7f084e9e87a23bd02d5299fd102108f370a58fcbac51963dc4,No,Will WTI Crude Oil (WTI) hit (LOW) $75 in August?,0.775,4,1,212.77,CLOSED,2026-08-29,1.0,resolved_win,0.2903,0.99,2026-08-29
 2026-08-26,0xaf03b0032d5e71c6072db014aee0974074e0470cdc5b5d715e316379b9f20058,No,"Will OpenAI’s Astra model be released by September 30, 2026?",0.2355,2,1,64.56,CLOSED,2026-09-01,0.1495,sharps_left,-0.3652,0.1595,2026-09-01
 2026-08-26,0x535d97a1668d37434151bc020a316acad256bc1ef49b185c37236138bace8020,No,"Will Ethereum dip to $2,200 in August?",0.905,2,1,250.0,CLOSED,2026-08-27,0.9535,sharps_left,0.0536,0.9635,2026-08-27
 2026-08-26,0x4e351f5c6a6b6e1b1a22ead8d0a7ddc4f999ad5df737709dfbaabe5230975867,Boluda,Set Handicap: Watson (-1.5) vs Boluda (+1.5),0.485,2,1,95.24,CLOSED,2026-08-27,1.0,resolved_win,1.0619,1.0,2026-08-27
 2026-08-27,0xe456796d9cd9c76064f2ec5738856266969aaf80338d671991a9bdd4c915f48c,No,Will Real Madrid CF win on 2026-08-30?,0.135,2,1,57.14,CLOSED,2026-08-31,0.0,resolved_loss,-1.0,0.0,2026-08-31
 2026-08-27,0x8a5c10b181a38a2b4c4cb53badefc88ab00ce9c9caaceb1ef430b9a06ed95b62,Under,Real Madrid CF vs. Málaga CF: O/U 3.5,0.505,2,1,99.01,CLOSED,2026-08-29,0.465,sharps_left,-0.0792,0.475,2026-08-29
-2026-08-27,0x18076e7d0f58a52d3d4f311d0456306edf16d1873cf5eef27d3ff044153e9576,No,"Bitcoin all time high by December 31, 2026?",0.895,3,1,250.0,OPEN,,,,,0.935,2026-09-03
+2026-08-27,0x18076e7d0f58a52d3d4f311d0456306edf16d1873cf5eef27d3ff044153e9576,No,"Bitcoin all time high by December 31, 2026?",0.895,3,1,250.0,OPEN,,,,,0.9285,2026-09-04
 2026-08-27,0x71dd44fa5059fbed28a279172185d3623aa34ce86be1936281df26b5d1b87200,Yes,"US announces end of Iranian blockade by September 21, 2026?",0.245,2,1,65.36,CLOSED,2026-09-01,0.155,sharps_left,-0.3673,0.165,2026-09-01
 2026-08-27,0xf3c68ec207148e9857c0db83b8791d76c25de9d007b33dfffccbf2b4b148cf65,New York Mets,Milwaukee Brewers vs. New York Mets,0.365,2,1,77.52,CLOSED,2026-08-28,0.0,resolved_loss,-1.0,0.0,2026-08-28
 2026-08-27,0x0c7245047183848e41555dc9a5ccc14c970a0711a3591bebc8310119cbae64c0,No,UNSC Resolution Endorsing Final U.S.-Iran Deal by December 31?,0.845,2,1,250.0,CLOSED,2026-09-01,0.825,sharps_left,-0.0237,0.835,2026-09-01
@@ -410,16 +410,16 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-08-30,0x881f66a279316cc04db69feaa807098e22b85e0c3c37988e3854757d0945d625,Veronika Erjavec,US Open WTA: Jasmine Paolini vs Veronika Erjavec,0.155,2,1,58.48,CLOSED,2026-08-31,0.0,resolved_loss,-1.0,0.0,2026-08-31
 2026-08-30,0x6d7203b2161a636a6ad554a986400e29411aecfdb51f91416a0ef9f7b6685e3b,No,"Will Bitcoin dip to $70,000 by December 31, 2026?",0.405,2,1,82.64,CLOSED,2026-09-01,0.41,sharps_left,0.0123,0.42,2026-09-01
 2026-08-31,0x09ce36db9ba15107e04b0608a12c8a0914debe730e3d1317aec5cf071d430ebd,Arthur Fils,US Open ATP: Stefanos Tsitsipas vs Arthur Fils,0.85,2,1,250.0,CLOSED,2026-09-01,0.0,resolved_loss,-1.0,0.0,2026-09-01
-2026-08-31,0xf02d8d72bb96d84090d4f7d63e7837afb94f8d061e7a2cca8cf21732150e8815,Yes,Will Arsenal win the 2026-27 English Premier League (EPL) Championship?,0.5,3,1,98.04,OPEN,,,,,0.505,2026-09-03
+2026-08-31,0xf02d8d72bb96d84090d4f7d63e7837afb94f8d061e7a2cca8cf21732150e8815,Yes,Will Arsenal win the 2026-27 English Premier League (EPL) Championship?,0.5,3,1,98.04,OPEN,,,,,0.495,2026-09-04
 2026-08-31,0xb0cdacba9dc8f1f7f68fcd275ccdbd73cd4fe4ca016d6eb08b2bf83f5913e747,Milic,Set Handicap: Milic (-1.5) vs Lazarov (+1.5),0.51,2,1,100.0,CLOSED,2026-09-01,0.0,resolved_loss,-1.0,0.0,2026-09-01
 2026-08-31,0x148a7e6c202700d80328c6aa6280aa00313e6d5a46c38c0aea9e32cb858fbd09,Sebastian Gorzny,US Open ATP: Sebastian Gorzny vs Raphael Collignon,0.2395,2,1,64.89,CLOSED,2026-09-01,1.0,resolved_win,3.1754,1.0,2026-09-01
 2026-08-31,0x3e80f6cc475d7940ce26db5ee997b28ee80c50170ce7aa8af2d104c947c8e5e3,No,Masoud Pezeshkian out by December 31?,0.75,2,1,192.31,CLOSED,2026-09-01,0.75,sharps_left,0.0,0.76,2026-09-01
-2026-08-31,0x63eaf41ce1f475323e2202d7dfa3b1def8b82cd166f7007c50bfbf47615c7b01,No,"Will Bitcoin reach $110,000 by December 31, 2026?",0.885,2,1,250.0,OPEN,,,,,0.875,2026-09-03
-2026-08-31,0x9775cd557a3cdba4f0478070afa399c0805761dd9aa0e7ce4435a71fed32621c,No,"Will Ethereum reach $4,000 by December 31, 2026?",0.865,2,1,250.0,OPEN,,,,,0.875,2026-09-03
+2026-08-31,0x63eaf41ce1f475323e2202d7dfa3b1def8b82cd166f7007c50bfbf47615c7b01,No,"Will Bitcoin reach $110,000 by December 31, 2026?",0.885,2,1,250.0,OPEN,,,,,0.825,2026-09-04
+2026-08-31,0x9775cd557a3cdba4f0478070afa399c0805761dd9aa0e7ce4435a71fed32621c,No,"Will Ethereum reach $4,000 by December 31, 2026?",0.865,2,1,250.0,CLOSED,2026-09-04,0.83,sharps_left,-0.0405,0.84,2026-09-04
 2026-08-31,0x0fcfcfc35d71424c0693c717d2e3bc9b8992910835d124d80cd2f01498f1d3dc,No,Pete Hegseth out as Secretary of Defense by December 31?,0.775,2,1,212.77,CLOSED,2026-09-01,0.725,sharps_left,-0.0645,0.735,2026-09-01
 2026-08-31,0xc82fce7fc8e21bdd504f10d03808eef5cf68cb9483c625f3380f34a3f867f12f,No,"Will Iran target Qatar by September 15, 2026?",0.65,2,1,138.89,CLOSED,2026-09-01,0.74,sharps_left,0.1385,0.75,2026-09-01
-2026-08-31,0x0ec1837c47a1869268f479576df16d39b3a73b64284c81ae7cc91cff45453371,Yes,"Will the price of Bitcoin be above $78,000 on September 5?",0.59,2,1,119.05,OPEN,,,,,0.62,2026-09-03
-2026-08-31,0x2146da32d9ccf169c3b38692e9e4b6a2865a73a8c53b797fd31ecb5f59f42a71,Yes,"Will the price of Bitcoin be above $78,000 on September 3?",0.605,2,1,123.46,OPEN,,,,,0.835,2026-09-03
+2026-08-31,0x0ec1837c47a1869268f479576df16d39b3a73b64284c81ae7cc91cff45453371,Yes,"Will the price of Bitcoin be above $78,000 on September 5?",0.59,2,1,119.05,CLOSED,2026-09-04,0.772,sharps_left,0.3085,0.782,2026-09-04
+2026-08-31,0x2146da32d9ccf169c3b38692e9e4b6a2865a73a8c53b797fd31ecb5f59f42a71,Yes,"Will the price of Bitcoin be above $78,000 on September 3?",0.605,2,1,123.46,CLOSED,2026-09-04,1.0,resolved_win,0.6529,1.0,2026-09-04
 2026-08-31,0x266d27cb42db4b19df3819f391496c1be1b3582b81dbe4c469226ec93b3f37c0,Rublev,Set Handicap: Rublev (-1.5) vs Virtanen (+1.5),0.51,2,1,100.0,CLOSED,2026-09-01,0.0,resolved_loss,-1.0,0.0,2026-09-01
 2026-08-31,0x4a024938674fc15596e49ca20d953ed1af596c1bb1756bf9dfa20e92ebc6049f,No,Lula participates in debate before first round?,0.655,2,1,140.85,CLOSED,2026-09-01,0.585,sharps_left,-0.1069,0.595,2026-09-01
 2026-08-31,0x1bac254336778ff5e963772eea802abca13e37e82454e425686b56b607cb4c32,Cincinnati Reds,San Diego Padres vs. Cincinnati Reds,0.425,2,1,85.47,CLOSED,2026-09-01,0.0,resolved_loss,-1.0,0.0,2026-09-01
@@ -431,7 +431,7 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-08-31,0xb21cc4f4d974468fce6ce9ce7db69bf9a618ff26acf32c4207603770d3e39ccd,Osorio,Set Handicap: Sabalenka (-1.5) vs Osorio (+1.5),0.3,2,1,70.42,CLOSED,2026-09-01,0.0,resolved_loss,-1.0,0.0,2026-09-01
 2026-09-01,0xf3d62eb13cea91ec64a0428a167c25b570d5327e8f54e10607e221cdf6c2100e,Raul Brancaccio,Como: Raul Brancaccio vs Duje Ajdukovic,0.495,5,1,97.09,CLOSED,2026-09-02,0.0,resolved_loss,-1.0,0.0,2026-09-02
 2026-09-01,0x3a6f0e5fd8797f5df02636a28e5e6b3e099052d75be07eb0b2ece0cbdc0950c0,Jan-Lennard Struff,US Open ATP: Camilo Ugo Carabelli vs Jan-Lennard Struff,0.675,2,1,149.25,CLOSED,2026-09-02,1.0,resolved_win,0.4815,1.0,2026-09-02
-2026-09-01,0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919,Yes,Will J.D. Vance win the 2028 Republican presidential nomination?,0.5305,4,1,104.28,OPEN,,,,,0.5235,2026-09-03
+2026-09-01,0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919,Yes,Will J.D. Vance win the 2028 Republican presidential nomination?,0.5305,4,1,104.28,OPEN,,,,,0.5005,2026-09-04
 2026-09-01,0xea4bdd1313e3796355afc064c6771cfcfa5be700d5b16d96e859683e0afb6abe,Nishesh Basavareddy,US Open ATP: Nishesh Basavareddy vs Tristan Schoolkate,0.735,2,1,181.82,CLOSED,2026-09-02,0.0,resolved_loss,-1.0,0.0,2026-09-02
 2026-09-01,0x0da3005f7d57b33cac257bcd4633611dd601709d2fa8bcb55749a98a3114d99f,Tampa Bay Rays,Tampa Bay Rays vs. New York Yankees,0.435,2,1,86.96,CLOSED,2026-09-02,0.415,sharps_left,-0.046,0.425,2026-09-02
 2026-09-01,0xf01cb0496b167cdf775f4e1f94c709c97428359b72783aa89e42453a7f06fe71,Detroit Tigers,Detroit Tigers vs. Minnesota Twins,0.525,3,1,103.09,CLOSED,2026-09-02,0.0,resolved_loss,-1.0,0.0,2026-09-02
@@ -441,15 +441,15 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-09-01,0xbb379a14cd03f68c35c279ddbd928a6326f4fd2e21827f8cdaaf59715d6df50e,Yes,"Will Bitcoin reach $90,000 by December 31, 2026?",0.495,3,1,97.09,CLOSED,2026-09-03,0.475,sharps_left,-0.0404,0.485,2026-09-03
 2026-09-01,0xacec7e5b90ccb1ac4c950e3aff18156d6ce1bb7b0c87c001a281279412dca784,Yes,"Will Bitcoin reach $95,000 by December 31, 2026?",0.355,2,1,76.34,CLOSED,2026-09-02,0.285,sharps_left,-0.1972,0.295,2026-09-02
 2026-09-01,0x1239389645c8a73b170b78ef3a83d69b6cf1d2711d412829ea8836660b08fc93,Yes,"Will Bitcoin reach $85,000 by December 31, 2026?",0.695,2,1,158.73,CLOSED,2026-09-02,0.585,sharps_left,-0.1583,0.595,2026-09-02
-2026-09-01,0x54b0a0f3126003e663a80fd0c48c45794f4a3f8b7c1898be8f0c9c6af611c7a7,No,"Will Bitcoin dip to $74,000 August 31-September 6?",0.775,3,1,212.77,OPEN,,,,,0.945,2026-09-03
+2026-09-01,0x54b0a0f3126003e663a80fd0c48c45794f4a3f8b7c1898be8f0c9c6af611c7a7,No,"Will Bitcoin dip to $74,000 August 31-September 6?",0.775,3,1,212.77,CLOSED,2026-09-04,0.9625,sharps_left,0.2419,0.9725,2026-09-04
 2026-09-01,0xbeb1d04b222dc8208cb95182ba74eb736243d8b116166ff10c9b54326160e7ac,Yes,"Will Bitcoin reach $92,500 in September?",0.115,2,1,55.87,CLOSED,2026-09-02,0.055,sharps_left,-0.5217,0.065,2026-09-02
-2026-09-01,0x3bc800c4beff6766e330efab5967dd906d50607de22c13fdd559dde9367d5feb,No,"Will Bitcoin dip to $76,000 August 31-September 6?",0.405,2,1,82.64,OPEN,,,,,0.755,2026-09-03
+2026-09-01,0x3bc800c4beff6766e330efab5967dd906d50607de22c13fdd559dde9367d5feb,No,"Will Bitcoin dip to $76,000 August 31-September 6?",0.405,2,1,82.64,OPEN,,,,,0.8675,2026-09-04
 2026-09-01,0xf19307d3b033f5d9df233a70283fbdfdbff5f0b01ee3d9ad9b6e4f100b030f91,No,Will OpenAI's valuation hit (LOW) $600B by December 31?,0.905,2,1,250.0,CLOSED,2026-09-03,0.89,sharps_left,-0.0166,0.9,2026-09-03
 2026-09-01,0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d,Yes,Will Marco Rubio win the 2028 Republican presidential nomination?,0.1855,3,1,60.64,CLOSED,2026-09-03,0.1645,sharps_left,-0.1132,0.1745,2026-09-03
 2026-09-01,0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b,No,"2026 Balance of Power: R Senate, R House",0.895,3,1,250.0,CLOSED,2026-09-02,0.885,sharps_left,-0.0112,0.895,2026-09-02
 2026-09-01,0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e,Yes,"2026 Balance of Power: R Senate, D House",0.365,2,1,77.52,CLOSED,2026-09-02,0.345,sharps_left,-0.0548,0.355,2026-09-02
 2026-09-01,0x446216e4392f1afe834f04b18f0f7e91f0d6ad8dd974b98e7173a2b02b950963,Yes,"Will the price of Bitcoin be above $78,000 on September 4?",0.435,2,1,86.96,CLOSED,2026-09-02,0.27,sharps_left,-0.3793,0.28,2026-09-02
-2026-09-01,0x655d9fe7525d5b2503f7213738e18643b7d263fc2f578051586efc4dd27e0a7b,Yes,"Will the price of Bitcoin be above $78,000 on September 6?",0.445,2,1,88.5,OPEN,,,,,0.615,2026-09-03
+2026-09-01,0x655d9fe7525d5b2503f7213738e18643b7d263fc2f578051586efc4dd27e0a7b,Yes,"Will the price of Bitcoin be above $78,000 on September 6?",0.445,2,1,88.5,CLOSED,2026-09-04,0.7955,sharps_left,0.7876,0.8055,2026-09-04
 2026-09-01,0x5c19f205507ce03ff5f3be08a8090a5969ea6870cc07b902a4ca2e61dfe48fdd,Yes,"Russia x Ukraine ceasefire agreement by December 31, 2026?",0.2,2,1,61.73,CLOSED,2026-09-02,0.155,sharps_left,-0.225,0.165,2026-09-02
 2026-09-01,0xf232b565995e4b3a3e7fa6cef775eeff1cecd20ad7c013cb9fc8dadabfe279a9,Yes,Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?,0.1155,2,1,55.9,CLOSED,2026-09-02,0.0985,sharps_left,-0.1472,0.1085,2026-09-02
 2026-09-01,0xdcae9573d5680a2c958cca4676ed28df7a06861572124f3396cc60ab6b92b9c2,Yes,Will Bitcoin outperform Gold in 2026?,0.28,2,1,68.49,CLOSED,2026-09-02,0.235,sharps_left,-0.1607,0.245,2026-09-02
@@ -470,33 +470,48 @@ date_opened,conditionId,outcome,title,entry_price,backers_at_entry,size_flat,siz
 2026-09-01,0xce9a13ac1f6f4e537c03fbe0421d2f26ab5b29ebc14dd4661283a5eb8f220de6,Broncos,Broncos vs. Chiefs,0.445,2,1,88.5,CLOSED,2026-09-02,0.425,sharps_left,-0.0449,0.435,2026-09-02
 2026-09-01,0xd21dca86e59db34a32fac231897aded451dce6e1307baf15ca9502b29b3d9b07,Yes,Will Kawhi play for the Toronto Raptors in 2026-27?,0.897,2,1,250.0,CLOSED,2026-09-02,0.8635,sharps_left,-0.0373,0.8735,2026-09-02
 2026-09-01,0x6c9bd12ca2dded7eb4c688a3200e94f143cc95984eb1952ab71f7ec31e07cf8c,Yes,Will AfD win the most seats in the 2026 Mecklenburg-Vorpommern parliamentary elections?,0.885,2,1,250.0,CLOSED,2026-09-02,0.925,sharps_left,0.0452,0.935,2026-09-02
-2026-09-02,0x5d554b8061faaf973115ad48859a04096cd3525873c730964ac7526076315c29,No,Will The Odyssey win Best Picture at the 99th Academy Awards?,0.455,2,1,90.09,OPEN,,,,,0.455,2026-09-03
-2026-09-02,0x84aa4a9a0f2c7dec7d593430685778a0f67f81ce5bde624a842b917b33f4316d,No,Will Matt Damon win Best Actor at the 99th Academy Awards?,0.745,2,1,188.68,OPEN,,,,,0.735,2026-09-03
-2026-09-02,0xdf55222217299506bd9b7b348ac3be51137ac480da920567722824f0c40c5fc0,No,Callum Turner announced as next James Bond?,0.835,2,1,250.0,OPEN,,,,,0.825,2026-09-03
+2026-09-02,0x5d554b8061faaf973115ad48859a04096cd3525873c730964ac7526076315c29,No,Will The Odyssey win Best Picture at the 99th Academy Awards?,0.455,2,1,90.09,CLOSED,2026-09-04,0.455,sharps_left,0.0,0.465,2026-09-04
+2026-09-02,0x84aa4a9a0f2c7dec7d593430685778a0f67f81ce5bde624a842b917b33f4316d,No,Will Matt Damon win Best Actor at the 99th Academy Awards?,0.745,2,1,188.68,CLOSED,2026-09-04,0.725,sharps_left,-0.0268,0.735,2026-09-04
+2026-09-02,0xdf55222217299506bd9b7b348ac3be51137ac480da920567722824f0c40c5fc0,No,Callum Turner announced as next James Bond?,0.835,2,1,250.0,CLOSED,2026-09-04,0.825,sharps_left,-0.012,0.835,2026-09-04
 2026-09-02,0xdee7062c12ce9193286aa7b5b93df17aa3bb5fac283ed29de0a0ab55626b944b,Jelena Ostapenko,US Open WTA: Tatjana Maria vs Jelena Ostapenko,0.525,3,1,103.09,CLOSED,2026-09-03,0.0,resolved_loss,-1.0,0.0,2026-09-03
 2026-09-02,0x645e8d72ddd76732643e9ebda396880e1b25fcea0d0d5df9eb608ecad2363f02,Nippon Ham Fighters,Nippon Ham Fighters vs. Fukuoka SoftBank Hawks,0.53,2,1,104.17,CLOSED,2026-09-03,1.0,resolved_win,0.8868,0.5,2026-09-03
-2026-09-02,0x4d9ca2742a07651e2abee20648f041e73c97ef7c2bf048a2c2a202d2a856ced5,No,"Will Bitcoin dip to $75,000 in September?",0.2,2,1,61.73,OPEN,,,,,0.355,2026-09-03
-2026-09-02,0xc4cc6d2ddca13b7194a7737e331aa8109575cdc38d02bd6be31a5a47d1b34520,No,"Will Bitcoin reach $82,500 in September?",0.5725,2,1,114.29,OPEN,,,,,0.405,2026-09-03
-2026-09-02,0x10cdacf6fe7b1c1f31dd0715538dd685196f895355a12b98387e27690adc08ba,Yes,"Will Bitcoin reach $80,000 in September?",0.66,2,1,142.86,OPEN,,,,,0.84,2026-09-03
-2026-09-02,0x4bcb9ee94aee5f0578ccf4fb1575607183bc8274eb4c853002e0a0cb8a2236d6,No,"Will Bitcoin dip to $70,000 in September?",0.665,2,1,144.93,OPEN,,,,,0.765,2026-09-03
-2026-09-02,0x1f2be6118486a83063777ae3cc88d2e04b8d6f84ec46fcd137596431bcb3cfc9,No,"Will Bitcoin dip to $65,000 in September?",0.875,2,1,250.0,OPEN,,,,,0.895,2026-09-03
-2026-09-02,0xff94b7e25f8377d7ad40bbfd172744bec6235b8ffbcaa1f276ec5465191b2216,No,"Will Bitcoin reach $87,500 in September?",0.825,2,1,250.0,OPEN,,,,,0.755,2026-09-03
-2026-09-02,0x69b547a99088602456fbce087cbc5a503c8b902b3ba58e8873aa771b0bee46a5,No,"Will Bitcoin reach $90,000 in September?",0.875,2,1,250.0,OPEN,,,,,0.825,2026-09-03
+2026-09-02,0x4d9ca2742a07651e2abee20648f041e73c97ef7c2bf048a2c2a202d2a856ced5,No,"Will Bitcoin dip to $75,000 in September?",0.2,2,1,61.73,CLOSED,2026-09-04,0.415,sharps_left,1.075,0.425,2026-09-04
+2026-09-02,0xc4cc6d2ddca13b7194a7737e331aa8109575cdc38d02bd6be31a5a47d1b34520,No,"Will Bitcoin reach $82,500 in September?",0.5725,2,1,114.29,CLOSED,2026-09-04,0.305,sharps_left,-0.4672,0.315,2026-09-04
+2026-09-02,0x10cdacf6fe7b1c1f31dd0715538dd685196f895355a12b98387e27690adc08ba,Yes,"Will Bitcoin reach $80,000 in September?",0.66,2,1,142.86,CLOSED,2026-09-04,1.0,resolved_win,0.5152,1.0,2026-09-04
+2026-09-02,0x4bcb9ee94aee5f0578ccf4fb1575607183bc8274eb4c853002e0a0cb8a2236d6,No,"Will Bitcoin dip to $70,000 in September?",0.665,2,1,144.93,CLOSED,2026-09-04,0.775,sharps_left,0.1654,0.785,2026-09-04
+2026-09-02,0x1f2be6118486a83063777ae3cc88d2e04b8d6f84ec46fcd137596431bcb3cfc9,No,"Will Bitcoin dip to $65,000 in September?",0.875,2,1,250.0,CLOSED,2026-09-04,0.895,sharps_left,0.0229,0.905,2026-09-04
+2026-09-02,0xff94b7e25f8377d7ad40bbfd172744bec6235b8ffbcaa1f276ec5465191b2216,No,"Will Bitcoin reach $87,500 in September?",0.825,2,1,250.0,CLOSED,2026-09-04,0.655,sharps_left,-0.2061,0.665,2026-09-04
+2026-09-02,0x69b547a99088602456fbce087cbc5a503c8b902b3ba58e8873aa771b0bee46a5,No,"Will Bitcoin reach $90,000 in September?",0.875,2,1,250.0,CLOSED,2026-09-04,0.785,sharps_left,-0.1029,0.795,2026-09-04
 2026-09-02,0xe87c7fb96399a95b79782fbf3a871fbebad06ad9581fbe2429a362a6d6883a68,Brandon Nakashima,US Open ATP: Brandon Nakashima vs Alex Michelsen,0.685,2,1,153.85,CLOSED,2026-09-03,0.0,resolved_loss,-1.0,0.0,2026-09-03
 2026-09-02,0x2b13c8abe65207e5b62da0fce50b4b01281a14301b2c6f1cfd490c6d5932f98c,Alex Molcan,US Open ATP: Alex Molcan vs Benjamin Bonzi,0.335,3,1,74.07,CLOSED,2026-09-03,0.0,resolved_loss,-1.0,0.0,2026-09-03
-2026-09-02,0xacec7e5b90ccb1ac4c950e3aff18156d6ce1bb7b0c87c001a281279412dca784,No,"Will Bitcoin reach $95,000 by December 31, 2026?",0.715,2,1,169.49,OPEN,,,,,0.68,2026-09-03
-2026-09-03,0xf195d2dbb4b3af8f4ebf8c9c5536302249df8d0dd7c630aba32bfe18357a6e24,Alejandro Moro Canas,Porto: Alejandro Moro Canas vs Marco Cecchinato,0.655,4,1,140.85,OPEN,,,,,0.645,2026-09-03
-2026-09-03,0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d,Yes,Will Lamine Yamal win the 2026 Ballon d'Or?,0.1595,2,1,58.79,OPEN,,,,,0.1495,2026-09-03
-2026-09-03,0xfb27b3dc971041534da59343b7054550de143278deab3cf5bc079a9de29bc2e3,Chicago White Sox,Chicago White Sox vs. Houston Astros,0.405,2,1,82.64,OPEN,,,,,0.395,2026-09-03
-2026-09-03,0x85f3ac9b8cd27124006a052b35c2382de7847ec14d76ae332170b4ac7e6d25fd,Kilian Feldbausch,Como: Andrej Nedic vs Kilian Feldbausch,0.705,2,1,163.93,OPEN,,,,,0.695,2026-09-03
-2026-09-03,0x25fb28382075f418a944a781a9f8840e2f541152eea0d9798d1cabfa1466adbb,Yes,Will Mojtaba Khamenei be head of state in Iran end of 2026?,0.8425,4,1,250.0,OPEN,,,,,0.8325,2026-09-03
-2026-09-03,0x2c108f623ac720d8f664bbaf14a9731141aa8955c1e48b02c766b772941674d8,No,"Will Bitcoin reach $85,000 in September?",0.605,2,1,123.46,OPEN,,,,,0.595,2026-09-03
-2026-09-03,0x064ba673b4eb8f2383f86f7959a08c7732b7fb978b44490779a3c79058b58329,No,Will Solana reach $110 August 31-September 6?,0.85,2,1,250.0,OPEN,,,,,0.84,2026-09-03
-2026-09-03,0xc7189e6fa0f1d494bff5539d7d57a3e57d4bb4fff9f9c9693c361de09072be7f,Francisco Cerundolo,US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo,0.605,2,1,123.46,OPEN,,,,,0.595,2026-09-03
-2026-09-03,0x6dab7b2a7a4dad85fb51d0c0bfb64e35d47f4286c4e3f0f591f2fa0f34c321ed,Alexei Popyrin,US Open ATP: Alexei Popyrin vs Alejandro Tabilo,0.405,2,1,82.64,OPEN,,,,,0.395,2026-09-03
-2026-09-03,0x4b40e630e84a3a74fb03ada26055bd86f429b7458edee6aaba9c4b8a1ad3ad8f,Dalibor Svrcina,US Open ATP: Luciano Darderi vs Dalibor Svrcina,0.445,2,1,88.5,OPEN,,,,,0.435,2026-09-03
-2026-09-03,0x63152f242491ea44fe92a16f72b85e49125ff04ade2b9acf02088ebf267e7c3d,Maria Sakkari,US Open WTA: Maria Sakkari vs Yulia Starodubtseva,0.635,2,1,133.33,OPEN,,,,,0.625,2026-09-03
-2026-09-03,0x8ac0ba0e2bf6866038b9a1f2a765f17fee577e3facccf794ff98d992bbb7cd6d,Quentin Halys,US Open ATP: Alexander Zverev vs Quentin Halys,0.165,2,1,59.17,OPEN,,,,,0.155,2026-09-03
-2026-09-03,0x1176565b34c01febd2687c7db68f48e560bdab7bb25dc13b91b45a37f36fd751,Elena Rybakina,US Open WTA: Jessica Bouzas Maneiro vs Elena Rybakina,0.845,2,1,250.0,OPEN,,,,,0.835,2026-09-03
-2026-09-03,0x90ce85ac476331d5622176f070d8c0dc17b29e65630ca4e01ba813540d108a9f,Gael Monfils,US Open ATP: Gael Monfils vs Learner Tien,0.185,2,1,60.61,OPEN,,,,,0.175,2026-09-03
-2026-09-03,0x13562fd3c673a0535e1894cafd173bba4343e46dc6e9a732cace55618a5a82ea,Qinwen Zheng,US Open WTA: Qinwen Zheng vs Yulia Putintseva,0.715,2,1,169.49,OPEN,,,,,0.705,2026-09-03
+2026-09-02,0xacec7e5b90ccb1ac4c950e3aff18156d6ce1bb7b0c87c001a281279412dca784,No,"Will Bitcoin reach $95,000 by December 31, 2026?",0.715,2,1,169.49,CLOSED,2026-09-04,0.605,sharps_left,-0.1538,0.615,2026-09-04
+2026-09-03,0xf195d2dbb4b3af8f4ebf8c9c5536302249df8d0dd7c630aba32bfe18357a6e24,Alejandro Moro Canas,Porto: Alejandro Moro Canas vs Marco Cecchinato,0.655,4,1,140.85,CLOSED,2026-09-04,1.0,resolved_win,0.5267,1.0,2026-09-04
+2026-09-03,0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d,Yes,Will Lamine Yamal win the 2026 Ballon d'Or?,0.1595,2,1,58.79,OPEN,,,,,0.1395,2026-09-04
+2026-09-03,0xfb27b3dc971041534da59343b7054550de143278deab3cf5bc079a9de29bc2e3,Chicago White Sox,Chicago White Sox vs. Houston Astros,0.405,2,1,82.64,CLOSED,2026-09-04,0.0,resolved_loss,-1.0,0.0,2026-09-04
+2026-09-03,0x85f3ac9b8cd27124006a052b35c2382de7847ec14d76ae332170b4ac7e6d25fd,Kilian Feldbausch,Como: Andrej Nedic vs Kilian Feldbausch,0.705,2,1,163.93,CLOSED,2026-09-04,0.0,resolved_loss,-1.0,0.0,2026-09-04
+2026-09-03,0x25fb28382075f418a944a781a9f8840e2f541152eea0d9798d1cabfa1466adbb,Yes,Will Mojtaba Khamenei be head of state in Iran end of 2026?,0.8425,4,1,250.0,OPEN,,,,,0.833,2026-09-04
+2026-09-03,0x2c108f623ac720d8f664bbaf14a9731141aa8955c1e48b02c766b772941674d8,No,"Will Bitcoin reach $85,000 in September?",0.605,2,1,123.46,CLOSED,2026-09-04,0.505,sharps_left,-0.1653,0.515,2026-09-04
+2026-09-03,0x064ba673b4eb8f2383f86f7959a08c7732b7fb978b44490779a3c79058b58329,No,Will Solana reach $110 August 31-September 6?,0.85,2,1,250.0,CLOSED,2026-09-04,0.885,sharps_left,0.0412,0.895,2026-09-04
+2026-09-03,0xc7189e6fa0f1d494bff5539d7d57a3e57d4bb4fff9f9c9693c361de09072be7f,Francisco Cerundolo,US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo,0.605,2,1,123.46,CLOSED,2026-09-04,1.0,resolved_win,0.6529,1.0,2026-09-04
+2026-09-03,0x6dab7b2a7a4dad85fb51d0c0bfb64e35d47f4286c4e3f0f591f2fa0f34c321ed,Alexei Popyrin,US Open ATP: Alexei Popyrin vs Alejandro Tabilo,0.405,2,1,82.64,CLOSED,2026-09-04,0.0,resolved_loss,-1.0,0.0,2026-09-04
+2026-09-03,0x4b40e630e84a3a74fb03ada26055bd86f429b7458edee6aaba9c4b8a1ad3ad8f,Dalibor Svrcina,US Open ATP: Luciano Darderi vs Dalibor Svrcina,0.445,2,1,88.5,CLOSED,2026-09-04,0.0,resolved_loss,-1.0,0.0,2026-09-04
+2026-09-03,0x63152f242491ea44fe92a16f72b85e49125ff04ade2b9acf02088ebf267e7c3d,Maria Sakkari,US Open WTA: Maria Sakkari vs Yulia Starodubtseva,0.635,2,1,133.33,CLOSED,2026-09-04,0.0,resolved_loss,-1.0,0.0,2026-09-04
+2026-09-03,0x8ac0ba0e2bf6866038b9a1f2a765f17fee577e3facccf794ff98d992bbb7cd6d,Quentin Halys,US Open ATP: Alexander Zverev vs Quentin Halys,0.165,2,1,59.17,CLOSED,2026-09-04,0.0,resolved_loss,-1.0,0.0,2026-09-04
+2026-09-03,0x1176565b34c01febd2687c7db68f48e560bdab7bb25dc13b91b45a37f36fd751,Elena Rybakina,US Open WTA: Jessica Bouzas Maneiro vs Elena Rybakina,0.845,2,1,250.0,CLOSED,2026-09-04,1.0,resolved_win,0.1834,1.0,2026-09-04
+2026-09-03,0x90ce85ac476331d5622176f070d8c0dc17b29e65630ca4e01ba813540d108a9f,Gael Monfils,US Open ATP: Gael Monfils vs Learner Tien,0.185,2,1,60.61,CLOSED,2026-09-04,0.0,resolved_loss,-1.0,0.0,2026-09-04
+2026-09-03,0x13562fd3c673a0535e1894cafd173bba4343e46dc6e9a732cace55618a5a82ea,Qinwen Zheng,US Open WTA: Qinwen Zheng vs Yulia Putintseva,0.715,2,1,169.49,CLOSED,2026-09-04,1.0,resolved_win,0.3986,1.0,2026-09-04
+2026-09-04,0x5864e7f04a5197487df807993905794e26967650ba77af41ea0ad9d0eae5d234,Jiri Lehecka,US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas,0.635,2,1,133.33,OPEN,,,,,0.625,2026-09-04
+2026-09-04,0x1c4c6a698f0591ddf0c96e1beb56f8c75112ef849331bf3b0388f14830a7421d,No,Israel x Iran ceasefire continues through December 31?,0.385,2,1,80.0,OPEN,,,,,0.375,2026-09-04
+2026-09-04,0xa23467e95abf6544819a9dcb90b7719846aacf300b991ea07204e1f1649097cb,No,Will Barcelona win the 2026-27 UEFA Champions League Championship?,0.845,2,1,250.0,OPEN,,,,,0.835,2026-09-04
+2026-09-04,0x289c1823ed88a95d06330388d45ecc15997e942d273ab78aa91641fb58a81034,Yes,Will the Carolina Hurricanes be named the 2026-27 NHL Stanley Cup Champion?,0.115,2,1,55.87,OPEN,,,,,0.105,2026-09-04
+2026-09-04,0xc5a9c248a721daf4388601614c1ea888a2fdba613153538658ec33becd2d4dce,Yes,Will the season series between the Cardinals and Seahawks end in a tie during the 2026-27 NFL regular season?,0.1425,2,1,57.64,OPEN,,,,,0.136,2026-09-04
+2026-09-04,0xeea5adf5cf3bd878e26f9e1762842689b72952b61c5a468fb8dc69a546b88f5a,No,"Will Josh Allen have 3,599.5+ passing yards in the 2026-27 NFL regular season?",0.46,2,1,90.91,OPEN,,,,,0.45,2026-09-04
+2026-09-04,0xdfc4b9aa771a8e817f015e394b9442337eca2227ac09477ba03fdbf47eb22f5f,Yes,Will the season series between the Cardinals and 49ers end in a tie during the 2026-27 NFL regular season?,0.252,2,1,65.96,OPEN,,,,,0.242,2026-09-04
+2026-09-04,0x07d6d1ac69e705071cfaa10ab950f8231dc3de7cb03638cbabb7fbf481806797,Yes,Will Los Angeles Dodgers win the 2026 National League Championship Series?,0.405,2,1,82.64,OPEN,,,,,0.395,2026-09-04
+2026-09-04,0x79b7408f02df2eba4034ca4c06ddf17b8dbeacc5adbe8595969e7573912c4e3b,Yes,"US-Iran Final Nuclear Deal by December 31, 2026?",0.125,4,1,56.5,OPEN,,,,,0.115,2026-09-04
+2026-09-04,0xfd7fcadffdf6a454c940569d4e1e6a9cc8e8682b70b5eb5e7fbbe76bb1844c1c,No,"Will Bitcoin dip to $65,000 by December 31, 2026?",0.67,2,1,147.06,OPEN,,,,,0.645,2026-09-04
+2026-09-04,0x36c99dd22b6f6df65511fb17c15302d075cf5b23efbf60a65aa043662a005b82,No,"Will Bitcoin dip to $75,000 by December 31, 2026?",0.245,2,1,65.36,OPEN,,,,,0.235,2026-09-04
+2026-09-04,0x021a81283e8def21a3c92a80dd13382d26f8470fdce1ab84b16197c7371ab843,Denis Shapovalov,US Open ATP: Ben Shelton vs Denis Shapovalov,0.225,2,1,63.69,OPEN,,,,,0.215,2026-09-04
+2026-09-04,0xf6035567bcde7f77d7eb8ed7c31016e7322a2580577bb5d1805f936072c28dfa,Mariano Navone,US Open ATP: Tomas Etcheverry vs Mariano Navone,0.505,2,1,99.01,OPEN,,,,,0.495,2026-09-04
+2026-09-04,0x90ed891f43ba5ffea1395209c3dbf93ef428dd7f012fc02d06a3b24cf8e9368a,Yes,Will the Bengals win the season series against the Browns during the 2026-27 NFL regular season?,0.46,2,1,90.91,OPEN,,,,,0.45,2026-09-04
+2026-09-04,0x57ac475163d2ee2da7ab3120460d0d23b1c546697a2edd2ec9ef1910f5bf2080,Marta Kostyuk,US Open WTA: Marta Kostyuk vs Ekaterina Alexandrova,0.755,2,1,196.08,OPEN,,,,,0.745,2026-09-04
