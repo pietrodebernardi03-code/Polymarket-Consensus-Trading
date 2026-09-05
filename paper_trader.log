@@ -2408,3 +2408,46 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +15 entries, 31 closed, 37 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-05 (frozen strategy v1.1) ===
+[roster] scoring 286 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/286 traders (3 qualify so far)
+    ...checked 40/286 traders (12 qualify so far)
+    ...checked 60/286 traders (24 qualify so far)
+    ...checked 80/286 traders (35 qualify so far)
+    ...checked 100/286 traders (41 qualify so far)
+    ...checked 120/286 traders (53 qualify so far)
+    ...checked 140/286 traders (64 qualify so far)
+    ...checked 160/286 traders (74 qualify so far)
+    ...checked 180/286 traders (80 qualify so far)
+    ...checked 200/286 traders (96 qualify so far)
+    ...checked 220/286 traders (105 qualify so far)
+    ...checked 240/286 traders (118 qualify so far)
+    ...checked 260/286 traders (127 qualify so far)
+    ...checked 280/286 traders (144 qualify so far)
+[roster] built 147 qualified wallets for 2026-09
+[scan] reading current positions of 147 roster traders...
+    ...read 20/147 traders
+    ...read 40/147 traders
+    ...read 60/147 traders
+    ...read 80/147 traders
+    ...read 100/147 traders
+    ...read 120/147 traders
+    ...read 140/147 traders
+[ENTRY]    No @ 0.855  x2  Will Jon Ossoff win the 2028 Democratic presidenti
+[ENTRY] Gustavo Heide @ 0.775  x4  Porto: Gustavo Heide vs Facundo Mena
+[ENTRY]   Yes @ 0.700  x2  Israel closes its airspace by September 30?
+[ENTRY]    No @ 0.818  x2  Will Marco Rubio win the 2028 Republican president
+[ENTRY]    No @ 0.895  x2  Will the Republican Party control the House after 
+[ENTRY]   Yes @ 0.505  x2  Will the Republican Party control the Senate after
+[ENTRY]   Yes @ 0.723  x2  Will Kimi Antonelli be the 2026 F1 Drivers' Champi
+[ENTRY]    No @ 0.555  x2  Will Inter Milan win the 2026-27 Serie A Champions
+[RESOLVE]    No entry 0.405 -> 1  ret 1.4691
+[EXIT]    Yes sharps left, entry 0.160 -> 0.130  ret -0.1881
+[RESOLVE] Jiri Lehecka entry 0.635 -> 0  ret -1.0
+[RESOLVE] Denis Shapovalov entry 0.225 -> 0  ret -1.0
+[RESOLVE] Mariano Navone entry 0.505 -> 0  ret -1.0
+[RESOLVE] Marta Kostyuk entry 0.755 -> 1  ret 0.3245
+[report] valid-resolved=137 (99 sub-48h excluded)  hit_rate=0.628  avg_entry_price=0.511  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +8 entries, 6 closed, 39 still open
+[check_stuck] clean — every open position is being refreshed.
