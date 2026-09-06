@@ -2451,3 +2451,40 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +8 entries, 6 closed, 39 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-06 (frozen strategy v1.1) ===
+[roster] scoring 286 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/286 traders (4 qualify so far)
+    ...checked 40/286 traders (13 qualify so far)
+    ...checked 60/286 traders (26 qualify so far)
+    ...checked 80/286 traders (36 qualify so far)
+    ...checked 100/286 traders (43 qualify so far)
+    ...checked 120/286 traders (55 qualify so far)
+    ...checked 140/286 traders (66 qualify so far)
+    ...checked 160/286 traders (78 qualify so far)
+    ...checked 180/286 traders (88 qualify so far)
+    ...checked 200/286 traders (98 qualify so far)
+    ...checked 220/286 traders (110 qualify so far)
+    ...checked 240/286 traders (119 qualify so far)
+    ...checked 260/286 traders (133 qualify so far)
+    ...checked 280/286 traders (142 qualify so far)
+[roster] built 146 qualified wallets for 2026-09
+[scan] reading current positions of 146 roster traders...
+    ...read 20/146 traders
+    ...read 40/146 traders
+    ...read 60/146 traders
+    ...read 80/146 traders
+    ...read 100/146 traders
+    ...read 120/146 traders
+    ...read 140/146 traders
+[ENTRY] Baltimore Orioles @ 0.445  x2  Boston Red Sox vs. Baltimore Orioles
+[ENTRY]   Yes @ 0.350  x2  Will Chicago Fire FC win on 2026-07-16?
+[ENTRY]   Yes @ 0.485  x3  Will Carlos Alcaraz win the 2026 Men's US Open?
+[ENTRY]    No @ 0.110  x2  Will Mercedes be the 2026 F1 Constructors' Champio
+[ENTRY] Lorenzo Angelini @ 0.530  x2  Genoa: Lorenzo Rottoli vs Lorenzo Angelini
+[ENTRY] Carlos Alcaraz @ 0.815  x2  US Open ATP: Tommy Paul vs Carlos Alcaraz
+[EXIT]     No sharps left, entry 0.245 -> 0.255  ret 0.0408
+[RESOLVE] Gustavo Heide entry 0.775 -> 0  ret -1.0
+[report] valid-resolved=137 (100 sub-48h excluded)  hit_rate=0.628  avg_entry_price=0.511  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +6 entries, 2 closed, 43 still open
+[check_stuck] clean — every open position is being refreshed.
