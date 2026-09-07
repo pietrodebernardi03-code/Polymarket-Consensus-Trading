@@ -2488,3 +2488,61 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +6 entries, 2 closed, 43 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-07 (frozen strategy v1.1) ===
+[roster] scoring 285 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/285 traders (4 qualify so far)
+    ...checked 40/285 traders (14 qualify so far)
+    ...checked 60/285 traders (26 qualify so far)
+    ...checked 80/285 traders (36 qualify so far)
+    ...checked 100/285 traders (42 qualify so far)
+    ...checked 120/285 traders (56 qualify so far)
+    ...checked 140/285 traders (67 qualify so far)
+    ...checked 160/285 traders (77 qualify so far)
+    ...checked 180/285 traders (87 qualify so far)
+    ...checked 200/285 traders (96 qualify so far)
+    ...checked 220/285 traders (108 qualify so far)
+    ...checked 240/285 traders (121 qualify so far)
+    ...checked 260/285 traders (134 qualify so far)
+    ...checked 280/285 traders (144 qualify so far)
+[roster] built 147 qualified wallets for 2026-09
+[scan] reading current positions of 147 roster traders...
+    ...read 20/147 traders
+    ...read 40/147 traders
+    ...read 60/147 traders
+    ...read 80/147 traders
+    ...read 100/147 traders
+    ...read 120/147 traders
+    ...read 140/147 traders
+[ENTRY]   Yes @ 0.139  x2  Jack Barton announced as next James Bond?
+[ENTRY] Cincinnati Reds @ 0.385  x2  Cincinnati Reds vs. Los Angeles Dodgers
+[ENTRY]   Yes @ 0.885  x3  Skin cancer vaccine BLA submitted by June 30, 2027
+[ENTRY]   Yes @ 0.125  x2  Iran full airspace closure by September 30?
+[ENTRY]   Yes @ 0.135  x2  Russia x Ukraine ceasefire agreement by October 31
+[ENTRY]   Yes @ 0.655  x2  Russia Elections: United Russia Wins Every Region?
+[ENTRY]   Yes @ 0.895  x2  Will Partido Liberal (PL) hold the most seats as a
+[ENTRY]    No @ 0.655  x2  Will Anne Hathaway win Best Supporting Actress at 
+[ENTRY]   Yes @ 0.117  x2  Will OpenAI not IPO by December 31, 2027?
+[ENTRY]   Yes @ 0.155  x2  Will Waymo operate in 16-19 cities on December 31 
+[ENTRY]   Yes @ 0.402  x2  Will the median home value in Los Angeles Metro be
+[ENTRY]    No @ 0.435  x2  Will Kerry-Lynne Findlay win the next Abbotsford-M
+[ENTRY]   Yes @ 0.270  x2  Will Stefan Evers be the next Governing Mayor of B
+[ENTRY] Miami Marlins @ 0.565  x2  New York Mets vs. Miami Marlins
+[ENTRY]   Yes @ 0.356  x2  Will Marine Le Pen win the 2027 French presidentia
+[ENTRY]   Yes @ 0.145  x2  Friedrich Merz out as Chancellor of Germany before
+[ENTRY]   Yes @ 0.182  x2  Will AfD win the most seats in the 2026 Berlin sta
+[ENTRY]   Yes @ 0.325  x2  Will an independent win the Nebraska Senate race i
+[ENTRY] Daniel Galan @ 0.505  x3  Tulln: Marko Topo vs Daniel Galan
+[ENTRY] Learner Tien @ 0.645  x3  US Open ATP: Karen Khachanov vs Learner Tien
+[EXIT]     No sharps left, entry 0.855 -> 0.834  ret -0.0246
+[EXIT]    Yes sharps left, entry 0.700 -> 0.735  ret 0.05
+[EXIT]     No sharps left, entry 0.818 -> 0.800  ret -0.0208
+[EXIT]    Yes sharps left, entry 0.505 -> 0.485  ret -0.0396
+[EXIT]    Yes sharps left, entry 0.723 -> 0.844  ret 0.1667
+[RESOLVE] Baltimore Orioles entry 0.445 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.110 -> 0.033  ret -0.7045
+[RESOLVE] Lorenzo Angelini entry 0.530 -> 0  ret -1.0
+[RESOLVE] Carlos Alcaraz entry 0.815 -> 1  ret 0.227
+[report] valid-resolved=137 (103 sub-48h excluded)  hit_rate=0.628  avg_entry_price=0.511  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +20 entries, 9 closed, 54 still open
+[check_stuck] clean — every open position is being refreshed.
