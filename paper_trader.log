@@ -2546,3 +2546,62 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +20 entries, 9 closed, 54 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-08 (frozen strategy v1.1) ===
+[roster] scoring 283 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/283 traders (4 qualify so far)
+    ...checked 40/283 traders (14 qualify so far)
+    ...checked 60/283 traders (26 qualify so far)
+    ...checked 80/283 traders (36 qualify so far)
+    ...checked 100/283 traders (41 qualify so far)
+    ...checked 120/283 traders (55 qualify so far)
+    ...checked 140/283 traders (65 qualify so far)
+    ...checked 160/283 traders (76 qualify so far)
+    ...checked 180/283 traders (85 qualify so far)
+    ...checked 200/283 traders (97 qualify so far)
+    ...checked 220/283 traders (109 qualify so far)
+    ...checked 240/283 traders (118 qualify so far)
+    ...checked 260/283 traders (132 qualify so far)
+    ...checked 280/283 traders (141 qualify so far)
+[roster] built 143 qualified wallets for 2026-09
+[scan] reading current positions of 143 roster traders...
+    ...read 20/143 traders
+    ...read 40/143 traders
+    ...read 60/143 traders
+    ...read 80/143 traders
+    ...read 100/143 traders
+    ...read 120/143 traders
+    ...read 140/143 traders
+[ENTRY] Maxime Janvier @ 0.555  x2  Cassis: Maxime Janvier vs Yanis Durand
+[ENTRY]   Yes @ 0.595  x2  Will Bitcoin reach $82,500 in September?
+[ENTRY]    No @ 0.855  x2  Will Bitcoin dip to $67,500 in September?
+[ENTRY]    No @ 0.390  x2  Will Solana reach $110 in September?
+[ENTRY]   Yes @ 0.475  x2  LAPTOP FDV above $250M one day after launch?
+[ENTRY]    No @ 0.135  x2  LAPTOP airdrop by September 30?
+[ENTRY]    No @ 0.910  x2  LAPTOP FDV above $1B one day after launch?
+[ENTRY]    No @ 0.165  x2  LAPTOP FDV above $50M one day after launch?
+[ENTRY]   Yes @ 0.695  x2  Will the Republicans win the Nebraska Senate race 
+[ENTRY] Marco Trungelliti @ 0.525  x4  Seville: Tiago Pereira vs Marco Trungelliti
+[ENTRY] Miguel Damas @ 0.380  x2  Tulln: Miguel Damas vs Mika Brunold
+[ENTRY]   Yes @ 0.475  x2  Will Stade Rennais FC 1901 win on 2026-09-11?
+[ENTRY]   Yes @ 0.140  x2  Will Spider-Man: Brand New Day be the #1 searched 
+[ENTRY]   Yes @ 0.305  x2  Will CDU win the most seats in the 2026 Berlin sta
+[ENTRY]   Yes @ 0.341  x2  Will the median home value in the DC Metro be betw
+[ENTRY] Raul Brancaccio @ 0.510  x2  Seville: Inaki Montes vs Raul Brancaccio
+[ENTRY]   Yes @ 0.223  x2  Will New People (NL) gain the most seats in the ne
+[ENTRY]    No @ 0.655  x2  Will no listed leader be out before 2027?
+[ENTRY] Linda Noskova @ 0.305  x2  US Open WTA: Aryna Sabalenka vs Linda Noskova
+[ENTRY] Thiago Seyboth Wild @ 0.554  x2  Genoa: Thiago Seyboth Wild vs Francesco Ferrari
+[ENTRY]   Yes @ 0.295  x2  Gemini 4.0 released by September 30, 2026?
+[RESOLVE]    No entry 0.735 -> 1  ret 0.3605
+[EXIT]    Yes sharps left, entry 0.871 -> 0.916  ret 0.0528
+[EXIT]     No sharps left, entry 0.385 -> 0.345  ret -0.1039
+[EXIT]     No sharps left, entry 0.555 -> 0.485  ret -0.1261
+[RESOLVE] Cincinnati Reds entry 0.385 -> 0  ret -1.0
+[RESOLVE] Miami Marlins entry 0.565 -> 0  ret -1.0
+[RESOLVE] Daniel Galan entry 0.505 -> 0  ret -1.0
+[RESOLVE] Learner Tien entry 0.645 -> 0  ret -1.0
+[RESOLVE] Raul Brancaccio entry 0.510 -> 1  ret 0.9608
+[report] valid-resolved=138 (108 sub-48h excluded)  hit_rate=0.630  avg_entry_price=0.512  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +21 entries, 9 closed, 66 still open
+[check_stuck] clean — every open position is being refreshed.
