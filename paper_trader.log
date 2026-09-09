@@ -2605,3 +2605,63 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +21 entries, 9 closed, 66 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-09 (frozen strategy v1.1) ===
+[roster] scoring 284 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/284 traders (4 qualify so far)
+    ...checked 40/284 traders (14 qualify so far)
+    ...checked 60/284 traders (26 qualify so far)
+    ...checked 80/284 traders (36 qualify so far)
+    ...checked 100/284 traders (41 qualify so far)
+    ...checked 120/284 traders (55 qualify so far)
+    ...checked 140/284 traders (65 qualify so far)
+    ...checked 160/284 traders (76 qualify so far)
+    ...checked 180/284 traders (82 qualify so far)
+    ...checked 200/284 traders (94 qualify so far)
+    ...checked 220/284 traders (103 qualify so far)
+    ...checked 240/284 traders (114 qualify so far)
+    ...checked 260/284 traders (122 qualify so far)
+    ...checked 280/284 traders (134 qualify so far)
+[roster] built 138 qualified wallets for 2026-09
+[scan] reading current positions of 138 roster traders...
+    ...read 20/138 traders
+    ...read 40/138 traders
+    ...read 60/138 traders
+    ...read 80/138 traders
+    ...read 100/138 traders
+    ...read 120/138 traders
+[ENTRY] Stefan Seifert @ 0.335  x2  M25 Plaisir + H: Stefan Seifert vs Antoine Walch
+[ENTRY] Irene Burillo Escorihuela @ 0.662  x4  Antalya 4: Irene Burillo Escorihuela vs Miriam Bul
+[ENTRY]   Yes @ 0.335  x2  Will Bitcoin dip to $76,000 September 7-13?
+[ENTRY]    No @ 0.901  x2  Will Kylian Mbappé win the 2026 Ballon d'Or?
+[ENTRY]    No @ 0.325  x2  US-Canada diplomatic agreement to lower tariffs by
+[ENTRY]    No @ 0.865  x2  US announces end of Iranian blockade by September 
+[ENTRY]   Yes @ 0.139  x2  Will Luiz Inácio Lula da Silva finish in second pl
+[ENTRY]   Yes @ 0.320  x2  Will Apple release a foldable iPhone by September 
+[ENTRY]    No @ 0.145  x2  Will there be no next Google Gemini Pro model rele
+[EXIT]     No sharps left, entry 0.885 -> 0.855  ret -0.0339
+[EXIT]    Yes sharps left, entry 0.460 -> 0.440  ret -0.0435
+[EXIT]    Yes sharps left, entry 0.350 -> 0.380  ret 0.0857
+[RESOLVE]   Yes entry 0.485 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.895 -> 0.880  ret -0.0168
+[EXIT]     No sharps left, entry 0.655 -> 0.625  ret -0.0458
+[EXIT]    Yes sharps left, entry 0.155 -> 0.060  ret -0.6129
+[EXIT]    Yes sharps left, entry 0.402 -> 0.189  ret -0.5299
+[EXIT]     No sharps left, entry 0.435 -> 0.415  ret -0.046
+[EXIT]    Yes sharps left, entry 0.270 -> 0.280  ret 0.037
+[EXIT]    Yes sharps left, entry 0.182 -> 0.106  ret -0.4192
+[EXIT]    Yes sharps left, entry 0.325 -> 0.305  ret -0.0615
+[RESOLVE] Maxime Janvier entry 0.555 -> 0  ret -1.0
+[RESOLVE]    No entry 0.135 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.910 -> 0.805  ret -0.1154
+[EXIT]     No sharps left, entry 0.165 -> 0.030  ret -0.8152
+[RESOLVE] Marco Trungelliti entry 0.525 -> 0  ret -1.0
+[RESOLVE] Miguel Damas entry 0.380 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.475 -> 0.445  ret -0.0632
+[EXIT]    Yes sharps left, entry 0.140 -> 0.115  ret -0.1786
+[EXIT]    Yes sharps left, entry 0.341 -> 0.344  ret 0.0088
+[EXIT]     No sharps left, entry 0.655 -> 0.635  ret -0.0305
+[RESOLVE] Linda Noskova entry 0.305 -> 0  ret -1.0
+[report] valid-resolved=139 (113 sub-48h excluded)  hit_rate=0.626  avg_entry_price=0.512  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +9 entries, 23 closed, 52 still open
+[check_stuck] clean — every open position is being refreshed.
