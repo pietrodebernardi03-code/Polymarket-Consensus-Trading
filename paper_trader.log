@@ -2665,3 +2665,59 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +9 entries, 23 closed, 52 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-10 (frozen strategy v1.1) ===
+[roster] scoring 285 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/285 traders (4 qualify so far)
+    ...checked 40/285 traders (14 qualify so far)
+    ...checked 60/285 traders (26 qualify so far)
+    ...checked 80/285 traders (37 qualify so far)
+    ...checked 100/285 traders (42 qualify so far)
+    ...checked 120/285 traders (56 qualify so far)
+    ...checked 140/285 traders (66 qualify so far)
+    ...checked 160/285 traders (75 qualify so far)
+    ...checked 180/285 traders (80 qualify so far)
+    ...checked 200/285 traders (91 qualify so far)
+    ...checked 220/285 traders (98 qualify so far)
+    ...checked 240/285 traders (111 qualify so far)
+    ...checked 260/285 traders (119 qualify so far)
+    ...checked 280/285 traders (131 qualify so far)
+[roster] built 135 qualified wallets for 2026-09
+[scan] reading current positions of 135 roster traders...
+    ...read 20/135 traders
+    ...read 40/135 traders
+    ...read 60/135 traders
+    ...read 80/135 traders
+    ...read 100/135 traders
+    ...read 120/135 traders
+[ENTRY]   Yes @ 0.460  x2  Will the season series between the Chiefs and Char
+[ENTRY] Filip Misolic @ 0.128  x2  Tulln: Filip Misolic vs Mika Brunold
+[ENTRY]   Yes @ 0.146  x2  Will Iran withdraw from the NPT before 2027?
+[ENTRY]    No @ 0.695  x2  Will Bitcoin dip to $74,000 September 7-13?
+[ENTRY]   Yes @ 0.115  x2  Will Bitcoin reach $82,000 September 7-13?
+[ENTRY]    No @ 0.230  x2  Will Bitcoin dip to $76,000 September 7-13?
+[ENTRY]    No @ 0.155  x3  Israel x Iran ceasefire continues through Septembe
+[ENTRY]   Yes @ 0.155  x2  LAPTOP FDV above $1B one day after launch?
+[ENTRY]   Yes @ 0.463  x2  LAPTOP FDV above $750M one day after launch?
+[ENTRY]   Yes @ 0.225  x2  Will 2026 be the second-hottest year on record?
+[ENTRY]   Yes @ 0.175  x2  Bab el-Mandeb Strait effectively closed by October
+[ENTRY]    No @ 0.125  x2  Will the Communist Party of the Russian Federation
+[ENTRY] Coco Gauff @ 0.505  x2  US Open WTA: Coco Gauff vs Elena Rybakina
+[EXIT]    Yes sharps left, entry 0.139 -> 0.107  ret -0.2266
+[EXIT]    Yes sharps left, entry 0.885 -> 0.865  ret -0.0226
+[EXIT]    Yes sharps left, entry 0.655 -> 0.695  ret 0.0611
+[EXIT]    Yes sharps left, entry 0.117 -> 0.029  ret -0.7511
+[EXIT]    Yes sharps left, entry 0.595 -> 0.425  ret -0.2857
+[EXIT]    Yes sharps left, entry 0.475 -> 0.966  ret 1.0326
+[EXIT]    Yes sharps left, entry 0.695 -> 0.675  ret -0.0288
+[EXIT]    Yes sharps left, entry 0.305 -> 0.265  ret -0.1311
+[EXIT]    Yes sharps left, entry 0.223 -> 0.199  ret -0.1056
+[RESOLVE] Stefan Seifert entry 0.335 -> 1  ret 1.9851
+[RESOLVE] Irene Burillo Escorihuela entry 0.662 -> 1  ret 0.5094
+[EXIT]    Yes sharps left, entry 0.335 -> 0.775  ret 1.3134
+[EXIT]     No sharps left, entry 0.325 -> 0.305  ret -0.0615
+[EXIT]    Yes sharps left, entry 0.139 -> 0.199  ret 0.4332
+[RESOLVE]   Yes entry 0.320 -> 0  ret -1.0
+[report] valid-resolved=139 (116 sub-48h excluded)  hit_rate=0.626  avg_entry_price=0.512  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +13 entries, 15 closed, 50 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
