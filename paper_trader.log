@@ -2721,3 +2721,50 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +13 entries, 15 closed, 50 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-09-11 (frozen strategy v1.1) ===
+[roster] scoring 283 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/283 traders (4 qualify so far)
+    ...checked 40/283 traders (14 qualify so far)
+    ...checked 60/283 traders (26 qualify so far)
+    ...checked 80/283 traders (36 qualify so far)
+    ...checked 100/283 traders (42 qualify so far)
+    ...checked 120/283 traders (56 qualify so far)
+    ...checked 140/283 traders (66 qualify so far)
+    ...checked 160/283 traders (76 qualify so far)
+    ...checked 180/283 traders (81 qualify so far)
+    ...checked 200/283 traders (92 qualify so far)
+    ...checked 220/283 traders (102 qualify so far)
+    ...checked 240/283 traders (114 qualify so far)
+    ...checked 260/283 traders (122 qualify so far)
+    ...checked 280/283 traders (134 qualify so far)
+[roster] built 136 qualified wallets for 2026-09
+[scan] reading current positions of 136 roster traders...
+    ...read 20/136 traders
+    ...read 40/136 traders
+    ...read 60/136 traders
+    ...read 80/136 traders
+    ...read 100/136 traders
+    ...read 120/136 traders
+[ENTRY] Josefina Estevez @ 0.555  x2  W15 Pilar (moved from San Salvador de Jujuy): Cami
+[ENTRY]    No @ 0.455  x2  Will Donyell Malen (Roma) be the top goalscorer of
+[ENTRY]   Yes @ 0.158  x2  Will the season series between the Cardinals and R
+[ENTRY]    No @ 0.740  x2  Will the Bears win the season series against the L
+[ENTRY]    No @ 0.465  x2  Will the season series between the Rams and 49ers 
+[ENTRY] Clara Burel @ 0.460  x2  Montreux: Clara Burel vs Guiomar Maristany
+[ENTRY]    No @ 0.615  x2  Will Bitcoin dip to $72,500 in September?
+[ENTRY]    No @ 0.749  x2  Will Luiz Inácio Lula da Silva finish in second pl
+[ENTRY]    No @ 0.882  x2  Will Anthropic's valuation hit (HIGH) $4.0T by Dec
+[ENTRY]   Yes @ 0.112  x2  Will Joe Burrow win the 2026 NFL MVP?
+[ENTRY]    No @ 0.465  x2  Russia x Ukraine ceasefire agreement by June 30, 2
+[ENTRY]   Yes @ 0.130  x2  Strait of Hormuz traffic returns to normal by Nove
+[EXIT]     No sharps left, entry 0.765 -> 0.775  ret 0.0131
+[EXIT]     No sharps left, entry 0.670 -> 0.585  ret -0.1269
+[EXIT]     No sharps left, entry 0.865 -> 0.805  ret -0.0694
+[RESOLVE] Filip Misolic entry 0.128 -> 0  ret -1.0
+[RESOLVE]   Yes entry 0.155 -> 0  ret -1.0
+[RESOLVE]   Yes entry 0.463 -> 0  ret -1.0
+[RESOLVE] Coco Gauff entry 0.505 -> 0  ret -1.0
+[report] valid-resolved=139 (120 sub-48h excluded)  hit_rate=0.626  avg_entry_price=0.512  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +12 entries, 7 closed, 55 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
