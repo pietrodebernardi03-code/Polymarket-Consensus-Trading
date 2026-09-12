@@ -2768,3 +2768,52 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +12 entries, 7 closed, 55 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-09-12 (frozen strategy v1.1) ===
+[roster] scoring 282 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/282 traders (4 qualify so far)
+    ...checked 40/282 traders (14 qualify so far)
+    ...checked 60/282 traders (26 qualify so far)
+    ...checked 80/282 traders (36 qualify so far)
+    ...checked 100/282 traders (41 qualify so far)
+    ...checked 120/282 traders (54 qualify so far)
+    ...checked 140/282 traders (65 qualify so far)
+    ...checked 160/282 traders (76 qualify so far)
+    ...checked 180/282 traders (83 qualify so far)
+    ...checked 200/282 traders (92 qualify so far)
+[warn] GET failed after retries: https://data-api.polymarket.com/closed-positions params={'user': '0x94c4fe3b18435aa92024c7c1589537fcda3f43ca', 'limit': 50, 'offset': 100, 'sortBy': 'TIMESTAMP', 'sortDirection': 'DESC'} err=None
+    ...checked 220/282 traders (100 qualify so far)
+    ...checked 240/282 traders (109 qualify so far)
+    ...checked 260/282 traders (120 qualify so far)
+    ...checked 280/282 traders (130 qualify so far)
+[roster] built 132 qualified wallets for 2026-09
+[scan] reading current positions of 132 roster traders...
+    ...read 20/132 traders
+    ...read 40/132 traders
+    ...read 60/132 traders
+    ...read 80/132 traders
+    ...read 100/132 traders
+    ...read 120/132 traders
+[ENTRY]    No @ 0.770  x2  Will the Packers win the season series against the
+[ENTRY]    No @ 0.640  x2  Israel x Lebanon diplomatic meeting by September 1
+[ENTRY]    No @ 0.325  x2  Will the Republicans win the Nebraska Senate race 
+[EXIT]    Yes sharps left, entry 0.125 -> 0.055  ret -0.56
+[EXIT]    Yes sharps left, entry 0.135 -> 0.085  ret -0.3704
+[EXIT]    Yes sharps left, entry 0.145 -> 0.155  ret 0.069
+[EXIT]    Yes sharps left, entry 0.295 -> 0.075  ret -0.7458
+[EXIT]     No sharps left, entry 0.145 -> 0.125  ret -0.1379
+[RESOLVE]    No entry 0.695 -> 1  ret 0.4388
+[RESOLVE]   Yes entry 0.115 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.230 -> 0.815  ret 2.5435
+[EXIT]    Yes sharps left, entry 0.175 -> 0.155  ret -0.1143
+[EXIT]     No sharps left, entry 0.125 -> 0.095  ret -0.24
+[RESOLVE] Josefina Estevez entry 0.555 -> 0  ret -1.0
+[RESOLVE] Clara Burel entry 0.460 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.615 -> 0.575  ret -0.065
+[EXIT]     No sharps left, entry 0.749 -> 0.784  ret 0.0481
+[EXIT]    Yes sharps left, entry 0.112 -> 0.091  ret -0.1794
+[EXIT]     No sharps left, entry 0.465 -> 0.445  ret -0.043
+[EXIT]    Yes sharps left, entry 0.130 -> 0.115  ret -0.1154
+[report] valid-resolved=141 (122 sub-48h excluded)  hit_rate=0.624  avg_entry_price=0.511  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +3 entries, 17 closed, 41 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
