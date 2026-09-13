@@ -2817,3 +2817,40 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +3 entries, 17 closed, 41 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-09-13 (frozen strategy v1.1) ===
+[roster] scoring 282 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/282 traders (4 qualify so far)
+    ...checked 40/282 traders (14 qualify so far)
+    ...checked 60/282 traders (27 qualify so far)
+    ...checked 80/282 traders (36 qualify so far)
+    ...checked 100/282 traders (42 qualify so far)
+[warn] GET failed after retries: https://data-api.polymarket.com/closed-positions params={'user': '0x876426b52898c295848f56760dd24b55eda2604a', 'limit': 50, 'offset': 0, 'sortBy': 'TIMESTAMP', 'sortDirection': 'DESC'} err=None
+    ...checked 120/282 traders (54 qualify so far)
+    ...checked 140/282 traders (65 qualify so far)
+    ...checked 160/282 traders (76 qualify so far)
+    ...checked 180/282 traders (84 qualify so far)
+    ...checked 200/282 traders (91 qualify so far)
+    ...checked 220/282 traders (103 qualify so far)
+    ...checked 240/282 traders (110 qualify so far)
+    ...checked 260/282 traders (122 qualify so far)
+    ...checked 280/282 traders (133 qualify so far)
+[roster] built 134 qualified wallets for 2026-09
+[scan] reading current positions of 134 roster traders...
+    ...read 20/134 traders
+    ...read 40/134 traders
+    ...read 60/134 traders
+    ...read 80/134 traders
+[warn] GET failed after retries: https://data-api.polymarket.com/positions params={'user': '0x684299e6ac5595ff7f78f1f1edc97e77fea420d0', 'limit': 500, 'sizeThreshold': 1} err=None
+[warn] GET failed after retries: https://data-api.polymarket.com/positions params={'user': '0x29b15e8557b2cb5b5ba1ec8b5cbba479ee26f737', 'limit': 500, 'sizeThreshold': 1} err=None
+[warn] GET failed after retries: https://data-api.polymarket.com/positions params={'user': '0x55a1f55fb021eb52f5233321f88ff8eca5aedb28', 'limit': 500, 'sizeThreshold': 1} err=None
+    ...read 100/134 traders
+[warn] GET failed after retries: https://data-api.polymarket.com/positions params={'user': '0x5ad7346a9f6b4a1ad852ec8e0716d446527cae48', 'limit': 500, 'sizeThreshold': 1} err=None
+    ...read 120/134 traders
+[ENTRY]    No @ 0.700  x2  Will the Packers win the season series against the
+[ENTRY]   Yes @ 0.845  x3  Will Anthropic IPO by December 31, 2026?
+[ENTRY]    No @ 0.845  x2  Will Texas Longhorns win the 2027 CFP National Cha
+[ENTRY]   Yes @ 0.535  x2  Will Linke win between 8% and 11% of all valid sec
+[report] valid-resolved=141 (122 sub-48h excluded)  hit_rate=0.624  avg_entry_price=0.511  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +4 entries, 0 closed, 45 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
