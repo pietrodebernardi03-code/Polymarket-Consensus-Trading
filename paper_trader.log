@@ -2854,3 +2854,45 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +4 entries, 0 closed, 45 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-09-14 (frozen strategy v1.1) ===
+[roster] scoring 281 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/281 traders (4 qualify so far)
+    ...checked 40/281 traders (14 qualify so far)
+    ...checked 60/281 traders (26 qualify so far)
+    ...checked 80/281 traders (36 qualify so far)
+    ...checked 100/281 traders (42 qualify so far)
+    ...checked 120/281 traders (55 qualify so far)
+    ...checked 140/281 traders (67 qualify so far)
+    ...checked 160/281 traders (76 qualify so far)
+    ...checked 180/281 traders (87 qualify so far)
+    ...checked 200/281 traders (93 qualify so far)
+    ...checked 220/281 traders (104 qualify so far)
+    ...checked 240/281 traders (109 qualify so far)
+    ...checked 260/281 traders (123 qualify so far)
+    ...checked 280/281 traders (137 qualify so far)
+[roster] built 138 qualified wallets for 2026-09
+[scan] reading current positions of 138 roster traders...
+    ...read 20/138 traders
+    ...read 40/138 traders
+    ...read 60/138 traders
+    ...read 80/138 traders
+    ...read 100/138 traders
+    ...read 120/138 traders
+[ENTRY]   Yes @ 0.125  x2  Will New York Yankees win the 2026 AL East title?
+[ENTRY]   Yes @ 0.792  x2  Will Bitcoin reach $80,000 in September?
+[ENTRY]    No @ 0.335  x2  Will Bitcoin reach $80,000 September 14-20?
+[ENTRY]    No @ 0.910  x2  Will US unemployment reach at least 6.0% in 2026?
+[ENTRY]   Yes @ 0.885  x2  Will the Democratic Party win the WA-03 House seat
+[RESOLVE] Thiago Seyboth Wild entry 0.554 -> 1  ret 0.8041
+[EXIT]     No sharps left, entry 0.455 -> 0.430  ret -0.0549
+[EXIT]    Yes sharps left, entry 0.158 -> 0.180  ret 0.1429
+[EXIT]     No sharps left, entry 0.740 -> 0.650  ret -0.1216
+[EXIT]     No sharps left, entry 0.465 -> 0.480  ret 0.0323
+[EXIT]     No sharps left, entry 0.882 -> 0.908  ret 0.0289
+[EXIT]     No sharps left, entry 0.770 -> 0.795  ret 0.0325
+[EXIT]     No sharps left, entry 0.700 -> 0.549  ret -0.2157
+[EXIT]     No sharps left, entry 0.845 -> 0.835  ret -0.0118
+[report] valid-resolved=142 (122 sub-48h excluded)  hit_rate=0.627  avg_entry_price=0.511  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +5 entries, 9 closed, 41 still open
+[check_stuck] clean — every open position is being refreshed.
