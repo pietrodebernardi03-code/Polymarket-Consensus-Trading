@@ -2896,3 +2896,49 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +5 entries, 9 closed, 41 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-15 (frozen strategy v1.1) ===
+[roster] scoring 277 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/277 traders (5 qualify so far)
+    ...checked 40/277 traders (14 qualify so far)
+    ...checked 60/277 traders (27 qualify so far)
+    ...checked 80/277 traders (36 qualify so far)
+    ...checked 100/277 traders (42 qualify so far)
+    ...checked 120/277 traders (56 qualify so far)
+    ...checked 140/277 traders (66 qualify so far)
+    ...checked 160/277 traders (75 qualify so far)
+    ...checked 180/277 traders (85 qualify so far)
+    ...checked 200/277 traders (92 qualify so far)
+    ...checked 220/277 traders (99 qualify so far)
+    ...checked 240/277 traders (108 qualify so far)
+    ...checked 260/277 traders (119 qualify so far)
+[roster] built 131 qualified wallets for 2026-09
+[scan] reading current positions of 131 roster traders...
+    ...read 20/131 traders
+    ...read 40/131 traders
+    ...read 60/131 traders
+    ...read 80/131 traders
+    ...read 100/131 traders
+    ...read 120/131 traders
+[ENTRY] Hiroki Moriya @ 0.255  x2  Phan Thiet 4: Blake Ellis vs Hiroki Moriya
+[ENTRY]    No @ 0.435  x3  US x Iran diplomatic meeting by March 31, 2027?
+[ENTRY]   Yes @ 0.395  x2  Will the Eagles win the season series against the 
+[ENTRY]    No @ 0.785  x2  Will Jeremiyah Love win the 2026 NFL Offensive Roo
+[ENTRY]   Yes @ 0.380  x2  Will the season series between the Bears and Vikin
+[ENTRY]    No @ 0.380  x2  Will the Chiefs win the season series against the 
+[ENTRY] Weronika Falkowska @ 0.828  x2  Ljubljana: Weronika Falkowska vs Kristina Novak
+[ENTRY]   Yes @ 0.165  x2  Will Bitcoin reach $82,000 September 14-20?
+[ENTRY]   Yes @ 0.318  x2  Will Bitcoin reach $80,000 September 14-20?
+[ENTRY]    No @ 0.465  x3  Will Bitcoin dip to $74,000 September 14-20?
+[ENTRY]   Yes @ 0.135  x2  Will Bitcoin reach $110,000 by December 31, 2026?
+[ENTRY]    No @ 0.910  x2  Will Bitcoin dip to $70,000 September 14-20?
+[ENTRY]   Yes @ 0.215  x2  US x Iran diplomatic meeting by October 31, 2026?
+[ENTRY]   Yes @ 0.535  x2  Netanyahu out by end of 2026?
+[ENTRY]    No @ 0.880  x2  Will Solana dip to $80 in September?
+[ENTRY]   Yes @ 0.115  x2  Will the New York Yankees win the 2026 World Serie
+[ENTRY]   Yes @ 0.200  x2  Will Ethereum dip to $2,100 in September?
+[EXIT]    Yes sharps left, entry 0.565 -> 0.755  ret 0.3363
+[EXIT]     No sharps left, entry 0.335 -> 0.665  ret 0.9851
+[report] valid-resolved=142 (122 sub-48h excluded)  hit_rate=0.627  avg_entry_price=0.511  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +17 entries, 2 closed, 56 still open
+[check_stuck] clean — every open position is being refreshed.
