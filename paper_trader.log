@@ -2942,3 +2942,49 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +17 entries, 2 closed, 56 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-16 (frozen strategy v1.1) ===
+[roster] scoring 278 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/278 traders (5 qualify so far)
+    ...checked 40/278 traders (14 qualify so far)
+    ...checked 60/278 traders (26 qualify so far)
+    ...checked 80/278 traders (35 qualify so far)
+    ...checked 100/278 traders (41 qualify so far)
+    ...checked 120/278 traders (55 qualify so far)
+    ...checked 140/278 traders (65 qualify so far)
+    ...checked 160/278 traders (74 qualify so far)
+    ...checked 180/278 traders (84 qualify so far)
+    ...checked 200/278 traders (90 qualify so far)
+    ...checked 220/278 traders (96 qualify so far)
+    ...checked 240/278 traders (104 qualify so far)
+    ...checked 260/278 traders (113 qualify so far)
+[roster] built 126 qualified wallets for 2026-09
+[scan] reading current positions of 126 roster traders...
+    ...read 20/126 traders
+    ...read 40/126 traders
+    ...read 60/126 traders
+    ...read 80/126 traders
+    ...read 100/126 traders
+    ...read 120/126 traders
+[ENTRY]    No @ 0.905  x2  Will the Buffalo Bills win the 2027 NFL league cha
+[ENTRY]    No @ 0.365  x2  Will the Democrats win the 2028 US Presidential El
+[ENTRY]    No @ 0.845  x2  Will Ethereum dip to $2,200 September 14-20?
+[ENTRY]   Yes @ 0.635  x2  Will the Fed increase interest rates by 25 bps aft
+[EXIT]    Yes sharps left, entry 0.115 -> 0.095  ret -0.1739
+[EXIT]    Yes sharps left, entry 0.142 -> 0.286  ret 1.007
+[EXIT]     No sharps left, entry 0.460 -> 0.385  ret -0.163
+[EXIT]    Yes sharps left, entry 0.252 -> 0.255  ret 0.0099
+[EXIT]    Yes sharps left, entry 0.405 -> 0.390  ret -0.037
+[EXIT]    Yes sharps left, entry 0.460 -> 0.445  ret -0.0326
+[RESOLVE]    No entry 0.640 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.792 -> 0.435  ret -0.4511
+[RESOLVE] Hiroki Moriya entry 0.255 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.395 -> 0.380  ret -0.038
+[EXIT]     No sharps left, entry 0.785 -> 0.765  ret -0.0255
+[EXIT]    Yes sharps left, entry 0.380 -> 0.410  ret 0.0789
+[EXIT]     No sharps left, entry 0.380 -> 0.360  ret -0.0526
+[RESOLVE] Weronika Falkowska entry 0.828 -> 1  ret 0.2085
+[EXIT]    Yes sharps left, entry 0.115 -> 0.095  ret -0.1739
+[report] valid-resolved=143 (124 sub-48h excluded)  hit_rate=0.622  avg_entry_price=0.512  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +4 entries, 15 closed, 45 still open
+[check_stuck] clean — every open position is being refreshed.
