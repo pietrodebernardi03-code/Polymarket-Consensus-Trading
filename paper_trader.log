@@ -2988,3 +2988,41 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +4 entries, 15 closed, 45 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-17 (frozen strategy v1.1) ===
+[roster] scoring 276 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/276 traders (5 qualify so far)
+    ...checked 40/276 traders (15 qualify so far)
+    ...checked 60/276 traders (25 qualify so far)
+    ...checked 80/276 traders (36 qualify so far)
+    ...checked 100/276 traders (41 qualify so far)
+    ...checked 120/276 traders (56 qualify so far)
+    ...checked 140/276 traders (67 qualify so far)
+    ...checked 160/276 traders (75 qualify so far)
+    ...checked 180/276 traders (84 qualify so far)
+    ...checked 200/276 traders (89 qualify so far)
+    ...checked 220/276 traders (98 qualify so far)
+    ...checked 240/276 traders (109 qualify so far)
+    ...checked 260/276 traders (119 qualify so far)
+[roster] built 129 qualified wallets for 2026-09
+[scan] reading current positions of 129 roster traders...
+    ...read 20/129 traders
+    ...read 40/129 traders
+    ...read 60/129 traders
+    ...read 80/129 traders
+    ...read 100/129 traders
+    ...read 120/129 traders
+[ENTRY] Guiomar Maristany @ 0.650  x2  Valencia: Guiomar Maristany vs Marina Bassols Ribe
+[ENTRY]    No @ 0.565  x2  Will Bitcoin reach $80,000 in September?
+[ENTRY]   Yes @ 0.345  x2  US announces end of Iranian blockade by October 31
+[ENTRY]   Yes @ 0.247  x2  Will the price of Bitcoin be above $78,000 on Sept
+[ENTRY]    No @ 0.525  x2  Will Ethereum reach $2,600 in September?
+[ENTRY]   Yes @ 0.420  x2  Will Bitcoin dip to $72,500 in September?
+[ENTRY]   Yes @ 0.520  x2  Will Ethereum dip to $2,300 in September?
+[ENTRY]   Yes @ 0.780  x2  Will Bitcoin reach $77,500 in September?
+[RESOLVE]   Yes entry 0.425 -> 0  ret -1.0
+[RESOLVE]    No entry 0.910 -> 1  ret 0.0989
+[EXIT]    Yes sharps left, entry 0.635 -> 0.675  ret 0.063
+[report] valid-resolved=145 (124 sub-48h excluded)  hit_rate=0.621  avg_entry_price=0.514  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +8 entries, 3 closed, 50 still open
+[check_stuck] clean — every open position is being refreshed.
