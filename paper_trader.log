@@ -3026,3 +3026,49 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +8 entries, 3 closed, 50 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-18 (frozen strategy v1.1) ===
+[roster] scoring 278 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/278 traders (5 qualify so far)
+    ...checked 40/278 traders (15 qualify so far)
+    ...checked 60/278 traders (26 qualify so far)
+    ...checked 80/278 traders (36 qualify so far)
+    ...checked 100/278 traders (41 qualify so far)
+    ...checked 120/278 traders (55 qualify so far)
+    ...checked 140/278 traders (67 qualify so far)
+    ...checked 160/278 traders (75 qualify so far)
+    ...checked 180/278 traders (85 qualify so far)
+    ...checked 200/278 traders (90 qualify so far)
+    ...checked 220/278 traders (96 qualify so far)
+    ...checked 240/278 traders (110 qualify so far)
+    ...checked 260/278 traders (119 qualify so far)
+[roster] built 130 qualified wallets for 2026-09
+[scan] reading current positions of 130 roster traders...
+    ...read 20/130 traders
+    ...read 40/130 traders
+    ...read 60/130 traders
+    ...read 80/130 traders
+    ...read 100/130 traders
+    ...read 120/130 traders
+[ENTRY] Jay Clarke @ 0.410  x2  Biella: Jay Clarke vs Felix Gill
+[ENTRY]   Yes @ 0.825  x3  Nothing Ever Happens: 2026
+[ENTRY] Clement Chidekh @ 0.425  x3  Rennes: Harold Mayot vs Clement Chidekh
+[ENTRY]    No @ 0.855  x2  Friedrich Merz out as Chancellor of Germany before
+[ENTRY]    No @ 0.795  x2  Will Solana reach $120 in September?
+[EXIT]     No sharps left, entry 0.845 -> 0.795  ret -0.0592
+[EXIT]    Yes sharps left, entry 0.165 -> 0.032  ret -0.8091
+[EXIT]    Yes sharps left, entry 0.318 -> 0.175  ret -0.4488
+[RESOLVE]    No entry 0.465 -> 1  ret 1.1505
+[EXIT]    Yes sharps left, entry 0.135 -> 0.085  ret -0.3704
+[EXIT]    Yes sharps left, entry 0.200 -> 0.065  ret -0.675
+[EXIT]     No sharps left, entry 0.365 -> 0.355  ret -0.0274
+[RESOLVE]    No entry 0.845 -> 1  ret 0.1834
+[RESOLVE] Guiomar Maristany entry 0.650 -> 1  ret 0.5385
+[EXIT]    Yes sharps left, entry 0.247 -> 0.490  ret 0.9798
+[EXIT]     No sharps left, entry 0.525 -> 0.340  ret -0.3524
+[EXIT]    Yes sharps left, entry 0.420 -> 0.195  ret -0.5357
+[EXIT]    Yes sharps left, entry 0.520 -> 0.310  ret -0.4038
+[RESOLVE]   Yes entry 0.780 -> 1  ret 0.2821
+[report] valid-resolved=147 (126 sub-48h excluded)  hit_rate=0.626  avg_entry_price=0.516  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +5 entries, 14 closed, 41 still open
+[check_stuck] clean — every open position is being refreshed.
