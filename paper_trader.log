@@ -3072,3 +3072,48 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +5 entries, 14 closed, 41 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-19 (frozen strategy v1.1) ===
+[roster] scoring 277 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/277 traders (5 qualify so far)
+    ...checked 40/277 traders (14 qualify so far)
+    ...checked 60/277 traders (26 qualify so far)
+    ...checked 80/277 traders (37 qualify so far)
+    ...checked 100/277 traders (41 qualify so far)
+    ...checked 120/277 traders (56 qualify so far)
+    ...checked 140/277 traders (68 qualify so far)
+    ...checked 160/277 traders (77 qualify so far)
+    ...checked 180/277 traders (86 qualify so far)
+    ...checked 200/277 traders (92 qualify so far)
+    ...checked 220/277 traders (99 qualify so far)
+    ...checked 240/277 traders (111 qualify so far)
+    ...checked 260/277 traders (120 qualify so far)
+[roster] built 129 qualified wallets for 2026-09
+[scan] reading current positions of 129 roster traders...
+    ...read 20/129 traders
+    ...read 40/129 traders
+    ...read 60/129 traders
+    ...read 80/129 traders
+    ...read 100/129 traders
+    ...read 120/129 traders
+[ENTRY]   Yes @ 0.355  x2  Will Athletic Club win on 2026-09-16?
+[ENTRY]    No @ 0.903  x2  Will Ethereum reach $3,100 in September?
+[ENTRY]    No @ 0.310  x2  Russia x Ukraine ceasefire agreement by December 3
+[ENTRY]    No @ 0.840  x2  Will Solana reach $130 in September?
+[ENTRY]    No @ 0.195  x2  Nothing Ever Happens: 2026
+[ENTRY]    No @ 0.845  x2  Will Ethereum reach $3,000 in September?
+[RESOLVE]    No entry 0.390 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.901 -> 0.913  ret 0.0133
+[EXIT]    Yes sharps left, entry 0.146 -> 0.117  ret -0.1969
+[EXIT]     No sharps left, entry 0.155 -> 0.040  ret -0.7419
+[EXIT]    Yes sharps left, entry 0.225 -> 0.220  ret -0.0222
+[EXIT]    Yes sharps left, entry 0.535 -> 0.615  ret 0.1495
+[EXIT]    Yes sharps left, entry 0.215 -> 0.255  ret 0.186
+[RESOLVE]    No entry 0.565 -> 0  ret -1.0
+[RESOLVE] Jay Clarke entry 0.410 -> 1  ret 1.439
+[EXIT]    Yes sharps left, entry 0.825 -> 0.805  ret -0.0242
+[RESOLVE] Clement Chidekh entry 0.425 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.855 -> 0.770  ret -0.0994
+[report] valid-resolved=149 (128 sub-48h excluded)  hit_rate=0.617  avg_entry_price=0.515  median_ret=+0.198
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +6 entries, 12 closed, 35 still open
+[check_stuck] clean — every open position is being refreshed.
