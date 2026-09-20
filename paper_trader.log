@@ -3117,3 +3117,38 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +6 entries, 12 closed, 35 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-20 (frozen strategy v1.1) ===
+[roster] scoring 278 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/278 traders (5 qualify so far)
+    ...checked 40/278 traders (15 qualify so far)
+    ...checked 60/278 traders (25 qualify so far)
+    ...checked 80/278 traders (36 qualify so far)
+    ...checked 100/278 traders (40 qualify so far)
+    ...checked 120/278 traders (56 qualify so far)
+    ...checked 140/278 traders (68 qualify so far)
+    ...checked 160/278 traders (74 qualify so far)
+    ...checked 180/278 traders (82 qualify so far)
+    ...checked 200/278 traders (91 qualify so far)
+    ...checked 220/278 traders (97 qualify so far)
+    ...checked 240/278 traders (106 qualify so far)
+    ...checked 260/278 traders (118 qualify so far)
+[roster] built 127 qualified wallets for 2026-09
+[scan] reading current positions of 127 roster traders...
+    ...read 20/127 traders
+    ...read 40/127 traders
+    ...read 60/127 traders
+    ...read 80/127 traders
+    ...read 100/127 traders
+    ...read 120/127 traders
+[ENTRY]   Yes @ 0.130  x2  Will the Fed Hike–Pause–Pause in the next three de
+[ENTRY]    No @ 0.895  x2  Strait of Hormuz traffic returns to normal by Nove
+[ENTRY]   Yes @ 0.293  x2  Will Augusto Cury finish in third place in the fir
+[ENTRY]   Yes @ 0.435  x2  Russia-Ukraine peace talks by October 31, 2026?
+[ENTRY]    No @ 0.905  x2  US x Iran diplomatic meeting by September 30, 2026
+[ENTRY]    No @ 0.855  x2  NATO x Russia military clash by October 31, 2026?
+[ENTRY]    No @ 0.755  x2  Iran leadership change by June 30, 2027?
+[ENTRY]    No @ 0.491  x2  Will Gadi Eizenkot be the next Prime Minister of I
+[report] valid-resolved=149 (128 sub-48h excluded)  hit_rate=0.617  avg_entry_price=0.515  median_ret=+0.198
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +8 entries, 0 closed, 43 still open
+[check_stuck] clean — every open position is being refreshed.
