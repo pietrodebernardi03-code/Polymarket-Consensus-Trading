@@ -3152,3 +3152,50 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +8 entries, 0 closed, 43 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-21 (frozen strategy v1.1) ===
+[roster] scoring 275 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/275 traders (4 qualify so far)
+    ...checked 40/275 traders (13 qualify so far)
+    ...checked 60/275 traders (23 qualify so far)
+    ...checked 80/275 traders (35 qualify so far)
+    ...checked 100/275 traders (38 qualify so far)
+    ...checked 120/275 traders (52 qualify so far)
+    ...checked 140/275 traders (65 qualify so far)
+    ...checked 160/275 traders (72 qualify so far)
+    ...checked 180/275 traders (80 qualify so far)
+    ...checked 200/275 traders (88 qualify so far)
+    ...checked 220/275 traders (93 qualify so far)
+    ...checked 240/275 traders (104 qualify so far)
+    ...checked 260/275 traders (113 qualify so far)
+[roster] built 121 qualified wallets for 2026-09
+[scan] reading current positions of 121 roster traders...
+    ...read 20/121 traders
+    ...read 40/121 traders
+    ...read 60/121 traders
+    ...read 80/121 traders
+    ...read 100/121 traders
+    ...read 120/121 traders
+[ENTRY]   Yes @ 0.165  x3  Iran leadership change by December 31?
+[ENTRY]   Yes @ 0.168  x2  Will any Uranium Enrichment % Cap (1+ Year) be in 
+[ENTRY]    No @ 0.870  x2  Will Bitcoin reach $120,000 by December 31, 2026?
+[ENTRY] Francesco Maestrelli @ 0.163  x2  St. Tropez: Andrea Guerrieri vs Francesco Maestrel
+[ENTRY]    No @ 0.445  x2  Will Karen Bass win the 2026 Los Angeles mayoral e
+[ENTRY]    No @ 0.430  x2  Predict.fun FDV above $400M one day after launch?
+[RESOLVE]    No entry 0.855 -> 1  ret 0.1696
+[EXIT]     No sharps left, entry 0.910 -> 0.962  ret 0.0571
+[EXIT]     No sharps left, entry 0.880 -> 0.966  ret 0.0977
+[EXIT]     No sharps left, entry 0.795 -> 0.130  ret -0.8365
+[EXIT]     No sharps left, entry 0.903 -> 0.811  ret -0.1024
+[EXIT]     No sharps left, entry 0.840 -> 0.625  ret -0.256
+[EXIT]    Yes sharps left, entry 0.130 -> 0.110  ret -0.1538
+[EXIT]     No sharps left, entry 0.895 -> 0.875  ret -0.0223
+[EXIT]    Yes sharps left, entry 0.293 -> 0.394  ret 0.3407
+[EXIT]    Yes sharps left, entry 0.435 -> 0.415  ret -0.046
+[EXIT]     No sharps left, entry 0.905 -> 0.835  ret -0.0773
+[EXIT]     No sharps left, entry 0.855 -> 0.825  ret -0.0351
+[EXIT]     No sharps left, entry 0.755 -> 0.730  ret -0.0331
+[EXIT]     No sharps left, entry 0.491 -> 0.457  ret -0.0702
+[report] valid-resolved=150 (128 sub-48h excluded)  hit_rate=0.620  avg_entry_price=0.518  median_ret=+0.198
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +6 entries, 14 closed, 35 still open
+[check_stuck] clean — every open position is being refreshed.
