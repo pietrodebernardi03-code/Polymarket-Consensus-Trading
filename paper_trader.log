@@ -3199,3 +3199,64 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +6 entries, 14 closed, 35 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-22 (frozen strategy v1.1) ===
+[roster] scoring 276 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/276 traders (2 qualify so far)
+[warn] GET failed after retries: https://data-api.polymarket.com/closed-positions params={'user': '0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227', 'limit': 50, 'offset': 250, 'sortBy': 'TIMESTAMP', 'sortDirection': 'DESC'} err=None
+    ...checked 40/276 traders (11 qualify so far)
+    ...checked 60/276 traders (18 qualify so far)
+    ...checked 80/276 traders (28 qualify so far)
+    ...checked 100/276 traders (37 qualify so far)
+    ...checked 120/276 traders (50 qualify so far)
+    ...checked 140/276 traders (59 qualify so far)
+    ...checked 160/276 traders (71 qualify so far)
+    ...checked 180/276 traders (79 qualify so far)
+    ...checked 200/276 traders (85 qualify so far)
+    ...checked 220/276 traders (97 qualify so far)
+    ...checked 240/276 traders (106 qualify so far)
+    ...checked 260/276 traders (119 qualify so far)
+[roster] built 131 qualified wallets for 2026-09
+[scan] reading current positions of 131 roster traders...
+    ...read 20/131 traders
+    ...read 40/131 traders
+    ...read 60/131 traders
+    ...read 80/131 traders
+    ...read 100/131 traders
+    ...read 120/131 traders
+[ENTRY]   Yes @ 0.225  x3  NATO x Russia military clash by October 31, 2026?
+[ENTRY]    No @ 0.795  x2  Will Bitcoin reach $92,500 in September?
+[ENTRY]   Yes @ 0.127  x2  Bitcoin all time high by December 31, 2026?
+[ENTRY] Katerina Tsygourova @ 0.325  x2  Tolentino: Veronika Erjavec vs Katerina Tsygourova
+[ENTRY]   Yes @ 0.340  x2  Will Solana reach $160 by December 31, 2026?
+[ENTRY]    No @ 0.730  x2  Exact Score: Levante UD 0 - 1 Athletic Club?
+[ENTRY]   Yes @ 0.190  x2  Exact Score: Levante UD 1 - 1 Athletic Club?
+[ENTRY]    No @ 0.735  x2  Will Levante UD win on 2026-09-16?
+[ENTRY]  Over @ 0.500  x2  Levante UD vs. Athletic Club: O/U 2.5
+[ENTRY]    No @ 0.345  x2  Will France win on 2026-09-25?
+[ENTRY]   Yes @ 0.425  x2  Will Bulgaria win on 2026-09-26?
+[ENTRY] Under @ 0.515  x2  Denmark vs. Wales: O/U 2.5
+[ENTRY]   Yes @ 0.525  x2  Will CD Tenerife win on 2026-09-26?
+[ENTRY] Under @ 0.580  x3  Levante UD vs. Athletic Club: 1st Half O/U 1.5
+[ENTRY]   Yes @ 0.455  x2  Will Charlotte FC win on 2026-09-26?
+[ENTRY] Türkiye @ 0.595  x2  Spread: France (-1.5)
+[ENTRY] North Macedonia @ 0.555  x2  Spread: Switzerland (-1.5)
+[ENTRY] Under @ 0.600  x2  Levante UD vs. Athletic Club: O/U 3.5
+[ENTRY]    No @ 0.565  x2  Will St. Louis City SC win on 2026-09-26?
+[ENTRY] Cardinals @ 0.225  x2  Cardinals vs. 49ers
+[ENTRY] Patriots @ 0.465  x2  Spread: Jaguars (-2.5)
+[ENTRY]    No @ 0.770  x2  Exact Score: Levante UD 2 - 1 Athletic Club?
+[EXIT]     No sharps left, entry 0.895 -> 0.873  ret -0.0246
+[EXIT]    Yes sharps left, entry 0.356 -> 0.373  ret 0.0477
+[EXIT]     No sharps left, entry 0.325 -> 0.305  ret -0.0615
+[RESOLVE]   Yes entry 0.125 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.885 -> 0.900  ret 0.0169
+[EXIT]     No sharps left, entry 0.310 -> 0.280  ret -0.0968
+[EXIT]     No sharps left, entry 0.195 -> 0.165  ret -0.1538
+[EXIT]     No sharps left, entry 0.845 -> 0.735  ret -0.1302
+[RESOLVE] Francesco Maestrelli entry 0.163 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.445 -> 0.425  ret -0.0449
+[EXIT]     No sharps left, entry 0.430 -> 0.420  ret -0.0233
+[report] valid-resolved=151 (129 sub-48h excluded)  hit_rate=0.616  avg_entry_price=0.515  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +22 entries, 11 closed, 46 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
