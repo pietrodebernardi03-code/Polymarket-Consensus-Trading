@@ -3260,3 +3260,54 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +22 entries, 11 closed, 46 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-09-23 (frozen strategy v1.1) ===
+[roster] scoring 274 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/274 traders (3 qualify so far)
+    ...checked 40/274 traders (12 qualify so far)
+    ...checked 60/274 traders (19 qualify so far)
+    ...checked 80/274 traders (29 qualify so far)
+    ...checked 100/274 traders (38 qualify so far)
+    ...checked 120/274 traders (51 qualify so far)
+    ...checked 140/274 traders (60 qualify so far)
+    ...checked 160/274 traders (70 qualify so far)
+    ...checked 180/274 traders (77 qualify so far)
+    ...checked 200/274 traders (85 qualify so far)
+    ...checked 220/274 traders (95 qualify so far)
+    ...checked 240/274 traders (105 qualify so far)
+    ...checked 260/274 traders (118 qualify so far)
+[roster] built 127 qualified wallets for 2026-09
+[scan] reading current positions of 127 roster traders...
+    ...read 20/127 traders
+    ...read 40/127 traders
+    ...read 60/127 traders
+    ...read 80/127 traders
+    ...read 100/127 traders
+    ...read 120/127 traders
+[ENTRY]    No @ 0.115  x2  US x Iran ceasefire continues through September 30
+[ENTRY]   Yes @ 0.425  x2  Will Bitcoin reach $88,000 September 21-27?
+[ENTRY]    No @ 0.814  x2  Will Bitcoin dip to $80,000 in September?
+[ENTRY]   Yes @ 0.665  x2  Will Bitcoin reach $87,500 in September?
+[RESOLVE]    No entry 0.435 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.345 -> 0.325  ret -0.058
+[RESOLVE] Katerina Tsygourova entry 0.325 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.730 -> 0.740  ret 0.0137
+[EXIT]    Yes sharps left, entry 0.190 -> 0.145  ret -0.2368
+[EXIT]     No sharps left, entry 0.735 -> 0.720  ret -0.0204
+[EXIT]   Over sharps left, entry 0.500 -> 0.480  ret -0.04
+[EXIT]     No sharps left, entry 0.345 -> 0.315  ret -0.087
+[EXIT]    Yes sharps left, entry 0.425 -> 0.405  ret -0.0471
+[EXIT]  Under sharps left, entry 0.515 -> 0.495  ret -0.0388
+[EXIT]    Yes sharps left, entry 0.525 -> 0.495  ret -0.0571
+[EXIT]  Under sharps left, entry 0.580 -> 0.535  ret -0.0776
+[EXIT]    Yes sharps left, entry 0.455 -> 0.425  ret -0.0659
+[EXIT]  Türkiye sharps left, entry 0.595 -> 0.560  ret -0.0588
+[EXIT]  North Macedonia sharps left, entry 0.555 -> 0.540  ret -0.027
+[EXIT]  Under sharps left, entry 0.600 -> 0.625  ret 0.0417
+[EXIT]     No sharps left, entry 0.565 -> 0.515  ret -0.0885
+[EXIT]  Cardinals sharps left, entry 0.225 -> 0.205  ret -0.0889
+[EXIT]  Patriots sharps left, entry 0.465 -> 0.455  ret -0.0215
+[EXIT]     No sharps left, entry 0.770 -> 0.750  ret -0.026
+[report] valid-resolved=152 (130 sub-48h excluded)  hit_rate=0.612  avg_entry_price=0.515  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +4 entries, 20 closed, 30 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
