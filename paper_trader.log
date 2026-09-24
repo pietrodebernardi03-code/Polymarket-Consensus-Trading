@@ -3311,3 +3311,40 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +4 entries, 20 closed, 30 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-09-24 (frozen strategy v1.1) ===
+[roster] scoring 273 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/273 traders (4 qualify so far)
+    ...checked 40/273 traders (13 qualify so far)
+    ...checked 60/273 traders (20 qualify so far)
+    ...checked 80/273 traders (30 qualify so far)
+    ...checked 100/273 traders (39 qualify so far)
+    ...checked 120/273 traders (52 qualify so far)
+    ...checked 140/273 traders (61 qualify so far)
+    ...checked 160/273 traders (71 qualify so far)
+    ...checked 180/273 traders (81 qualify so far)
+    ...checked 200/273 traders (86 qualify so far)
+    ...checked 220/273 traders (99 qualify so far)
+    ...checked 240/273 traders (107 qualify so far)
+    ...checked 260/273 traders (117 qualify so far)
+[roster] built 128 qualified wallets for 2026-09
+[scan] reading current positions of 128 roster traders...
+    ...read 20/128 traders
+    ...read 40/128 traders
+    ...read 60/128 traders
+    ...read 80/128 traders
+    ...read 100/128 traders
+    ...read 120/128 traders
+[ENTRY]   Yes @ 0.155  x2  Will Bitcoin dip to $60,000 by December 31, 2026?
+[ENTRY]   Yes @ 0.135  x3  Will Bitcoin dip to $80,000 September 21-27?
+[ENTRY]   Yes @ 0.365  x2  Will Bitcoin dip to $70,000 by December 31, 2026?
+[ENTRY]    No @ 0.895  x3  Will Bitcoin dip to $77,500 in September?
+[ENTRY]    No @ 0.295  x2  Will Bitcoin dip to $82,500 in September?
+[ENTRY]    No @ 0.263  x2  Will Ethereum dip to $2,600 in September?
+[ENTRY]   Yes @ 0.825  x2  Will the price of Bitcoin be above $82,000 on Sept
+[ENTRY]    No @ 0.505  x2  Will Ethereum dip to $2,600 September 21-27?
+[EXIT]    Yes sharps left, entry 0.355 -> 0.440  ret 0.2394
+[EXIT]    Yes sharps left, entry 0.425 -> 0.165  ret -0.6118
+[report] valid-resolved=152 (130 sub-48h excluded)  hit_rate=0.612  avg_entry_price=0.515  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +8 entries, 2 closed, 36 still open
+[check_stuck] clean — every open position is being refreshed.
