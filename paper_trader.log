@@ -3348,3 +3348,47 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +8 entries, 2 closed, 36 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-25 (frozen strategy v1.1) ===
+[roster] scoring 273 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/273 traders (4 qualify so far)
+    ...checked 40/273 traders (13 qualify so far)
+    ...checked 60/273 traders (20 qualify so far)
+    ...checked 80/273 traders (30 qualify so far)
+    ...checked 100/273 traders (38 qualify so far)
+    ...checked 120/273 traders (52 qualify so far)
+    ...checked 140/273 traders (59 qualify so far)
+    ...checked 160/273 traders (69 qualify so far)
+    ...checked 180/273 traders (78 qualify so far)
+    ...checked 200/273 traders (83 qualify so far)
+    ...checked 220/273 traders (95 qualify so far)
+    ...checked 240/273 traders (105 qualify so far)
+    ...checked 260/273 traders (117 qualify so far)
+[roster] built 128 qualified wallets for 2026-09
+[scan] reading current positions of 128 roster traders...
+    ...read 20/128 traders
+    ...read 40/128 traders
+    ...read 60/128 traders
+    ...read 80/128 traders
+    ...read 100/128 traders
+    ...read 120/128 traders
+[ENTRY] Sinja Kraus @ 0.448  x2  Porto: Elena Malygina vs Sinja Kraus
+[ENTRY] Baltimore Orioles @ 0.485  x2  Baltimore Orioles vs. New York Yankees
+[ENTRY] Hugo Gaston @ 0.225  x3  Hangzhou Open: Jaime Faria vs Hugo Gaston
+[ENTRY]   Yes @ 0.110  x2  Masoud Pezeshkian out by December 31?
+[ENTRY]   Yes @ 0.445  x2  Will Karen Bass win the 2026 Los Angeles mayoral e
+[ENTRY] Hugo Gaston @ 0.507  x2  Set Handicap: Jaime Faria (-1.5) vs Hugo Gaston (+
+[ENTRY]  Over @ 0.505  x2  Rams vs. Broncos: O/U 44.5
+[ENTRY] Tampa Bay Rays @ 0.395  x2  Tampa Bay Rays vs. Philadelphia Phillies
+[ENTRY] Adolfo Vallejo @ 0.385  x2  Hangzhou Open: Coleman Wong vs Adolfo Vallejo
+[ENTRY]    No @ 0.165  x2  Israel x Iran ceasefire continues through October 
+[ENTRY]   Yes @ 0.205  x2  Bab el-Mandeb Strait effectively closed by Decembe
+[EXIT]    Yes sharps left, entry 0.168 -> 0.115  ret -0.3134
+[EXIT]    Yes sharps left, entry 0.665 -> 0.245  ret -0.6316
+[EXIT]    Yes sharps left, entry 0.135 -> 0.027  ret -0.8
+[EXIT]    Yes sharps left, entry 0.365 -> 0.310  ret -0.1507
+[EXIT]     No sharps left, entry 0.295 -> 0.295  ret 0.0
+[EXIT]     No sharps left, entry 0.505 -> 0.770  ret 0.5248
+[report] valid-resolved=152 (130 sub-48h excluded)  hit_rate=0.612  avg_entry_price=0.515  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +11 entries, 6 closed, 41 still open
+[check_stuck] clean — every open position is being refreshed.
