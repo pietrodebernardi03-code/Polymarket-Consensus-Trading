@@ -3392,3 +3392,43 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +11 entries, 6 closed, 41 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-26 (frozen strategy v1.1) ===
+[roster] scoring 272 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/272 traders (4 qualify so far)
+    ...checked 40/272 traders (13 qualify so far)
+    ...checked 60/272 traders (20 qualify so far)
+    ...checked 80/272 traders (30 qualify so far)
+    ...checked 100/272 traders (38 qualify so far)
+    ...checked 120/272 traders (52 qualify so far)
+    ...checked 140/272 traders (62 qualify so far)
+    ...checked 160/272 traders (71 qualify so far)
+    ...checked 180/272 traders (78 qualify so far)
+    ...checked 200/272 traders (85 qualify so far)
+    ...checked 220/272 traders (95 qualify so far)
+    ...checked 240/272 traders (103 qualify so far)
+    ...checked 260/272 traders (117 qualify so far)
+[roster] built 126 qualified wallets for 2026-09
+[scan] reading current positions of 126 roster traders...
+    ...read 20/126 traders
+    ...read 40/126 traders
+    ...read 60/126 traders
+    ...read 80/126 traders
+    ...read 100/126 traders
+    ...read 120/126 traders
+[ENTRY]    No @ 0.782  x2  No one announced as next James Bond?
+[ENTRY]    No @ 0.689  x2  Jack Lowden announced as next James Bond?
+[ENTRY]    No @ 0.270  x2  Will NVIDIA be the largest company in the world by
+[ENTRY]   Yes @ 0.180  x2  Will Apple be the largest company in the world by 
+[ENTRY]   Yes @ 0.240  x2  Will WTI Crude Oil (WTI) hit (HIGH) $100 in Septem
+[RESOLVE] Sinja Kraus entry 0.448 -> 1  ret 1.2346
+[RESOLVE] Baltimore Orioles entry 0.485 -> 0  ret -1.0
+[RESOLVE] Hugo Gaston entry 0.225 -> 1  ret 3.4444
+[RESOLVE] Hugo Gaston entry 0.507 -> 1  ret 0.9704
+[EXIT]   Over sharps left, entry 0.505 -> 0.465  ret -0.0792
+[RESOLVE] Tampa Bay Rays entry 0.395 -> 1  ret 1.5316
+[EXIT]     No sharps left, entry 0.165 -> 0.155  ret -0.0606
+[EXIT]    Yes sharps left, entry 0.205 -> 0.175  ret -0.1463
+[report] valid-resolved=152 (135 sub-48h excluded)  hit_rate=0.612  avg_entry_price=0.515  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +5 entries, 8 closed, 38 still open
+[check_stuck] clean — every open position is being refreshed.
