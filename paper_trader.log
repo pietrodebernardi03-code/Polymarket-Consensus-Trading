@@ -3432,3 +3432,39 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +5 entries, 8 closed, 38 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-27 (frozen strategy v1.1) ===
+[roster] scoring 273 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/273 traders (4 qualify so far)
+    ...checked 40/273 traders (13 qualify so far)
+    ...checked 60/273 traders (20 qualify so far)
+    ...checked 80/273 traders (31 qualify so far)
+    ...checked 100/273 traders (39 qualify so far)
+    ...checked 120/273 traders (51 qualify so far)
+    ...checked 140/273 traders (63 qualify so far)
+    ...checked 160/273 traders (71 qualify so far)
+    ...checked 180/273 traders (80 qualify so far)
+    ...checked 200/273 traders (87 qualify so far)
+    ...checked 220/273 traders (97 qualify so far)
+    ...checked 240/273 traders (108 qualify so far)
+    ...checked 260/273 traders (121 qualify so far)
+[roster] built 131 qualified wallets for 2026-09
+[scan] reading current positions of 131 roster traders...
+    ...read 20/131 traders
+    ...read 40/131 traders
+    ...read 60/131 traders
+    ...read 80/131 traders
+    ...read 100/131 traders
+    ...read 120/131 traders
+[ENTRY]   Yes @ 0.365  x2  Will Bitcoin dip to $82,500 in September?
+[ENTRY]   Yes @ 0.330  x2  Will Ethereum dip to $2,600 in September?
+[EXIT]    Yes sharps left, entry 0.155 -> 0.115  ret -0.2581
+[EXIT]     No sharps left, entry 0.263 -> 0.685  ret 1.6095
+[RESOLVE]   Yes entry 0.825 -> 1  ret 0.2121
+[RESOLVE] Adolfo Vallejo entry 0.385 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.270 -> 0.250  ret -0.0741
+[EXIT]    Yes sharps left, entry 0.180 -> 0.165  ret -0.0861
+[EXIT]    Yes sharps left, entry 0.240 -> 0.165  ret -0.3125
+[report] valid-resolved=154 (135 sub-48h excluded)  hit_rate=0.610  avg_entry_price=0.516  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +2 entries, 7 closed, 33 still open
+[check_stuck] clean — every open position is being refreshed.
