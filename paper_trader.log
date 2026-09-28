@@ -3468,3 +3468,45 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +2 entries, 7 closed, 33 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-28 (frozen strategy v1.1) ===
+[roster] scoring 272 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/272 traders (4 qualify so far)
+    ...checked 40/272 traders (13 qualify so far)
+    ...checked 60/272 traders (22 qualify so far)
+    ...checked 80/272 traders (31 qualify so far)
+    ...checked 100/272 traders (38 qualify so far)
+    ...checked 120/272 traders (51 qualify so far)
+    ...checked 140/272 traders (60 qualify so far)
+    ...checked 160/272 traders (68 qualify so far)
+    ...checked 180/272 traders (79 qualify so far)
+    ...checked 200/272 traders (91 qualify so far)
+    ...checked 220/272 traders (98 qualify so far)
+    ...checked 240/272 traders (108 qualify so far)
+    ...checked 260/272 traders (122 qualify so far)
+[roster] built 131 qualified wallets for 2026-09
+[scan] reading current positions of 131 roster traders...
+    ...read 20/131 traders
+    ...read 40/131 traders
+    ...read 60/131 traders
+    ...read 80/131 traders
+    ...read 100/131 traders
+    ...read 120/131 traders
+[ENTRY] Ksenia Efremova @ 0.245  x3  Adana: Ksenia Efremova vs Martyna Kubka
+[ENTRY]   Yes @ 0.380  x2  Will the 49ers win the season series against the C
+[ENTRY]    No @ 0.885  x2  Will Miami Hurricanes win the 2027 CFP National Ch
+[ENTRY]    No @ 0.440  x2  Will the Cowboys win the season series against the
+[ENTRY]   Yes @ 0.205  x2  Will Florida Panthers be the 2027 NHL Eastern Conf
+[ENTRY]    No @ 0.755  x2  Will the Washington Wizards make the 2027 NBA Play
+[ENTRY]   Yes @ 0.775  x2  Will Magdalena Andersson be the next Prime Ministe
+[ENTRY]    No @ 0.843  x2  Will Solana dip to $110 in September?
+[ENTRY]    No @ 0.905  x2  Will the Los Angeles Rams win the 2027 NFL league 
+[RESOLVE]    No entry 0.795 -> 1  ret 0.2571
+[EXIT]    Yes sharps left, entry 0.127 -> 0.065  ret -0.4882
+[EXIT]    Yes sharps left, entry 0.340 -> 0.275  ret -0.1912
+[EXIT]     No sharps left, entry 0.814 -> 0.885  ret 0.0872
+[EXIT]     No sharps left, entry 0.895 -> 0.955  ret 0.0665
+[EXIT]    Yes sharps left, entry 0.445 -> 0.405  ret -0.0899
+[report] valid-resolved=155 (135 sub-48h excluded)  hit_rate=0.613  avg_entry_price=0.518  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +9 entries, 6 closed, 36 still open
+[check_stuck] clean — every open position is being refreshed.
