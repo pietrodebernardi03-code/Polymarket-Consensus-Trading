@@ -3510,3 +3510,57 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +9 entries, 6 closed, 36 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-29 (frozen strategy v1.1) ===
+[roster] scoring 281 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/281 traders (4 qualify so far)
+    ...checked 40/281 traders (13 qualify so far)
+    ...checked 60/281 traders (22 qualify so far)
+    ...checked 80/281 traders (31 qualify so far)
+    ...checked 100/281 traders (39 qualify so far)
+    ...checked 120/281 traders (50 qualify so far)
+    ...checked 140/281 traders (60 qualify so far)
+    ...checked 160/281 traders (71 qualify so far)
+    ...checked 180/281 traders (79 qualify so far)
+    ...checked 200/281 traders (89 qualify so far)
+    ...checked 220/281 traders (98 qualify so far)
+    ...checked 240/281 traders (112 qualify so far)
+    ...checked 260/281 traders (127 qualify so far)
+    ...checked 280/281 traders (142 qualify so far)
+[roster] built 142 qualified wallets for 2026-09
+[scan] reading current positions of 142 roster traders...
+    ...read 20/142 traders
+    ...read 40/142 traders
+    ...read 60/142 traders
+    ...read 80/142 traders
+    ...read 100/142 traders
+    ...read 120/142 traders
+    ...read 140/142 traders
+[ENTRY]    No @ 0.635  x2  Will the Ottawa Senators record 100+ points?
+[ENTRY]   Yes @ 0.305  x2  Will Benfica win the 2026-27 Primeira Liga Champio
+[ENTRY] Alina Korneeva @ 0.515  x3  China Open: Viktorija Golubic vs Alina Korneeva
+[ENTRY]   Yes @ 0.135  x2  Will Dilution of Iranian Uranium be in a US-Iran d
+[ENTRY]   Yes @ 0.225  x2  Iran charges Hormuz fees by December 31?
+[ENTRY]   Yes @ 0.820  x2  Anthropic IPO before 2027?
+[ENTRY]   Yes @ 0.785  x2  Trump renames AI by December 31?
+[ENTRY]   Yes @ 0.235  x2  Pete Hegseth out as Secretary of Defense by Decemb
+[ENTRY] Joao Lucas Da Silva @ 0.888  x2  Curitiba: Joao Lucas Da Silva vs Murkel Dellien
+[ENTRY]   Yes @ 0.805  x2  Will Anthropic's valuation hit (HIGH) $1.75T by De
+[ENTRY]   Yes @ 0.770  x2  Will Anthropic IPO by December 15, 2026?
+[ENTRY]    No @ 0.579  x2  Will Lamine Yamal win the 2026 Ballon d'Or?
+[ENTRY]    No @ 0.565  x2  Will Athletic Club win on 2026-09-16?
+[ENTRY]    No @ 0.415  x2  US x Iran ceasefire continues through October 31?
+[ENTRY]   Yes @ 0.177  x2  US announces end of Iranian blockade by October 15
+[ENTRY]   Yes @ 0.185  x2  OpenAI announces it has achieved AGI before 2027?
+[ENTRY]   Yes @ 0.375  x2  Will Ethereum reach $3,500 by December 31, 2026?
+[ENTRY]   Yes @ 0.210  x2  Will Ulf Kristersson be the next Prime Minister of
+[ENTRY]   Yes @ 0.525  x2  Saudi Oil Pipeline (East-West) restarts by October
+[EXIT]     No sharps left, entry 0.689 -> 0.504  ret -0.268
+[EXIT]    Yes sharps left, entry 0.365 -> 0.495  ret 0.3562
+[EXIT]    Yes sharps left, entry 0.330 -> 0.175  ret -0.4697
+[RESOLVE] Ksenia Efremova entry 0.245 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.440 -> 0.425  ret -0.0341
+[EXIT]    Yes sharps left, entry 0.205 -> 0.185  ret -0.0976
+[report] valid-resolved=155 (136 sub-48h excluded)  hit_rate=0.613  avg_entry_price=0.518  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +19 entries, 6 closed, 49 still open
+[check_stuck] clean — every open position is being refreshed.
