@@ -3564,3 +3564,62 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +19 entries, 6 closed, 49 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-09-30 (frozen strategy v1.1) ===
+[roster] scoring 279 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/279 traders (4 qualify so far)
+    ...checked 40/279 traders (13 qualify so far)
+    ...checked 60/279 traders (22 qualify so far)
+    ...checked 80/279 traders (31 qualify so far)
+    ...checked 100/279 traders (40 qualify so far)
+    ...checked 120/279 traders (52 qualify so far)
+    ...checked 140/279 traders (61 qualify so far)
+    ...checked 160/279 traders (72 qualify so far)
+    ...checked 180/279 traders (83 qualify so far)
+    ...checked 200/279 traders (92 qualify so far)
+    ...checked 220/279 traders (101 qualify so far)
+    ...checked 240/279 traders (112 qualify so far)
+    ...checked 260/279 traders (127 qualify so far)
+[roster] built 139 qualified wallets for 2026-09
+[scan] reading current positions of 139 roster traders...
+    ...read 20/139 traders
+    ...read 40/139 traders
+    ...read 60/139 traders
+    ...read 80/139 traders
+    ...read 100/139 traders
+    ...read 120/139 traders
+[ENTRY] Zizou Bergs @ 0.155  x4  Japan Open Tennis Championships: Jiri Lehecka vs Z
+[ENTRY]   Yes @ 0.570  x2  Will FC Cincinnati win on 2026-09-05?
+[ENTRY] Cameron Norrie @ 0.125  x2  China Open: Alexander Zverev vs Cameron Norrie
+[ENTRY] Luis Guto Miguel @ 0.480  x3  Curitiba: Luis Guto Miguel vs Facundo Mena
+[ENTRY] Michael Geerts @ 0.205  x2  Porto 2: Edas Butvilas vs Michael Geerts
+[ENTRY] Commanders @ 0.505  x2  Spread: Colts (-3.5)
+[ENTRY]   Yes @ 0.815  x2  Another Fed rate hike in 2026?
+[ENTRY]   Yes @ 0.530  x2  Will Anthropic's valuation hit (HIGH) $2.5T by Dec
+[ENTRY]   Yes @ 0.115  x2  Will Ohio enact a data center moratorium by Decemb
+[EXIT]    Yes sharps left, entry 0.165 -> 0.110  ret -0.3333
+[RESOLVE]    No entry 0.115 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.110 -> 0.095  ret -0.1364
+[EXIT]    Yes sharps left, entry 0.380 -> 0.610  ret 0.6053
+[EXIT]     No sharps left, entry 0.885 -> 0.884  ret -0.0011
+[EXIT]     No sharps left, entry 0.755 -> 0.730  ret -0.0331
+[RESOLVE]    No entry 0.843 -> 1  ret 0.1869
+[EXIT]     No sharps left, entry 0.905 -> 0.875  ret -0.0331
+[EXIT]     No sharps left, entry 0.635 -> 0.615  ret -0.0315
+[EXIT]    Yes sharps left, entry 0.305 -> 0.295  ret -0.0328
+[RESOLVE] Alina Korneeva entry 0.515 -> 1  ret 0.9417
+[EXIT]    Yes sharps left, entry 0.135 -> 0.115  ret -0.1481
+[EXIT]    Yes sharps left, entry 0.820 -> 0.815  ret -0.0061
+[RESOLVE]   Yes entry 0.785 -> 1  ret 0.2739
+[RESOLVE] Joao Lucas Da Silva entry 0.888 -> 1  ret 0.1264
+[EXIT]    Yes sharps left, entry 0.805 -> 0.800  ret -0.0062
+[EXIT]    Yes sharps left, entry 0.770 -> 0.745  ret -0.0325
+[EXIT]     No sharps left, entry 0.565 -> 0.550  ret -0.0265
+[EXIT]     No sharps left, entry 0.415 -> 0.370  ret -0.1084
+[EXIT]    Yes sharps left, entry 0.177 -> 0.150  ret -0.1549
+[EXIT]    Yes sharps left, entry 0.185 -> 0.165  ret -0.1081
+[EXIT]    Yes sharps left, entry 0.210 -> 0.167  ret -0.2067
+[EXIT]    Yes sharps left, entry 0.525 -> 0.355  ret -0.3238
+[report] valid-resolved=157 (139 sub-48h excluded)  hit_rate=0.611  avg_entry_price=0.517  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +9 entries, 23 closed, 35 still open
+[check_stuck] clean — every open position is being refreshed.
