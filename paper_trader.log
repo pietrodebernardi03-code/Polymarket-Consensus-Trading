@@ -3623,3 +3623,47 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +9 entries, 23 closed, 35 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-01 (frozen strategy v1.1) ===
+[roster] scoring 281 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/281 traders (4 qualify so far)
+    ...checked 40/281 traders (13 qualify so far)
+[warn] GET failed after retries: https://data-api.polymarket.com/closed-positions params={'user': '0xee00ba338c59557141789b127927a55f5cc5cea1', 'limit': 50, 'offset': 500, 'sortBy': 'TIMESTAMP', 'sortDirection': 'DESC'} err=None
+    ...checked 60/281 traders (21 qualify so far)
+    ...checked 80/281 traders (30 qualify so far)
+    ...checked 100/281 traders (39 qualify so far)
+    ...checked 120/281 traders (51 qualify so far)
+    ...checked 140/281 traders (61 qualify so far)
+    ...checked 160/281 traders (71 qualify so far)
+    ...checked 180/281 traders (80 qualify so far)
+    ...checked 200/281 traders (90 qualify so far)
+    ...checked 220/281 traders (101 qualify so far)
+[warn] GET failed after retries: https://data-api.polymarket.com/closed-positions params={'user': '0x42477970683d4d0a52ec7082fee5d760cc5591c4', 'limit': 50, 'offset': 100, 'sortBy': 'TIMESTAMP', 'sortDirection': 'DESC'} err=None
+    ...checked 240/281 traders (113 qualify so far)
+[warn] GET failed after retries: https://data-api.polymarket.com/closed-positions params={'user': '0xeea3f08e8a36081233e4c4b4142fd61a7b56a6a2', 'limit': 50, 'offset': 50, 'sortBy': 'TIMESTAMP', 'sortDirection': 'DESC'} err=None
+[warn] GET failed after retries: https://data-api.polymarket.com/closed-positions params={'user': '0xe4a7b5c3b60bbbaf33e4cf6d0fb5ddc3e3a2dc87', 'limit': 50, 'offset': 100, 'sortBy': 'TIMESTAMP', 'sortDirection': 'DESC'} err=None
+    ...checked 260/281 traders (124 qualify so far)
+[warn] GET failed after retries: https://data-api.polymarket.com/closed-positions params={'user': '0xc02147dee42356b7a4edbb1c35ac4ffa95f61fa8', 'limit': 50, 'offset': 250, 'sortBy': 'TIMESTAMP', 'sortDirection': 'DESC'} err=None
+[warn] GET failed after retries: https://data-api.polymarket.com/closed-positions params={'user': '0x10ef48324b3ebc06d9137794c70285e8e37a7d7b', 'limit': 50, 'offset': 150, 'sortBy': 'TIMESTAMP', 'sortDirection': 'DESC'} err=None
+    ...checked 280/281 traders (135 qualify so far)
+[roster] built 136 qualified wallets for 2026-10
+[scan] reading current positions of 136 roster traders...
+    ...read 20/136 traders
+    ...read 40/136 traders
+    ...read 60/136 traders
+    ...read 80/136 traders
+    ...read 100/136 traders
+    ...read 120/136 traders
+[ENTRY]   Yes @ 0.875  x2  Will the Democrats win the New Hampshire Senate ra
+[ENTRY]   Yes @ 0.215  x2  Will Oklahoma enact a data center moratorium by Ju
+[ENTRY]   Yes @ 0.315  x2  Will Oklahoma enact a data center moratorium by De
+[ENTRY]   Yes @ 0.225  x2  Will Louisiana enact a data center moratorium by D
+[ENTRY]   Yes @ 0.735  x3  Will the Democrats win the Michigan Senate race in
+[ENTRY]    No @ 0.595  x2  Will the Republicans win the Ohio Senate race in 2
+[RESOLVE] Zizou Bergs entry 0.155 -> 0  ret -1.0
+[RESOLVE] Cameron Norrie entry 0.125 -> 0  ret -1.0
+[RESOLVE] Luis Guto Miguel entry 0.480 -> 1  ret 1.0833
+[RESOLVE] Michael Geerts entry 0.205 -> 0  ret -1.0
+[report] valid-resolved=157 (143 sub-48h excluded)  hit_rate=0.611  avg_entry_price=0.517  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +6 entries, 4 closed, 37 still open
+[check_stuck] clean — every open position is being refreshed.
