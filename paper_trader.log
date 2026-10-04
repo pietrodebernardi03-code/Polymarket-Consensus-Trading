@@ -3778,3 +3778,70 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +24 entries, 2 closed, 69 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-10-04 (frozen strategy v1.1) ===
+[roster] scoring 281 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/281 traders (4 qualify so far)
+    ...checked 40/281 traders (13 qualify so far)
+    ...checked 60/281 traders (22 qualify so far)
+    ...checked 80/281 traders (31 qualify so far)
+    ...checked 100/281 traders (39 qualify so far)
+    ...checked 120/281 traders (51 qualify so far)
+    ...checked 140/281 traders (60 qualify so far)
+    ...checked 160/281 traders (71 qualify so far)
+    ...checked 180/281 traders (81 qualify so far)
+    ...checked 200/281 traders (95 qualify so far)
+    ...checked 220/281 traders (102 qualify so far)
+    ...checked 240/281 traders (113 qualify so far)
+    ...checked 260/281 traders (124 qualify so far)
+    ...checked 280/281 traders (132 qualify so far)
+[roster] built 133 qualified wallets for 2026-10
+[scan] reading current positions of 133 roster traders...
+    ...read 20/133 traders
+    ...read 40/133 traders
+    ...read 60/133 traders
+    ...read 80/133 traders
+    ...read 100/133 traders
+    ...read 120/133 traders
+[ENTRY]    No @ 0.155  x2  Will the Republicans win the South Carolina Senate
+[ENTRY] Max Hans Rehberg @ 0.545  x3  Villena: Max Hans Rehberg vs Daniel Cukierman
+[ENTRY]   Yes @ 0.675  x2  Will the Republicans win the Kansas Senate race in
+[ENTRY]   Yes @ 0.255  x2  Will the Democrats win the Texas governor race in 
+[EXIT]     No sharps left, entry 0.782 -> 0.728  ret -0.0696
+[EXIT]    Yes sharps left, entry 0.375 -> 0.325  ret -0.1333
+[EXIT]    Yes sharps left, entry 0.836 -> 0.742  ret -0.113
+[EXIT]     No sharps left, entry 0.835 -> 0.745  ret -0.1078
+[EXIT]    Yes sharps left, entry 0.715 -> 0.750  ret 0.049
+[EXIT]     No sharps left, entry 0.875 -> 0.850  ret -0.0286
+[EXIT]     No sharps left, entry 0.805 -> 0.785  ret -0.0248
+[EXIT]    Yes sharps left, entry 0.835 -> 0.805  ret -0.0359
+[EXIT]    Yes sharps left, entry 0.910 -> 0.875  ret -0.0385
+[EXIT]     No sharps left, entry 0.910 -> 0.875  ret -0.0385
+[EXIT]    Yes sharps left, entry 0.833 -> 0.840  ret 0.009
+[EXIT]    Yes sharps left, entry 0.865 -> 0.845  ret -0.0231
+[EXIT]    Yes sharps left, entry 0.885 -> 0.845  ret -0.0452
+[EXIT]    Yes sharps left, entry 0.115 -> 0.055  ret -0.5217
+[EXIT]     No sharps left, entry 0.380 -> 0.365  ret -0.0395
+[EXIT]     No sharps left, entry 0.635 -> 0.270  ret -0.5748
+[EXIT]    Yes sharps left, entry 0.500 -> 0.480  ret -0.04
+[EXIT]     No sharps left, entry 0.635 -> 0.510  ret -0.1969
+[EXIT]    Yes sharps left, entry 0.865 -> 0.795  ret -0.0809
+[EXIT]    Yes sharps left, entry 0.675 -> 0.665  ret -0.0148
+[EXIT]     No sharps left, entry 0.445 -> 0.455  ret 0.0225
+[EXIT]     No sharps left, entry 0.605 -> 0.540  ret -0.1074
+[EXIT]    Yes sharps left, entry 0.370 -> 0.335  ret -0.0946
+[EXIT]  O 7.5 sharps left, entry 0.425 -> 0.425  ret 0.0
+[EXIT]     No sharps left, entry 0.625 -> 0.609  ret -0.0264
+[EXIT]    Yes sharps left, entry 0.215 -> 0.190  ret -0.1163
+[EXIT]     No sharps left, entry 0.255 -> 0.235  ret -0.0784
+[EXIT]    Yes sharps left, entry 0.270 -> 0.250  ret -0.0741
+[EXIT]     No sharps left, entry 0.605 -> 0.570  ret -0.0579
+[EXIT]     No sharps left, entry 0.608 -> 0.605  ret -0.0041
+[EXIT]     No sharps left, entry 0.480 -> 0.470  ret -0.0208
+[EXIT]     No sharps left, entry 0.295 -> 0.215  ret -0.2712
+[RESOLVE] Max Houkes entry 0.435 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.485 -> 0.445  ret -0.0825
+[EXIT]     No sharps left, entry 0.855 -> 0.835  ret -0.0234
+[report] valid-resolved=157 (145 sub-48h excluded)  hit_rate=0.611  avg_entry_price=0.517  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +4 entries, 35 closed, 38 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
