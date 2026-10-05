@@ -3845,3 +3845,37 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +4 entries, 35 closed, 38 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-10-05 (frozen strategy v1.1) ===
+[roster] scoring 283 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/283 traders (4 qualify so far)
+    ...checked 40/283 traders (13 qualify so far)
+    ...checked 60/283 traders (22 qualify so far)
+    ...checked 80/283 traders (31 qualify so far)
+    ...checked 100/283 traders (39 qualify so far)
+    ...checked 120/283 traders (51 qualify so far)
+    ...checked 140/283 traders (61 qualify so far)
+    ...checked 160/283 traders (67 qualify so far)
+    ...checked 180/283 traders (79 qualify so far)
+    ...checked 200/283 traders (90 qualify so far)
+    ...checked 220/283 traders (100 qualify so far)
+    ...checked 240/283 traders (110 qualify so far)
+    ...checked 260/283 traders (122 qualify so far)
+    ...checked 280/283 traders (137 qualify so far)
+[roster] built 140 qualified wallets for 2026-10
+[scan] reading current positions of 140 roster traders...
+    ...read 20/140 traders
+    ...read 40/140 traders
+    ...read 60/140 traders
+    ...read 80/140 traders
+    ...read 100/140 traders
+    ...read 120/140 traders
+    ...read 140/140 traders
+[ENTRY]    No @ 0.195  x2  Will the Democrats win the Wisconsin governor race
+[ENTRY] Cleveland Guardians @ 0.595  x2  Chicago White Sox vs. Cleveland Guardians
+[ENTRY]    No @ 0.815  x2  Israeli airspace closed by December 31, 2026?
+[RESOLVE] Under entry 0.525 -> 0  ret -1.0
+[RESOLVE] Max Hans Rehberg entry 0.545 -> 1  ret 0.8349
+[report] valid-resolved=158 (146 sub-48h excluded)  hit_rate=0.608  avg_entry_price=0.517  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +3 entries, 2 closed, 39 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
