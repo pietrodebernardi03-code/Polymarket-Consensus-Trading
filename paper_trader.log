@@ -3879,3 +3879,43 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +3 entries, 2 closed, 39 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-10-06 (frozen strategy v1.1) ===
+[roster] scoring 282 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/282 traders (3 qualify so far)
+    ...checked 40/282 traders (13 qualify so far)
+    ...checked 60/282 traders (22 qualify so far)
+    ...checked 80/282 traders (32 qualify so far)
+    ...checked 100/282 traders (39 qualify so far)
+    ...checked 120/282 traders (51 qualify so far)
+    ...checked 140/282 traders (60 qualify so far)
+    ...checked 160/282 traders (68 qualify so far)
+    ...checked 180/282 traders (78 qualify so far)
+    ...checked 200/282 traders (89 qualify so far)
+    ...checked 220/282 traders (98 qualify so far)
+    ...checked 240/282 traders (109 qualify so far)
+    ...checked 260/282 traders (120 qualify so far)
+    ...checked 280/282 traders (133 qualify so far)
+[roster] built 135 qualified wallets for 2026-10
+[scan] reading current positions of 135 roster traders...
+    ...read 20/135 traders
+    ...read 40/135 traders
+    ...read 60/135 traders
+    ...read 80/135 traders
+    ...read 100/135 traders
+    ...read 120/135 traders
+[ENTRY]    No @ 0.425  x3  Will the Democrats win the Maine Senate race in 20
+[ENTRY] Felix Balshaw @ 0.595  x3  Villena: Felix Balshaw vs Joel Schwaerzler
+[ENTRY]    No @ 0.825  x2  Will OpenAI announce bankruptcy by December 31, 20
+[ENTRY]    No @ 0.855  x2  Will OpenAI announce bankruptcy by December 31, 20
+[ENTRY]    No @ 0.885  x2  US announces end of Iranian blockade by October 15
+[ENTRY]    No @ 0.905  x2  Iran coup attempt by December 31?
+[ENTRY]    No @ 0.850  x2  Will OpenAI announce earbuds or headphones in 2026
+[ENTRY]    No @ 0.700  x2  Will Solana reach $140 in October?
+[ENTRY]    No @ 0.875  x2  Will Likud win 30-34 seats in the 2026 Israeli leg
+[EXIT]    Yes sharps left, entry 0.570 -> 0.535  ret -0.0614
+[EXIT]    Yes sharps left, entry 0.530 -> 0.440  ret -0.1698
+[RESOLVE] Cleveland Guardians entry 0.595 -> 0  ret -1.0
+[report] valid-resolved=158 (147 sub-48h excluded)  hit_rate=0.608  avg_entry_price=0.517  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +9 entries, 3 closed, 45 still open
+[check_stuck] clean — every open position is being refreshed.
