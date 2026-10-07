@@ -3919,3 +3919,50 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +9 entries, 3 closed, 45 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-07 (frozen strategy v1.1) ===
+[roster] scoring 282 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/282 traders (3 qualify so far)
+    ...checked 40/282 traders (13 qualify so far)
+    ...checked 60/282 traders (22 qualify so far)
+    ...checked 80/282 traders (32 qualify so far)
+    ...checked 100/282 traders (40 qualify so far)
+    ...checked 120/282 traders (51 qualify so far)
+    ...checked 140/282 traders (60 qualify so far)
+    ...checked 160/282 traders (65 qualify so far)
+    ...checked 180/282 traders (75 qualify so far)
+    ...checked 200/282 traders (86 qualify so far)
+    ...checked 220/282 traders (95 qualify so far)
+    ...checked 240/282 traders (106 qualify so far)
+    ...checked 260/282 traders (121 qualify so far)
+    ...checked 280/282 traders (134 qualify so far)
+[roster] built 134 qualified wallets for 2026-10
+[scan] reading current positions of 134 roster traders...
+    ...read 20/134 traders
+    ...read 40/134 traders
+    ...read 60/134 traders
+    ...read 80/134 traders
+    ...read 100/134 traders
+    ...read 120/134 traders
+[ENTRY] Hubert Hurkacz @ 0.655  x2  Shanghai Rolex Masters: Hubert Hurkacz vs James Du
+[ENTRY] Cleveland Guardians @ 0.485  x2  Cleveland Guardians vs. Chicago White Sox
+[ENTRY] Javier Barranco Cosano @ 0.455  x3  Braga: Oleksii Krutykh vs Javier Barranco Cosano
+[ENTRY]    No @ 0.725  x2  Will an independent win the Nebraska Senate race i
+[ENTRY]    No @ 0.395  x2  Will the Democrats win the Ohio Senate race in 202
+[ENTRY]   Yes @ 0.555  x2  Will the Republicans win the Iowa Senate race in 2
+[ENTRY]   Yes @ 0.395  x2  Will the Republicans win the Ohio Senate race in 2
+[ENTRY]    No @ 0.645  x2  Will the Democrats win the Kansas Senate race in 2
+[ENTRY]   Yes @ 0.175  x2  Alexandre de Moraes out as Brazil Supreme Court Ju
+[ENTRY]    No @ 0.650  x2  Will Trump endorse Flávio Bolsonaro for President 
+[EXIT]     No sharps left, entry 0.595 -> 0.605  ret 0.0168
+[EXIT]     No sharps left, entry 0.155 -> 0.155  ret 0.0
+[EXIT]    Yes sharps left, entry 0.255 -> 0.245  ret -0.0392
+[EXIT]     No sharps left, entry 0.195 -> 0.185  ret -0.0513
+[RESOLVE] Felix Balshaw entry 0.595 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.825 -> 0.805  ret -0.0242
+[EXIT]     No sharps left, entry 0.855 -> 0.835  ret -0.0234
+[EXIT]     No sharps left, entry 0.905 -> 0.885  ret -0.0221
+[EXIT]     No sharps left, entry 0.850 -> 0.820  ret -0.0353
+[report] valid-resolved=158 (148 sub-48h excluded)  hit_rate=0.608  avg_entry_price=0.517  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +10 entries, 9 closed, 46 still open
+[check_stuck] clean — every open position is being refreshed.
