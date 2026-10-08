@@ -3966,3 +3966,48 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +10 entries, 9 closed, 46 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-08 (frozen strategy v1.1) ===
+[roster] scoring 282 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/282 traders (3 qualify so far)
+    ...checked 40/282 traders (13 qualify so far)
+    ...checked 60/282 traders (22 qualify so far)
+    ...checked 80/282 traders (31 qualify so far)
+    ...checked 100/282 traders (38 qualify so far)
+    ...checked 120/282 traders (49 qualify so far)
+    ...checked 140/282 traders (59 qualify so far)
+    ...checked 160/282 traders (64 qualify so far)
+    ...checked 180/282 traders (72 qualify so far)
+    ...checked 200/282 traders (85 qualify so far)
+    ...checked 220/282 traders (96 qualify so far)
+    ...checked 240/282 traders (105 qualify so far)
+    ...checked 260/282 traders (121 qualify so far)
+    ...checked 280/282 traders (131 qualify so far)
+[roster] built 133 qualified wallets for 2026-10
+[scan] reading current positions of 133 roster traders...
+    ...read 20/133 traders
+    ...read 40/133 traders
+    ...read 60/133 traders
+    ...read 80/133 traders
+    ...read 100/133 traders
+    ...read 120/133 traders
+[ENTRY] Pablo Llamas Ruiz @ 0.565  x3  Villena: Pablo Llamas Ruiz vs Petr Nesterov
+[ENTRY]    No @ 0.865  x2  US-Iran Final Nuclear Deal by December 31, 2026?
+[ENTRY]   Yes @ 0.405  x2  Will Bitcoin reach $87,500 in October?
+[ENTRY]   Yes @ 0.275  x2  Will Bitcoin reach $90,000 in October?
+[ENTRY]   Yes @ 0.425  x2  Will Flávio Bolsonaro win the second round of the 
+[ENTRY]   Yes @ 0.148  x3  Will Flávio Bolsonaro win the second round of the 
+[ENTRY]    No @ 0.910  x3  Will WTI Crude Oil (WTI) hit (HIGH) $110 in Octobe
+[ENTRY]   Yes @ 0.850  x2  Brazil Presidential Election Second Round: Any Can
+[RESOLVE] Hubert Hurkacz entry 0.655 -> 1  ret 0.5267
+[RESOLVE] Cleveland Guardians entry 0.485 -> 1  ret 1.0619
+[RESOLVE] Javier Barranco Cosano entry 0.455 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.725 -> 0.705  ret -0.0276
+[EXIT]     No sharps left, entry 0.395 -> 0.375  ret -0.0506
+[EXIT]    Yes sharps left, entry 0.555 -> 0.540  ret -0.027
+[EXIT]    Yes sharps left, entry 0.395 -> 0.375  ret -0.0506
+[EXIT]     No sharps left, entry 0.645 -> 0.625  ret -0.031
+[EXIT]    Yes sharps left, entry 0.175 -> 0.225  ret 0.2857
+[report] valid-resolved=158 (151 sub-48h excluded)  hit_rate=0.608  avg_entry_price=0.517  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +8 entries, 9 closed, 45 still open
+[check_stuck] clean — every open position is being refreshed.
