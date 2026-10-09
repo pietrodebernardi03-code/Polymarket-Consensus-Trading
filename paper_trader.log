@@ -4011,3 +4011,36 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +8 entries, 9 closed, 45 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-09 (frozen strategy v1.1) ===
+[roster] scoring 282 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/282 traders (3 qualify so far)
+    ...checked 40/282 traders (13 qualify so far)
+    ...checked 60/282 traders (22 qualify so far)
+    ...checked 80/282 traders (32 qualify so far)
+    ...checked 100/282 traders (40 qualify so far)
+    ...checked 120/282 traders (51 qualify so far)
+    ...checked 140/282 traders (61 qualify so far)
+    ...checked 160/282 traders (68 qualify so far)
+    ...checked 180/282 traders (73 qualify so far)
+    ...checked 200/282 traders (85 qualify so far)
+    ...checked 220/282 traders (95 qualify so far)
+    ...checked 240/282 traders (106 qualify so far)
+    ...checked 260/282 traders (119 qualify so far)
+    ...checked 280/282 traders (135 qualify so far)
+[roster] built 136 qualified wallets for 2026-10
+[scan] reading current positions of 136 roster traders...
+    ...read 20/136 traders
+    ...read 40/136 traders
+    ...read 60/136 traders
+    ...read 80/136 traders
+    ...read 100/136 traders
+    ...read 120/136 traders
+[ENTRY]    No @ 0.635  x6  Will the Republicans win the Texas Senate race in 
+[ENTRY]    No @ 0.865  x2  US-Iran Hormuz Agreement by October 31?
+[ENTRY]   Yes @ 0.805  x2  Will Flavio Bolsonaro win the most votes in the se
+[EXIT]     No sharps left, entry 0.228 -> 0.255  ret 0.1209
+[RESOLVE] Pablo Llamas Ruiz entry 0.565 -> 1  ret 0.7699
+[report] valid-resolved=158 (152 sub-48h excluded)  hit_rate=0.608  avg_entry_price=0.517  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +3 entries, 2 closed, 46 still open
+[check_stuck] clean — every open position is being refreshed.
