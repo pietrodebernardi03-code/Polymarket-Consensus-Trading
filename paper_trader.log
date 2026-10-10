@@ -4044,3 +4044,45 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +3 entries, 2 closed, 46 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-10 (frozen strategy v1.1) ===
+[roster] scoring 283 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/283 traders (3 qualify so far)
+    ...checked 40/283 traders (12 qualify so far)
+    ...checked 60/283 traders (21 qualify so far)
+    ...checked 80/283 traders (31 qualify so far)
+    ...checked 100/283 traders (38 qualify so far)
+    ...checked 120/283 traders (50 qualify so far)
+    ...checked 140/283 traders (60 qualify so far)
+    ...checked 160/283 traders (65 qualify so far)
+    ...checked 180/283 traders (72 qualify so far)
+    ...checked 200/283 traders (87 qualify so far)
+    ...checked 220/283 traders (95 qualify so far)
+    ...checked 240/283 traders (107 qualify so far)
+    ...checked 260/283 traders (122 qualify so far)
+    ...checked 280/283 traders (136 qualify so far)
+[roster] built 137 qualified wallets for 2026-10
+[scan] reading current positions of 137 roster traders...
+    ...read 20/137 traders
+    ...read 40/137 traders
+    ...read 60/137 traders
+    ...read 80/137 traders
+    ...read 100/137 traders
+    ...read 120/137 traders
+[ENTRY] Thiago Seyboth Wild @ 0.900  x4  Antofagasta: Lautaro Midon vs Thiago Seyboth Wild
+[ENTRY]   Yes @ 0.150  x2  Israel x Hamas Ceasefire Phase II by December 31?
+[ENTRY] Jonas Forejtek @ 0.460  x2  Palermo: Jonas Forejtek vs Alejandro Moro Canas
+[ENTRY]    No @ 0.425  x2  US x Iran ceasefire continues through November 15?
+[ENTRY]    No @ 0.695  x2  Tyler Robinson convicted of homicide?
+[ENTRY]   Yes @ 0.715  x2  Will OpenAI's valuation hit (HIGH) $1.25T by Decem
+[ENTRY]   Yes @ 0.427  x2  Will Gadi Eizenkot be the next Prime Minister of I
+[ENTRY]   Yes @ 0.760  x2  Will the Republicans win the Vermont governor race
+[ENTRY]    No @ 0.725  x2  Will Likud win 25-29 seats in the 2026 Israeli leg
+[ENTRY]    No @ 0.145  x2  Will the Republican Party win the AK-AL House seat
+[EXIT]     No sharps left, entry 0.650 -> 0.735  ret 0.1308
+[EXIT]     No sharps left, entry 0.865 -> 0.850  ret -0.0173
+[EXIT]    Yes sharps left, entry 0.405 -> 0.475  ret 0.1728
+[EXIT]    Yes sharps left, entry 0.275 -> 0.295  ret 0.0727
+[report] valid-resolved=158 (152 sub-48h excluded)  hit_rate=0.608  avg_entry_price=0.517  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +10 entries, 4 closed, 52 still open
+[check_stuck] clean — every open position is being refreshed.
