@@ -4086,3 +4086,42 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +10 entries, 4 closed, 52 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-11 (frozen strategy v1.1) ===
+[roster] scoring 283 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/283 traders (3 qualify so far)
+    ...checked 40/283 traders (13 qualify so far)
+    ...checked 60/283 traders (22 qualify so far)
+    ...checked 80/283 traders (31 qualify so far)
+    ...checked 100/283 traders (39 qualify so far)
+    ...checked 120/283 traders (49 qualify so far)
+    ...checked 140/283 traders (60 qualify so far)
+    ...checked 160/283 traders (67 qualify so far)
+    ...checked 180/283 traders (74 qualify so far)
+    ...checked 200/283 traders (85 qualify so far)
+    ...checked 220/283 traders (97 qualify so far)
+    ...checked 240/283 traders (111 qualify so far)
+    ...checked 260/283 traders (126 qualify so far)
+    ...checked 280/283 traders (136 qualify so far)
+[roster] built 137 qualified wallets for 2026-10
+[scan] reading current positions of 137 roster traders...
+    ...read 20/137 traders
+    ...read 40/137 traders
+    ...read 60/137 traders
+    ...read 80/137 traders
+    ...read 100/137 traders
+    ...read 120/137 traders
+[ENTRY]   Yes @ 0.155  x2  Will Gavin Newsom announce a Presidential run befo
+[ENTRY] Los Angeles Dodgers @ 0.495  x2  Los Angeles Dodgers vs. Milwaukee Brewers
+[ENTRY]    No @ 0.907  x2  Will the Kansas City Chiefs win the 2027 NFL leagu
+[ENTRY]   Yes @ 0.158  x2  Will Likud win fewer than 20 seats in the 2026 Isr
+[ENTRY]    No @ 0.205  x2  Will Barcelona win the 2026-27 LALIGA Championship
+[ENTRY]    No @ 0.885  x2  Will Milan win the 2026-27 UEFA Europa League Cham
+[ENTRY]    No @ 0.435  x2  Will Porto win the 2026-27 Primeira Liga Champions
+[ENTRY]   Yes @ 0.175  x2  Will Real Madrid win the 2026-27 LALIGA Championsh
+[RESOLVE] Thiago Seyboth Wild entry 0.900 -> 1  ret 0.1111
+[RESOLVE] Jonas Forejtek entry 0.460 -> 1  ret 1.1739
+[EXIT]     No sharps left, entry 0.425 -> 0.395  ret -0.0706
+[report] valid-resolved=158 (154 sub-48h excluded)  hit_rate=0.608  avg_entry_price=0.517  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +8 entries, 3 closed, 57 still open
+[check_stuck] clean — every open position is being refreshed.
