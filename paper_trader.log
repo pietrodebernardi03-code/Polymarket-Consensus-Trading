@@ -4125,3 +4125,44 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +8 entries, 3 closed, 57 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-12 (frozen strategy v1.1) ===
+[roster] scoring 284 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/284 traders (3 qualify so far)
+    ...checked 40/284 traders (12 qualify so far)
+    ...checked 60/284 traders (22 qualify so far)
+    ...checked 80/284 traders (31 qualify so far)
+    ...checked 100/284 traders (37 qualify so far)
+    ...checked 120/284 traders (49 qualify so far)
+    ...checked 140/284 traders (60 qualify so far)
+    ...checked 160/284 traders (69 qualify so far)
+    ...checked 180/284 traders (75 qualify so far)
+    ...checked 200/284 traders (85 qualify so far)
+    ...checked 220/284 traders (97 qualify so far)
+    ...checked 240/284 traders (111 qualify so far)
+    ...checked 260/284 traders (125 qualify so far)
+    ...checked 280/284 traders (135 qualify so far)
+[roster] built 138 qualified wallets for 2026-10
+[scan] reading current positions of 138 roster traders...
+    ...read 20/138 traders
+    ...read 40/138 traders
+    ...read 60/138 traders
+    ...read 80/138 traders
+    ...read 100/138 traders
+    ...read 120/138 traders
+[ENTRY]   Yes @ 0.205  x2  Will Bernadette Wilson win the 2026 Alaska governo
+[ENTRY]   Yes @ 0.115  x2  Will the Democrats win the Florida Senate race in 
+[ENTRY] Los Angeles Dodgers @ 0.555  x2  Los Angeles Dodgers vs. Milwaukee Brewers
+[ENTRY]    No @ 0.815  x2  Will CoreWeave announce bankruptcy by December 31,
+[ENTRY]   Yes @ 0.248  x2  Perim Island no longer under Houthi control by Oct
+[ENTRY]    No @ 0.895  x2  Will the San Francisco 49ers win the 2027 NFL leag
+[ENTRY]    No @ 0.385  x2  Will Tampa Bay Rays win the 2026 American League C
+[ENTRY]    No @ 0.510  x2  Will Likud win the most seats in the 2026 Israeli 
+[ENTRY]    No @ 0.255  x2  Will the Fed increase interest rates by 25 bps aft
+[ENTRY]   Yes @ 0.795  x5  US x Iran ceasefire continues through October 31?
+[ENTRY]    No @ 0.535  x2  Will Los Angeles Dodgers win the 2026 National Lea
+[ENTRY] Henrique Rocha @ 0.620  x2  Maia: Sumit Nagal vs Henrique Rocha
+[RESOLVE] Los Angeles Dodgers entry 0.495 -> 0  ret -1.0
+[report] valid-resolved=158 (155 sub-48h excluded)  hit_rate=0.608  avg_entry_price=0.517  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +12 entries, 1 closed, 68 still open
+[check_stuck] clean — every open position is being refreshed.
