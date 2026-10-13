@@ -4166,3 +4166,42 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +12 entries, 1 closed, 68 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-13 (frozen strategy v1.1) ===
+[roster] scoring 283 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/283 traders (4 qualify so far)
+    ...checked 40/283 traders (12 qualify so far)
+    ...checked 60/283 traders (21 qualify so far)
+    ...checked 80/283 traders (30 qualify so far)
+    ...checked 100/283 traders (36 qualify so far)
+    ...checked 120/283 traders (48 qualify so far)
+    ...checked 140/283 traders (59 qualify so far)
+    ...checked 160/283 traders (66 qualify so far)
+    ...checked 180/283 traders (72 qualify so far)
+    ...checked 200/283 traders (84 qualify so far)
+    ...checked 220/283 traders (94 qualify so far)
+    ...checked 240/283 traders (110 qualify so far)
+    ...checked 260/283 traders (120 qualify so far)
+    ...checked 280/283 traders (130 qualify so far)
+[roster] built 131 qualified wallets for 2026-10
+[scan] reading current positions of 131 roster traders...
+    ...read 20/131 traders
+    ...read 40/131 traders
+    ...read 60/131 traders
+    ...read 80/131 traders
+    ...read 100/131 traders
+    ...read 120/131 traders
+[ENTRY]   Yes @ 0.210  x2  Will the price of Ethereum be above $2,600 on Octo
+[ENTRY]    No @ 0.836  x2  Will the Tampa Bay Rays win the 2026 World Series?
+[ENTRY]    No @ 0.905  x2  Will Real Madrid win the 2026-27 UEFA Champions Le
+[ENTRY]   Yes @ 0.560  x2  Will Yashar win the most seats in the 2026 Israeli
+[ENTRY]    No @ 0.895  x2  Will Jean-Luc Mélenchon win the 2027 French presid
+[EXIT]     No sharps left, entry 0.725 -> 0.725  ret 0.0
+[RESOLVE] Los Angeles Dodgers entry 0.555 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.815 -> 0.590  ret -0.2761
+[EXIT]    Yes sharps left, entry 0.248 -> 0.214  ret -0.1368
+[EXIT]     No sharps left, entry 0.255 -> 0.235  ret -0.0784
+[RESOLVE] Henrique Rocha entry 0.620 -> 0  ret -1.0
+[report] valid-resolved=158 (157 sub-48h excluded)  hit_rate=0.608  avg_entry_price=0.517  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +5 entries, 6 closed, 67 still open
+[check_stuck] clean — every open position is being refreshed.
