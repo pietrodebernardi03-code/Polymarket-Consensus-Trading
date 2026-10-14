@@ -4205,3 +4205,57 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +5 entries, 6 closed, 67 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-14 (frozen strategy v1.1) ===
+[roster] scoring 283 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/283 traders (4 qualify so far)
+    ...checked 40/283 traders (13 qualify so far)
+    ...checked 60/283 traders (21 qualify so far)
+    ...checked 80/283 traders (32 qualify so far)
+    ...checked 100/283 traders (38 qualify so far)
+    ...checked 120/283 traders (49 qualify so far)
+    ...checked 140/283 traders (60 qualify so far)
+    ...checked 160/283 traders (67 qualify so far)
+    ...checked 180/283 traders (73 qualify so far)
+    ...checked 200/283 traders (84 qualify so far)
+    ...checked 220/283 traders (96 qualify so far)
+    ...checked 240/283 traders (110 qualify so far)
+    ...checked 260/283 traders (122 qualify so far)
+    ...checked 280/283 traders (135 qualify so far)
+[roster] built 137 qualified wallets for 2026-10
+[scan] reading current positions of 137 roster traders...
+    ...read 20/137 traders
+    ...read 40/137 traders
+    ...read 60/137 traders
+    ...read 80/137 traders
+    ...read 100/137 traders
+    ...read 120/137 traders
+[ENTRY] Enrico Dalla Valle @ 0.215  x3  Catania: Buvaysar Gadamauri vs Enrico Dalla Valle
+[ENTRY] Jessica Bouzas Maneiro @ 0.655  x2  Lisbon: Jessica Bouzas Maneiro vs Irene Burillo Es
+[ENTRY]    No @ 0.835  x2  Will Indiana enact a data center moratorium by Dec
+[ENTRY] Los Angeles Dodgers @ 0.615  x3  Milwaukee Brewers vs. Los Angeles Dodgers
+[ENTRY]    No @ 0.735  x2  Katie Zacharia out as Press Secretary by December 
+[ENTRY]   Yes @ 0.440  x2  US x Iran ceasefire continues through November 30?
+[ENTRY]   Yes @ 0.701  x3  Will Google have the best AI model at the end of O
+[ENTRY]   Yes @ 0.140  x2  Iran-Oman Hormuz Agreement by October 31?
+[ENTRY]   Yes @ 0.355  x2  US x Iran ceasefire continues through December 31?
+[ENTRY]   Yes @ 0.895  x4  US x Yemen ceasefire continues through October 31?
+[ENTRY]   Yes @ 0.125  x2  Will 1 Fed rate hike happen in 2026?
+[ENTRY]   Yes @ 0.365  x2  Will Flávio Bolsonaro win the second round of the 
+[ENTRY]   Yes @ 0.148  x2  Will the Cleveland Guardians win the 2026 World Se
+[ENTRY]   Yes @ 0.225  x2  Will San Antonio Spurs win the 2027 NBA Finals?
+[ENTRY]    No @ 0.905  x2  Israeli airspace closed between Oct. 15 and Oct. 3
+[RESOLVE]    No entry 0.885 -> 1  ret 0.1299
+[EXIT]     No sharps left, entry 0.907 -> 0.891  ret -0.0176
+[EXIT]     No sharps left, entry 0.885 -> 0.895  ret 0.0113
+[EXIT]     No sharps left, entry 0.435 -> 0.400  ret -0.0805
+[EXIT]    Yes sharps left, entry 0.175 -> 0.150  ret -0.1429
+[EXIT]     No sharps left, entry 0.895 -> 0.870  ret -0.029
+[EXIT]     No sharps left, entry 0.385 -> 0.424  ret 0.104
+[EXIT]    Yes sharps left, entry 0.210 -> 0.040  ret -0.8095
+[EXIT]     No sharps left, entry 0.836 -> 0.768  ret -0.0808
+[EXIT]     No sharps left, entry 0.905 -> 0.885  ret -0.0221
+[EXIT]     No sharps left, entry 0.895 -> 0.875  ret -0.0223
+[report] valid-resolved=159 (157 sub-48h excluded)  hit_rate=0.610  avg_entry_price=0.519  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +15 entries, 11 closed, 71 still open
+[check_stuck] clean — every open position is being refreshed.
