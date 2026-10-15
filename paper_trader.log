@@ -4259,3 +4259,54 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +15 entries, 11 closed, 71 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-15 (frozen strategy v1.1) ===
+[roster] scoring 281 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/281 traders (4 qualify so far)
+    ...checked 40/281 traders (12 qualify so far)
+    ...checked 60/281 traders (20 qualify so far)
+    ...checked 80/281 traders (30 qualify so far)
+    ...checked 100/281 traders (36 qualify so far)
+    ...checked 120/281 traders (48 qualify so far)
+    ...checked 140/281 traders (59 qualify so far)
+    ...checked 160/281 traders (66 qualify so far)
+    ...checked 180/281 traders (73 qualify so far)
+    ...checked 200/281 traders (84 qualify so far)
+    ...checked 220/281 traders (92 qualify so far)
+    ...checked 240/281 traders (106 qualify so far)
+    ...checked 260/281 traders (119 qualify so far)
+    ...checked 280/281 traders (134 qualify so far)
+[roster] built 135 qualified wallets for 2026-10
+[scan] reading current positions of 135 roster traders...
+    ...read 20/135 traders
+    ...read 40/135 traders
+    ...read 60/135 traders
+    ...read 80/135 traders
+    ...read 100/135 traders
+    ...read 120/135 traders
+[ENTRY]   Yes @ 0.635  x5  Will the Democrats win the Texas Senate race in 20
+[ENTRY]   Yes @ 0.245  x2  US announces end of Iranian blockade by November 3
+[ENTRY]   Yes @ 0.776  x2  Will Jonathan Kreiss-Tomkins win the 2026 Alaska g
+[ENTRY]    No @ 0.735  x2  Will Solana reach $140 by December 31, 2026?
+[ENTRY]    No @ 0.685  x2  Will Solana dip to $90 in October?
+[ENTRY]    No @ 0.190  x2  Will the price of Bitcoin be above $78,000 on Octo
+[ENTRY]    No @ 0.210  x2  Will the price of Bitcoin be above $78,000 on Octo
+[ENTRY]   Yes @ 0.345  x2  Israeli election results in a hung parliament?
+[ENTRY] G2 HEL @ 0.175  x2  LoL: Vitality Rising Bees vs G2 HEL (BO5) - LGC Ri
+[ENTRY]    No @ 0.695  x2  Will Ethereum dip to $2,100 in October?
+[ENTRY]    No @ 0.852  x2  Will Ethereum dip to $2,000 in October?
+[ENTRY]    No @ 0.400  x2  Will Ethereum dip to $2,300 October 12-18?
+[ENTRY]    No @ 0.195  x2  Will Ethereum dip to $2,300 in October?
+[EXIT]    Yes sharps left, entry 0.148 -> 0.079  ret -0.468
+[EXIT]     No sharps left, entry 0.865 -> 0.910  ret 0.052
+[EXIT]     No sharps left, entry 0.535 -> 0.895  ret 0.6729
+[RESOLVE] Enrico Dalla Valle entry 0.215 -> 0  ret -1.0
+[RESOLVE] Jessica Bouzas Maneiro entry 0.655 -> 1  ret 0.5267
+[RESOLVE] Los Angeles Dodgers entry 0.615 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.440 -> 0.410  ret -0.0682
+[EXIT]    Yes sharps left, entry 0.355 -> 0.315  ret -0.1127
+[EXIT]    Yes sharps left, entry 0.125 -> 0.120  ret -0.04
+[EXIT]    Yes sharps left, entry 0.365 -> 0.395  ret 0.0822
+[report] valid-resolved=159 (160 sub-48h excluded)  hit_rate=0.610  avg_entry_price=0.519  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +13 entries, 10 closed, 74 still open
+[check_stuck] clean — every open position is being refreshed.
