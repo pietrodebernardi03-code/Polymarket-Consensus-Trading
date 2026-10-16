@@ -4310,3 +4310,41 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +13 entries, 10 closed, 74 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-16 (frozen strategy v1.1) ===
+[roster] scoring 281 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/281 traders (4 qualify so far)
+    ...checked 40/281 traders (13 qualify so far)
+    ...checked 60/281 traders (21 qualify so far)
+    ...checked 80/281 traders (32 qualify so far)
+    ...checked 100/281 traders (37 qualify so far)
+    ...checked 120/281 traders (49 qualify so far)
+    ...checked 140/281 traders (61 qualify so far)
+    ...checked 160/281 traders (68 qualify so far)
+    ...checked 180/281 traders (76 qualify so far)
+    ...checked 200/281 traders (87 qualify so far)
+    ...checked 220/281 traders (94 qualify so far)
+    ...checked 240/281 traders (107 qualify so far)
+    ...checked 260/281 traders (122 qualify so far)
+    ...checked 280/281 traders (136 qualify so far)
+[roster] built 137 qualified wallets for 2026-10
+[scan] reading current positions of 137 roster traders...
+    ...read 20/137 traders
+    ...read 40/137 traders
+    ...read 60/137 traders
+    ...read 80/137 traders
+    ...read 100/137 traders
+    ...read 120/137 traders
+[ENTRY] Lea Boskovic @ 0.425  x2  Rovereto: Dominika Salkova vs Lea Boskovic
+[ENTRY]   Yes @ 0.870  x2  Will Anthropic's valuation hit (HIGH) $1.5T by Dec
+[ENTRY]   Yes @ 0.622  x2  Will oil be at least $80 on November 2 and the Dem
+[ENTRY]    No @ 0.906  x2  Will Flávio Bolsonaro win the second round of the 
+[ENTRY]    No @ 0.907  x2  Katie Zacharia out as Press Secretary by October 3
+[EXIT]    Yes sharps left, entry 0.815 -> 0.775  ret -0.0491
+[EXIT]    Yes sharps left, entry 0.776 -> 0.757  ret -0.0245
+[EXIT]     No sharps left, entry 0.190 -> 0.023  ret -0.8789
+[EXIT]     No sharps left, entry 0.210 -> 0.043  ret -0.7929
+[EXIT]     No sharps left, entry 0.195 -> 0.525  ret 1.6923
+[report] valid-resolved=159 (160 sub-48h excluded)  hit_rate=0.610  avg_entry_price=0.519  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +5 entries, 5 closed, 74 still open
+[check_stuck] clean — every open position is being refreshed.
