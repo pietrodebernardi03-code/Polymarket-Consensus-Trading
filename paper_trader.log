@@ -4348,3 +4348,49 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +5 entries, 5 closed, 74 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-17 (frozen strategy v1.1) ===
+[roster] scoring 281 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/281 traders (4 qualify so far)
+    ...checked 40/281 traders (12 qualify so far)
+    ...checked 60/281 traders (21 qualify so far)
+    ...checked 80/281 traders (32 qualify so far)
+    ...checked 100/281 traders (37 qualify so far)
+    ...checked 120/281 traders (49 qualify so far)
+    ...checked 140/281 traders (61 qualify so far)
+    ...checked 160/281 traders (69 qualify so far)
+    ...checked 180/281 traders (76 qualify so far)
+    ...checked 200/281 traders (86 qualify so far)
+    ...checked 220/281 traders (93 qualify so far)
+    ...checked 240/281 traders (108 qualify so far)
+    ...checked 260/281 traders (124 qualify so far)
+    ...checked 280/281 traders (141 qualify so far)
+[roster] built 142 qualified wallets for 2026-10
+[scan] reading current positions of 142 roster traders...
+    ...read 20/142 traders
+    ...read 40/142 traders
+    ...read 60/142 traders
+    ...read 80/142 traders
+    ...read 100/142 traders
+    ...read 120/142 traders
+    ...read 140/142 traders
+[ENTRY]    No @ 0.760  x2  Will Pete Hegseth leave the Trump administration b
+[ENTRY]   Yes @ 0.145  x2  US x Cuba military clash in 2026?
+[ENTRY]    No @ 0.310  x2  Will Solana dip to $100 in October?
+[ENTRY]    No @ 0.665  x2  Will Flávio Bolsonaro win Brazil, Gadi Eizenkot be
+[ENTRY]   Yes @ 0.305  x2  Will Ethereum dip to $2,000 by December 31, 2026?
+[ENTRY]   Yes @ 0.175  x2  Will Ethereum dip to $1,750 by December 31, 2026?
+[ENTRY]   Yes @ 0.430  x2  Will Bitcoin dip to $77,500 in October?
+[ENTRY]   Yes @ 0.755  x2  Will Ethereum reach $2,500 in October?
+[ENTRY]    No @ 0.775  x2  Will Bitcoin dip to $75,000 in October?
+[ENTRY]   Yes @ 0.155  x2  Will OpenAI announce another Millennium Prize solu
+[ENTRY] Martyna Kubka @ 0.520  x2  Rovereto: Martyna Kubka vs Dominika Salkova
+[ENTRY]   Yes @ 0.330  x2  Military action against Saudi Oil Pipeline (East-W
+[EXIT]     No sharps left, entry 0.815 -> 0.740  ret -0.092
+[RESOLVE]    No entry 0.735 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.905 -> 0.880  ret -0.0276
+[RESOLVE] Lea Boskovic entry 0.425 -> 0  ret -1.0
+[RESOLVE]    No entry 0.907 -> 0  ret -1.0
+[report] valid-resolved=160 (162 sub-48h excluded)  hit_rate=0.606  avg_entry_price=0.521  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +12 entries, 5 closed, 81 still open
+[check_stuck] clean — every open position is being refreshed.
