@@ -4394,3 +4394,43 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +12 entries, 5 closed, 81 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-18 (frozen strategy v1.1) ===
+[roster] scoring 283 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/283 traders (4 qualify so far)
+    ...checked 40/283 traders (12 qualify so far)
+    ...checked 60/283 traders (21 qualify so far)
+    ...checked 80/283 traders (33 qualify so far)
+    ...checked 100/283 traders (39 qualify so far)
+    ...checked 120/283 traders (50 qualify so far)
+    ...checked 140/283 traders (61 qualify so far)
+    ...checked 160/283 traders (69 qualify so far)
+    ...checked 180/283 traders (78 qualify so far)
+    ...checked 200/283 traders (88 qualify so far)
+    ...checked 220/283 traders (98 qualify so far)
+    ...checked 240/283 traders (111 qualify so far)
+    ...checked 260/283 traders (127 qualify so far)
+    ...checked 280/283 traders (142 qualify so far)
+[roster] built 145 qualified wallets for 2026-10
+[scan] reading current positions of 145 roster traders...
+    ...read 20/145 traders
+    ...read 40/145 traders
+    ...read 60/145 traders
+    ...read 80/145 traders
+    ...read 100/145 traders
+    ...read 120/145 traders
+    ...read 140/145 traders
+[ENTRY] Ivan Gakhov @ 0.495  x9  Lisbon: Joao Domingues vs Ivan Gakhov
+[ENTRY]    No @ 0.875  x2  Will Anna Kelly be the next White House Press Secr
+[ENTRY]    No @ 0.705  x3  Will the Republicans win the Michigan Senate race 
+[ENTRY] Zsombor Piros @ 0.575  x3  Maia: Francesco Passaro vs Zsombor Piros
+[ENTRY] Federico Cina @ 0.435  x3  European Open, Qualification: Remy Bertola vs Fede
+[ENTRY]    No @ 0.825  x2  Will Ishaq Dar attend a US x Iran diplomatic meeti
+[ENTRY]   Yes @ 0.865  x2  US x Iran ceasefire continues through October 28?
+[ENTRY]   Yes @ 0.700  x2  Will Bitcoin dip to $80,000 in October?
+[ENTRY]    No @ 0.135  x2  Will WTI Crude Oil (WTI) hit (HIGH) $100 in Octobe
+[ENTRY]    No @ 0.665  x3  Will Ethereum dip to $2,200 in October?
+[RESOLVE] Martyna Kubka entry 0.520 -> 0  ret -1.0
+[report] valid-resolved=160 (163 sub-48h excluded)  hit_rate=0.606  avg_entry_price=0.521  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +10 entries, 1 closed, 90 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
