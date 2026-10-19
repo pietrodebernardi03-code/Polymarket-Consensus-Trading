@@ -4434,3 +4434,57 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +10 entries, 1 closed, 90 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-10-19 (frozen strategy v1.1) ===
+[roster] scoring 284 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/284 traders (4 qualify so far)
+    ...checked 40/284 traders (11 qualify so far)
+    ...checked 60/284 traders (21 qualify so far)
+    ...checked 80/284 traders (34 qualify so far)
+    ...checked 100/284 traders (39 qualify so far)
+    ...checked 120/284 traders (50 qualify so far)
+    ...checked 140/284 traders (62 qualify so far)
+    ...checked 160/284 traders (72 qualify so far)
+    ...checked 180/284 traders (82 qualify so far)
+    ...checked 200/284 traders (94 qualify so far)
+    ...checked 220/284 traders (104 qualify so far)
+    ...checked 240/284 traders (112 qualify so far)
+    ...checked 260/284 traders (126 qualify so far)
+    ...checked 280/284 traders (137 qualify so far)
+[roster] built 140 qualified wallets for 2026-10
+[scan] reading current positions of 140 roster traders...
+    ...read 20/140 traders
+    ...read 40/140 traders
+    ...read 60/140 traders
+    ...read 80/140 traders
+    ...read 100/140 traders
+    ...read 120/140 traders
+    ...read 140/140 traders
+[ENTRY]   Yes @ 0.645  x2  Will Anthropic IPO by November 30, 2026?
+[ENTRY]   Yes @ 0.890  x2  Will the Republicans win the Mississippi Senate ra
+[ENTRY] Jonas Forejtek @ 0.255  x2  Florence: Francesco Forti vs Jonas Forejtek
+[ENTRY]   Yes @ 0.738  x3  US x Iran ceasefire continues through October 22?
+[ENTRY]   Yes @ 0.165  x2  Next White House Press Secretary announced by Octo
+[ENTRY]   Yes @ 0.775  x2  Next White House Press Secretary announced by Dece
+[ENTRY]   Yes @ 0.275  x2  Will Lula win the most votes in the second round o
+[ENTRY]    No @ 0.295  x2  Will Flavio Bolsonaro win the most votes in the se
+[ENTRY]    No @ 0.230  x2  Will the price of Bitcoin be above $80,000 on Octo
+[ENTRY]    No @ 0.505  x2  Will Ethereum dip to $2,300 October 19-25?
+[ENTRY]   Yes @ 0.182  x2  US reissues Iran oil sanction relief by October 31
+[ENTRY] Dplus KIA @ 0.625  x3  LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group 
+[ENTRY] Invictus Gaming @ 0.235  x2  LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group
+[ENTRY] Alejo Sanchez Quilez @ 0.605  x2  Lisbon: Alejo Sanchez Quilez vs Kai Wehnelt
+[RESOLVE]    No entry 0.835 -> 1  ret 0.1976
+[EXIT]    Yes sharps left, entry 0.425 -> 0.265  ret -0.3765
+[EXIT]     No sharps left, entry 0.910 -> 0.845  ret -0.0714
+[EXIT]    Yes sharps left, entry 0.850 -> 0.395  ret -0.5353
+[EXIT]    Yes sharps left, entry 0.805 -> 0.705  ret -0.1242
+[EXIT]    Yes sharps left, entry 0.895 -> 0.945  ret 0.0559
+[RESOLVE]    No entry 0.400 -> 1  ret 1.5
+[EXIT]    Yes sharps left, entry 0.622 -> 0.613  ret -0.0137
+[RESOLVE] Ivan Gakhov entry 0.495 -> 0  ret -1.0
+[RESOLVE] Zsombor Piros entry 0.575 -> 0  ret -1.0
+[RESOLVE] Federico Cina entry 0.435 -> 1  ret 1.2962
+[report] valid-resolved=162 (166 sub-48h excluded)  hit_rate=0.611  avg_entry_price=0.522  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +14 entries, 11 closed, 93 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
