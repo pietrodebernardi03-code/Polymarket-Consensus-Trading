@@ -4488,3 +4488,41 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +14 entries, 11 closed, 93 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-10-20 (frozen strategy v1.1) ===
+[roster] scoring 283 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/283 traders (4 qualify so far)
+    ...checked 40/283 traders (11 qualify so far)
+    ...checked 60/283 traders (21 qualify so far)
+    ...checked 80/283 traders (34 qualify so far)
+    ...checked 100/283 traders (39 qualify so far)
+    ...checked 120/283 traders (50 qualify so far)
+    ...checked 140/283 traders (62 qualify so far)
+    ...checked 160/283 traders (70 qualify so far)
+    ...checked 180/283 traders (82 qualify so far)
+    ...checked 200/283 traders (91 qualify so far)
+    ...checked 220/283 traders (98 qualify so far)
+    ...checked 240/283 traders (109 qualify so far)
+    ...checked 260/283 traders (124 qualify so far)
+    ...checked 280/283 traders (136 qualify so far)
+[roster] built 136 qualified wallets for 2026-10
+[scan] reading current positions of 136 roster traders...
+    ...read 20/136 traders
+    ...read 40/136 traders
+    ...read 60/136 traders
+    ...read 80/136 traders
+    ...read 100/136 traders
+    ...read 120/136 traders
+[ENTRY]   Yes @ 0.680  x2  US x Iran ceasefire continues through November 8?
+[ENTRY]    No @ 0.495  x2  Will Bitcoin dip to $80,000 October 19-25?
+[ENTRY]    No @ 0.388  x2  Will the Milwaukee Brewers win the 2026 World Seri
+[RESOLVE]    No entry 0.700 -> 1  ret 0.4286
+[RESOLVE]   Yes entry 0.148 -> 0  ret -1.0
+[RESOLVE]    No entry 0.135 -> 0  ret -1.0
+[RESOLVE] Jonas Forejtek entry 0.255 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.165 -> 0.095  ret -0.4242
+[EXIT]  Invictus Gaming sharps left, entry 0.235 -> 0.215  ret -0.0851
+[RESOLVE] Alejo Sanchez Quilez entry 0.605 -> 1  ret 0.6529
+[report] valid-resolved=165 (168 sub-48h excluded)  hit_rate=0.606  avg_entry_price=0.518  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +3 entries, 7 closed, 89 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
