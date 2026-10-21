@@ -4526,3 +4526,63 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +3 entries, 7 closed, 89 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-10-21 (frozen strategy v1.1) ===
+[roster] scoring 282 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/282 traders (4 qualify so far)
+    ...checked 40/282 traders (12 qualify so far)
+    ...checked 60/282 traders (22 qualify so far)
+    ...checked 80/282 traders (32 qualify so far)
+    ...checked 100/282 traders (38 qualify so far)
+    ...checked 120/282 traders (49 qualify so far)
+    ...checked 140/282 traders (61 qualify so far)
+    ...checked 160/282 traders (69 qualify so far)
+    ...checked 180/282 traders (79 qualify so far)
+    ...checked 200/282 traders (89 qualify so far)
+    ...checked 220/282 traders (99 qualify so far)
+    ...checked 240/282 traders (105 qualify so far)
+    ...checked 260/282 traders (122 qualify so far)
+    ...checked 280/282 traders (132 qualify so far)
+[roster] built 134 qualified wallets for 2026-10
+[scan] reading current positions of 134 roster traders...
+    ...read 20/134 traders
+    ...read 40/134 traders
+    ...read 60/134 traders
+    ...read 80/134 traders
+    ...read 100/134 traders
+    ...read 120/134 traders
+[ENTRY]    No @ 0.755  x2  Will Dan Sullivan win the Alaska Senate race in 20
+[ENTRY]   Yes @ 0.175  x2  Will Anthropic announce bankruptcy by December 31,
+[ENTRY]   Yes @ 0.225  x2  US strike on Colombia by December 31?
+[ENTRY]   Yes @ 0.210  x2  Will J.D. Vance attend a US x Iran diplomatic meet
+[ENTRY]   Yes @ 0.165  x2  Will Anna Kelly be the next White House Press Secr
+[ENTRY]   Yes @ 0.205  x2  Will the Democrats win the Florida governor race i
+[ENTRY]    No @ 0.500  x2  Russia-Ukraine peace talks by November 30, 2026?
+[ENTRY]   Yes @ 0.215  x2  Will Luiz Inácio Lula da Silva win the second roun
+[ENTRY]    No @ 0.865  x2  Will any Uranium Enrichment % Cap (1+ Year) be in 
+[ENTRY]    No @ 0.560  x2  Will the AfD be part of a German state government 
+[ENTRY]    No @ 0.200  x2  Will Together win the third-most seats in the 2026
+[ENTRY]    No @ 0.475  x2  Will Ethereum reach $2,600 in October?
+[ENTRY]    No @ 0.875  x2  Will Bitcoin reach $88,000 October 19-25?
+[ENTRY]   Yes @ 0.375  x2  Will Ethereum dip to $2,300 in October?
+[ENTRY]    No @ 0.236  x2  Will Ethereum reach $2,500 October 19-25?
+[ENTRY]   Yes @ 0.265  x2  Will Ethereum reach $2,600 October 19-25?
+[ENTRY]   Yes @ 0.112  x2  Will Philadelphia 76ers win the 2027 NBA Finals?
+[ENTRY]   Yes @ 0.115  x2  Will Jean-Luc Mélenchon win the 2027 French presid
+[ENTRY]    T1 @ 0.885  x2  LoL: LOS vs T1 (BO1) - Worlds Group Stage
+[EXIT]     No sharps left, entry 0.395 -> 0.205  ret -0.481
+[EXIT]    Yes sharps left, entry 0.158 -> 0.292  ret 0.854
+[EXIT]    Yes sharps left, entry 0.560 -> 0.705  ret 0.2589
+[EXIT]     No sharps left, entry 0.835 -> 0.855  ret 0.024
+[EXIT]    Yes sharps left, entry 0.225 -> 0.190  ret -0.1556
+[RESOLVE] G2 HEL entry 0.175 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.430 -> 0.175  ret -0.593
+[EXIT]    Yes sharps left, entry 0.330 -> 0.185  ret -0.4394
+[EXIT]     No sharps left, entry 0.875 -> 0.835  ret -0.0457
+[EXIT]    Yes sharps left, entry 0.890 -> 0.875  ret -0.0169
+[EXIT]    Yes sharps left, entry 0.775 -> 0.615  ret -0.2065
+[EXIT]    Yes sharps left, entry 0.182 -> 0.100  ret -0.4521
+[EXIT]    Yes sharps left, entry 0.680 -> 0.690  ret 0.0147
+[report] valid-resolved=166 (168 sub-48h excluded)  hit_rate=0.602  avg_entry_price=0.516  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +19 entries, 13 closed, 95 still open
+[check_stuck] clean — every open position is being refreshed.
