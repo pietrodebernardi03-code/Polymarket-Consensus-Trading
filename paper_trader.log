@@ -4586,3 +4586,50 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +19 entries, 13 closed, 95 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-22 (frozen strategy v1.1) ===
+[roster] scoring 285 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/285 traders (4 qualify so far)
+    ...checked 40/285 traders (12 qualify so far)
+    ...checked 60/285 traders (21 qualify so far)
+    ...checked 80/285 traders (32 qualify so far)
+    ...checked 100/285 traders (37 qualify so far)
+    ...checked 120/285 traders (48 qualify so far)
+    ...checked 140/285 traders (61 qualify so far)
+    ...checked 160/285 traders (68 qualify so far)
+    ...checked 180/285 traders (79 qualify so far)
+    ...checked 200/285 traders (88 qualify so far)
+    ...checked 220/285 traders (96 qualify so far)
+    ...checked 240/285 traders (103 qualify so far)
+    ...checked 260/285 traders (114 qualify so far)
+    ...checked 280/285 traders (131 qualify so far)
+[roster] built 135 qualified wallets for 2026-10
+[scan] reading current positions of 135 roster traders...
+    ...read 20/135 traders
+    ...read 40/135 traders
+    ...read 60/135 traders
+    ...read 80/135 traders
+    ...read 100/135 traders
+    ...read 120/135 traders
+[ENTRY]   Yes @ 0.908  x2  Will the Republicans win the Idaho Senate race in 
+[ENTRY]   Yes @ 0.119  x2  Will Monterrey win the 2026 Liga MX Apertura?
+[ENTRY]    No @ 0.680  x2  NATO x Russia military clash by December 31, 2026?
+[ENTRY]   Yes @ 0.695  x2  US-Iran ceasefire continues through the midterms?
+[ENTRY]   Yes @ 0.895  x2  Will Iliana Iotova win the next Bulgarian presiden
+[ENTRY]    No @ 0.685  x2  Will Student List – Students Win win the most seat
+[ENTRY]   Yes @ 0.685  x2  Will Aleksandar Vučić – United Serbia win the most
+[ENTRY]   Yes @ 0.497  x2  Will Bitcoin reach $85,000 in October?
+[ENTRY]    No @ 0.861  x2  Will Bitcoin dip to $78,000 October 19-25?
+[EXIT]    Yes sharps left, entry 0.245 -> 0.205  ret -0.1633
+[EXIT]     No sharps left, entry 0.906 -> 0.932  ret 0.0281
+[RESOLVE]   Yes entry 0.755 -> 1  ret 0.3245
+[EXIT]     No sharps left, entry 0.775 -> 0.835  ret 0.0774
+[EXIT]     No sharps left, entry 0.665 -> 0.745  ret 0.1203
+[EXIT]    Yes sharps left, entry 0.225 -> 0.235  ret 0.0444
+[EXIT]     No sharps left, entry 0.200 -> 0.155  ret -0.225
+[RESOLVE]    No entry 0.236 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.112 -> 0.087  ret -0.2152
+[EXIT]    Yes sharps left, entry 0.115 -> 0.095  ret -0.1739
+[report] valid-resolved=167 (169 sub-48h excluded)  hit_rate=0.605  avg_entry_price=0.518  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +9 entries, 10 closed, 94 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
