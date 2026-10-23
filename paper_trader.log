@@ -4633,3 +4633,46 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +9 entries, 10 closed, 94 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-10-23 (frozen strategy v1.1) ===
+[roster] scoring 284 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/284 traders (4 qualify so far)
+    ...checked 40/284 traders (12 qualify so far)
+    ...checked 60/284 traders (20 qualify so far)
+    ...checked 80/284 traders (31 qualify so far)
+    ...checked 100/284 traders (36 qualify so far)
+    ...checked 120/284 traders (47 qualify so far)
+    ...checked 140/284 traders (59 qualify so far)
+    ...checked 160/284 traders (65 qualify so far)
+    ...checked 180/284 traders (75 qualify so far)
+    ...checked 200/284 traders (87 qualify so far)
+    ...checked 220/284 traders (93 qualify so far)
+    ...checked 240/284 traders (99 qualify so far)
+    ...checked 260/284 traders (113 qualify so far)
+    ...checked 280/284 traders (127 qualify so far)
+[roster] built 129 qualified wallets for 2026-10
+[scan] reading current positions of 129 roster traders...
+    ...read 20/129 traders
+    ...read 40/129 traders
+    ...read 60/129 traders
+    ...read 80/129 traders
+    ...read 100/129 traders
+    ...read 120/129 traders
+[ENTRY]    No @ 0.815  x2  Will the Republicans win the Wisconsin governor ra
+[ENTRY]    No @ 0.630  x2  Will the Republicans win the Georgia governor race
+[ENTRY]   Yes @ 0.630  x2  Will the Democrats win the Georgia governor race i
+[ENTRY]   Yes @ 0.125  x2  Will Ethereum dip to $2,300 October 19-25?
+[RESOLVE]   Yes entry 0.715 -> 1  ret 0.3986
+[EXIT]     No sharps left, entry 0.205 -> 0.165  ret -0.1951
+[RESOLVE]   Yes entry 0.738 -> 1  ret 0.355
+[EXIT]     No sharps left, entry 0.230 -> 0.011  ret -0.95
+[EXIT]     No sharps left, entry 0.505 -> 0.880  ret 0.7426
+[EXIT]    Yes sharps left, entry 0.210 -> 0.145  ret -0.3095
+[RESOLVE]    No entry 0.875 -> 1  ret 0.1429
+[EXIT]    Yes sharps left, entry 0.265 -> 0.033  ret -0.8774
+[EXIT]    Yes sharps left, entry 0.119 -> 0.091  ret -0.2311
+[EXIT]    Yes sharps left, entry 0.695 -> 0.745  ret 0.0719
+[EXIT]    Yes sharps left, entry 0.497 -> 0.445  ret -0.1055
+[report] valid-resolved=170 (169 sub-48h excluded)  hit_rate=0.612  avg_entry_price=0.522  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +4 entries, 11 closed, 87 still open
+[check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
