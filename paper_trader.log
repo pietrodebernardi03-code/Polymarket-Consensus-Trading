@@ -4676,3 +4676,44 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +4 entries, 11 closed, 87 still open
 [check_stuck] WARNING: 1 stuck position(s) — logged to stuck_alerts.log. Review and run: python3 resolve_stuck.py
+=== paper_trader 2026-10-24 (frozen strategy v1.1) ===
+[roster] scoring 285 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/285 traders (4 qualify so far)
+    ...checked 40/285 traders (11 qualify so far)
+    ...checked 60/285 traders (19 qualify so far)
+    ...checked 80/285 traders (30 qualify so far)
+    ...checked 100/285 traders (35 qualify so far)
+    ...checked 120/285 traders (46 qualify so far)
+    ...checked 140/285 traders (58 qualify so far)
+    ...checked 160/285 traders (63 qualify so far)
+    ...checked 180/285 traders (72 qualify so far)
+    ...checked 200/285 traders (80 qualify so far)
+    ...checked 220/285 traders (90 qualify so far)
+    ...checked 240/285 traders (99 qualify so far)
+    ...checked 260/285 traders (110 qualify so far)
+    ...checked 280/285 traders (124 qualify so far)
+[roster] built 126 qualified wallets for 2026-10
+[scan] reading current positions of 126 roster traders...
+    ...read 20/126 traders
+    ...read 40/126 traders
+    ...read 60/126 traders
+    ...read 80/126 traders
+    ...read 100/126 traders
+    ...read 120/126 traders
+[ENTRY] Giovanni Mpetshi Perricard @ 0.815  x3  Swiss Indoors Basel, Qualification: Sebastian Baez
+[ENTRY]   Yes @ 0.165  x2  Will Indiana enact a data center moratorium by Dec
+[ENTRY] Taylor Fritz @ 0.725  x2  Lyon Open: Tommy Paul vs Taylor Fritz
+[ENTRY]    No @ 0.660  x2  US x Iran ceasefire continues through November 30?
+[ENTRY]   Yes @ 0.645  x2  Will Chiang Wan-an win the next Taipei Mayor elect
+[ENTRY]   Yes @ 0.255  x2  Will Ethereum reach $3,000 by December 31, 2026?
+[ENTRY]   Yes @ 0.645  x2  Will Bitcoin reach $82,500 in October?
+[EXIT]    Yes sharps left, entry 0.180 -> 0.095  ret -0.4722
+[EXIT]    Yes sharps left, entry 0.140 -> 0.035  ret -0.75
+[RESOLVE] Dplus KIA entry 0.625 -> 1  ret 0.6
+[EXIT]     No sharps left, entry 0.495 -> 0.505  ret 0.0202
+[RESOLVE]    T1 entry 0.885 -> 1  ret 0.1299
+[EXIT]     No sharps left, entry 0.861 -> 0.925  ret 0.0752
+[report] valid-resolved=172 (169 sub-48h excluded)  hit_rate=0.616  avg_entry_price=0.525  median_ret=+0.183
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +7 entries, 6 closed, 88 still open
+[check_stuck] clean — every open position is being refreshed.
