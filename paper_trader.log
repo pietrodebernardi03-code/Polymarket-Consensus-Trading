@@ -4717,3 +4717,46 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +7 entries, 6 closed, 88 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-25 (frozen strategy v1.1) ===
+[roster] scoring 284 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/284 traders (4 qualify so far)
+    ...checked 40/284 traders (11 qualify so far)
+    ...checked 60/284 traders (19 qualify so far)
+    ...checked 80/284 traders (31 qualify so far)
+    ...checked 100/284 traders (37 qualify so far)
+    ...checked 120/284 traders (47 qualify so far)
+    ...checked 140/284 traders (59 qualify so far)
+    ...checked 160/284 traders (65 qualify so far)
+    ...checked 180/284 traders (74 qualify so far)
+    ...checked 200/284 traders (83 qualify so far)
+    ...checked 220/284 traders (89 qualify so far)
+    ...checked 240/284 traders (100 qualify so far)
+    ...checked 260/284 traders (112 qualify so far)
+    ...checked 280/284 traders (128 qualify so far)
+[roster] built 130 qualified wallets for 2026-10
+[scan] reading current positions of 130 roster traders...
+    ...read 20/130 traders
+    ...read 40/130 traders
+    ...read 60/130 traders
+    ...read 80/130 traders
+    ...read 100/130 traders
+    ...read 120/130 traders
+[ENTRY]    No @ 0.795  x3  Will Samuel Alito announce his retirement by Decem
+[ENTRY]    No @ 0.455  x2  Will Avengers: Doomsday have the best domestic ope
+[ENTRY]   Yes @ 0.415  x3  Will Likud win 20-24 seats in the 2026 Israeli leg
+[ENTRY]   Yes @ 0.127  x2  Will Ethereum dip to $1,500 by December 31, 2026?
+[ENTRY]   Yes @ 0.185  x2  Will Bitcoin dip to $75,000 in October?
+[RESOLVE]    No entry 0.310 -> 0  ret -1.0
+[RESOLVE]   Yes entry 0.700 -> 1  ret 0.4286
+[RESOLVE]   Yes entry 0.375 -> 1  ret 1.6667
+[EXIT]     No sharps left, entry 0.685 -> 0.455  ret -0.3358
+[RESOLVE]   Yes entry 0.125 -> 1  ret 7.0
+[RESOLVE] Giovanni Mpetshi Perricard entry 0.815 -> 1  ret 0.227
+[EXIT]    Yes sharps left, entry 0.165 -> 0.145  ret -0.1212
+[RESOLVE] Taylor Fritz entry 0.725 -> 1  ret 0.3793
+[EXIT]     No sharps left, entry 0.660 -> 0.625  ret -0.053
+[EXIT]    Yes sharps left, entry 0.645 -> 0.565  ret -0.124
+[report] valid-resolved=176 (171 sub-48h excluded)  hit_rate=0.619  avg_entry_price=0.522  median_ret=+0.187
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +5 entries, 10 closed, 83 still open
+[check_stuck] clean — every open position is being refreshed.
