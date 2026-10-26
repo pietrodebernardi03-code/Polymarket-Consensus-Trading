@@ -4760,3 +4760,53 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +5 entries, 10 closed, 83 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-26 (frozen strategy v1.1) ===
+[roster] scoring 281 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/281 traders (4 qualify so far)
+    ...checked 40/281 traders (12 qualify so far)
+    ...checked 60/281 traders (19 qualify so far)
+    ...checked 80/281 traders (31 qualify so far)
+    ...checked 100/281 traders (37 qualify so far)
+    ...checked 120/281 traders (50 qualify so far)
+    ...checked 140/281 traders (60 qualify so far)
+    ...checked 160/281 traders (67 qualify so far)
+    ...checked 180/281 traders (78 qualify so far)
+    ...checked 200/281 traders (84 qualify so far)
+    ...checked 220/281 traders (95 qualify so far)
+    ...checked 240/281 traders (101 qualify so far)
+    ...checked 260/281 traders (110 qualify so far)
+    ...checked 280/281 traders (122 qualify so far)
+[roster] built 123 qualified wallets for 2026-10
+[scan] reading current positions of 123 roster traders...
+    ...read 20/123 traders
+    ...read 40/123 traders
+    ...read 60/123 traders
+    ...read 80/123 traders
+    ...read 100/123 traders
+    ...read 120/123 traders
+[ENTRY] Holger Rune @ 0.545  x2  Swiss Indoors Basel: Holger Rune vs Quentin Halys
+[ENTRY]    No @ 0.865  x2  Will the Republicans win the Iowa governor race in
+[ENTRY]   Yes @ 0.820  x2  Will the Democratic Party win the TX-15 House seat
+[ENTRY]    No @ 0.825  x2  Will the Republican Party win the TX-15 House seat
+[ENTRY]   Yes @ 0.135  x2  Will Juventus win the 2026-27 UEFA Europa League C
+[ENTRY]   Yes @ 0.370  x3  Will Google have the best AI model at the end of D
+[ENTRY]   Yes @ 0.180  x2  Venezuela election scheduled by December 31, 2026?
+[ENTRY]   Yes @ 0.865  x2  Will the Democrats win the Iowa governor race in 2
+[ENTRY]   Yes @ 0.855  x2  Will the Democrats win Tarrant County in the Texas
+[ENTRY]    No @ 0.240  x2  Will the price of Bitcoin be above $78,000 on Nove
+[ENTRY]    No @ 0.200  x2  Will the Republicans win the Florida governor race
+[ENTRY]   Yes @ 0.675  x2  Will Anthropic IPO by November 20, 2026?
+[ENTRY]    No @ 0.340  x2  Will the Democrats win the Michigan Senate race in
+[ENTRY]    No @ 0.410  x2  Will Bitcoin reach $82,500 in October?
+[RESOLVE]   Yes entry 0.645 -> 1  ret 0.5504
+[EXIT]    Yes sharps left, entry 0.735 -> 0.660  ret -0.102
+[RESOLVE]    No entry 0.665 -> 1  ret 0.5038
+[RESOLVE]   Yes entry 0.275 -> 1  ret 2.6364
+[RESOLVE]    No entry 0.295 -> 1  ret 2.3898
+[RESOLVE]   Yes entry 0.215 -> 1  ret 3.6512
+[RESOLVE]   Yes entry 0.685 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.185 -> 0.115  ret -0.3784
+[report] valid-resolved=182 (171 sub-48h excluded)  hit_rate=0.626  avg_entry_price=0.520  median_ret=+0.198
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +14 entries, 8 closed, 89 still open
+[check_stuck] clean — every open position is being refreshed.
