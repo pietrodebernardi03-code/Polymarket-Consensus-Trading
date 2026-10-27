@@ -4810,3 +4810,38 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +14 entries, 8 closed, 89 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-27 (frozen strategy v1.1) ===
+[roster] scoring 284 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/284 traders (4 qualify so far)
+    ...checked 40/284 traders (12 qualify so far)
+    ...checked 60/284 traders (19 qualify so far)
+    ...checked 80/284 traders (31 qualify so far)
+    ...checked 100/284 traders (37 qualify so far)
+    ...checked 120/284 traders (50 qualify so far)
+    ...checked 140/284 traders (60 qualify so far)
+    ...checked 160/284 traders (67 qualify so far)
+    ...checked 180/284 traders (77 qualify so far)
+    ...checked 200/284 traders (87 qualify so far)
+    ...checked 220/284 traders (96 qualify so far)
+    ...checked 240/284 traders (105 qualify so far)
+    ...checked 260/284 traders (114 qualify so far)
+    ...checked 280/284 traders (124 qualify so far)
+[roster] built 125 qualified wallets for 2026-10
+[scan] reading current positions of 125 roster traders...
+    ...read 20/125 traders
+    ...read 40/125 traders
+    ...read 60/125 traders
+    ...read 80/125 traders
+    ...read 100/125 traders
+    ...read 120/125 traders
+[ENTRY] Julia Riera @ 0.275  x2  Curitiba: Julia Riera vs Rebeka Masarova
+[ENTRY]   Yes @ 0.580  x2  Will Chuck Schumer be the next Senate Majority Lea
+[ENTRY]    No @ 0.155  x2  Will the price of Ethereum be above $2,200 on Nove
+[ENTRY]    No @ 0.750  x2  Will Bitcoin reach $84,000 October 26-November 1?
+[ENTRY]    No @ 0.295  x2  US x Iran ceasefire continues through November 8?
+[ENTRY]    No @ 0.458  x2  Will Ethereum reach $2,400 in October?
+[RESOLVE] Holger Rune entry 0.545 -> 1  ret 0.8349
+[report] valid-resolved=182 (172 sub-48h excluded)  hit_rate=0.626  avg_entry_price=0.520  median_ret=+0.198
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +6 entries, 1 closed, 94 still open
+[check_stuck] clean — every open position is being refreshed.
