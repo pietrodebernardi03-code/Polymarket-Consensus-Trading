@@ -4845,3 +4845,65 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +6 entries, 1 closed, 94 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-28 (frozen strategy v1.1) ===
+[roster] scoring 281 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/281 traders (4 qualify so far)
+    ...checked 40/281 traders (12 qualify so far)
+    ...checked 60/281 traders (20 qualify so far)
+    ...checked 80/281 traders (32 qualify so far)
+    ...checked 100/281 traders (38 qualify so far)
+    ...checked 120/281 traders (51 qualify so far)
+    ...checked 140/281 traders (62 qualify so far)
+    ...checked 160/281 traders (69 qualify so far)
+    ...checked 180/281 traders (77 qualify so far)
+    ...checked 200/281 traders (89 qualify so far)
+    ...checked 220/281 traders (94 qualify so far)
+    ...checked 240/281 traders (101 qualify so far)
+    ...checked 260/281 traders (113 qualify so far)
+    ...checked 280/281 traders (125 qualify so far)
+[roster] built 125 qualified wallets for 2026-10
+[scan] reading current positions of 125 roster traders...
+    ...read 20/125 traders
+    ...read 40/125 traders
+    ...read 60/125 traders
+    ...read 80/125 traders
+    ...read 100/125 traders
+    ...read 120/125 traders
+[ENTRY] Steelers @ 0.495  x3  Spread: Steelers (-3.5)
+[ENTRY]   Yes @ 0.215  x2  Will the Republicans win the Nevada governor race 
+[ENTRY]   Yes @ 0.755  x3  Will Mary Peltola win the Alaska Senate race in 20
+[ENTRY]    No @ 0.700  x2  Will Bitcoin dip to $78,000 October 26-November 1?
+[ENTRY]    No @ 0.905  x2  Will Bitcoin dip to $76,000 October 26-November 1?
+[ENTRY]    No @ 0.343  x2  Will Ethereum dip to $2,300 in October?
+[ENTRY]   Yes @ 0.625  x2  Will Bitcoin reach $82,000 October 26-November 1?
+[ENTRY]   Yes @ 0.166  x2  Will Ra'am win 8 or more seats in the 2026 Knesset
+[ENTRY]    No @ 0.808  x2  Will Ra'am win exactly 6 seats in the 2026 Knesset
+[EXIT]    Yes sharps left, entry 0.500 -> 0.655  ret 0.31
+[EXIT]     No sharps left, entry 0.595 -> 0.555  ret -0.0672
+[RESOLVE]    No entry 0.875 -> 1  ret 0.1429
+[EXIT]    Yes sharps left, entry 0.427 -> 0.315  ret -0.2643
+[EXIT]    Yes sharps left, entry 0.760 -> 0.750  ret -0.0132
+[EXIT]     No sharps left, entry 0.145 -> 0.225  ret 0.5517
+[EXIT]    Yes sharps left, entry 0.115 -> 0.080  ret -0.3043
+[RESOLVE]    No entry 0.510 -> 0  ret -1.0
+[RESOLVE]   Yes entry 0.865 -> 1  ret 0.1561
+[EXIT]    Yes sharps left, entry 0.205 -> 0.235  ret 0.1463
+[EXIT]    Yes sharps left, entry 0.645 -> 0.655  ret 0.0155
+[RESOLVE]   Yes entry 0.415 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.865 -> 0.835  ret -0.0347
+[EXIT]    Yes sharps left, entry 0.820 -> 0.855  ret 0.0427
+[EXIT]     No sharps left, entry 0.825 -> 0.860  ret 0.0424
+[EXIT]    Yes sharps left, entry 0.865 -> 0.825  ret -0.0462
+[EXIT]    Yes sharps left, entry 0.855 -> 0.930  ret 0.0877
+[EXIT]     No sharps left, entry 0.240 -> 0.135  ret -0.4375
+[EXIT]     No sharps left, entry 0.200 -> 0.235  ret 0.175
+[EXIT]    Yes sharps left, entry 0.675 -> 0.645  ret -0.0444
+[EXIT]     No sharps left, entry 0.340 -> 0.295  ret -0.1324
+[RESOLVE] Julia Riera entry 0.275 -> 1  ret 2.6364
+[EXIT]    Yes sharps left, entry 0.580 -> 0.580  ret 0.0
+[EXIT]     No sharps left, entry 0.155 -> 0.080  ret -0.4839
+[EXIT]     No sharps left, entry 0.295 -> 0.265  ret -0.1017
+[report] valid-resolved=186 (173 sub-48h excluded)  hit_rate=0.624  avg_entry_price=0.523  median_ret=+0.187
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +9 entries, 25 closed, 78 still open
+[check_stuck] clean — every open position is being refreshed.
