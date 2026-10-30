@@ -4960,3 +4960,53 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +15 entries, 10 closed, 83 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-30 (frozen strategy v1.1) ===
+[roster] scoring 280 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/280 traders (4 qualify so far)
+    ...checked 40/280 traders (12 qualify so far)
+    ...checked 60/280 traders (20 qualify so far)
+    ...checked 80/280 traders (33 qualify so far)
+    ...checked 100/280 traders (40 qualify so far)
+    ...checked 120/280 traders (52 qualify so far)
+    ...checked 140/280 traders (63 qualify so far)
+    ...checked 160/280 traders (70 qualify so far)
+    ...checked 180/280 traders (79 qualify so far)
+    ...checked 200/280 traders (90 qualify so far)
+    ...checked 220/280 traders (101 qualify so far)
+    ...checked 240/280 traders (109 qualify so far)
+    ...checked 260/280 traders (120 qualify so far)
+    ...checked 280/280 traders (131 qualify so far)
+[roster] built 131 qualified wallets for 2026-10
+[scan] reading current positions of 131 roster traders...
+    ...read 20/131 traders
+    ...read 40/131 traders
+    ...read 60/131 traders
+    ...read 80/131 traders
+    ...read 100/131 traders
+    ...read 120/131 traders
+[ENTRY] Joao Lucas Da Silva @ 0.440  x3  Guayaquil: Emilio Camacho vs Joao Lucas Da Silva
+[ENTRY]    No @ 0.535  x2  Next Israeli government formed by February 28, 202
+[ENTRY] Dmitry Popko @ 0.388  x2  M25 Malta: Dmitry Popko vs James MacKinlay
+[ENTRY]    No @ 0.885  x2  US-Iran Final Nuclear Deal by November 30, 2026?
+[ENTRY]    No @ 0.115  x2  Will the Republicans win the Florida Senate race i
+[ENTRY]    No @ 0.785  x2  Will Anthropic announce bankruptcy by December 31,
+[ENTRY]   Yes @ 0.490  x2  US imports Russian diesel by November 30?
+[ENTRY]   Yes @ 0.890  x3  Israel x Iran ceasefire continues through November
+[ENTRY]    No @ 0.765  x2  Will Republicans lose the Alaska, Iowa, Kansas, Ma
+[ENTRY]    No @ 0.725  x3  Will Аndrey Gyurov win the next Bulgarian presiden
+[ENTRY]   Yes @ 0.455  x2  Will the Democrats win the Iowa Senate race in 202
+[ENTRY]   Yes @ 0.184  x2  Will the US strike 9 countries in 2026?
+[ENTRY]    No @ 0.825  x2  US announces end of Iranian blockade by November 1
+[EXIT]    Yes sharps left, entry 0.175 -> 0.155  ret -0.1143
+[RESOLVE]    No entry 0.475 -> 1  ret 1.1053
+[RESOLVE]    No entry 0.750 -> 1  ret 0.3333
+[RESOLVE]    No entry 0.700 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.905 -> 0.654  ret -0.2773
+[EXIT]     No sharps left, entry 0.385 -> 0.355  ret -0.0779
+[RESOLVE]    No entry 0.900 -> 1  ret 0.1105
+[EXIT]    Yes sharps left, entry 0.230 -> 0.250  ret 0.087
+[RESOLVE]    No entry 0.855 -> 1  ret 0.1696
+[report] valid-resolved=193 (177 sub-48h excluded)  hit_rate=0.627  avg_entry_price=0.528  median_ret=+0.187
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +13 entries, 9 closed, 87 still open
+[check_stuck] clean — every open position is being refreshed.
