@@ -5010,3 +5010,55 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +13 entries, 9 closed, 87 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-10-31 (frozen strategy v1.1) ===
+[roster] scoring 280 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/280 traders (4 qualify so far)
+    ...checked 40/280 traders (12 qualify so far)
+    ...checked 60/280 traders (20 qualify so far)
+    ...checked 80/280 traders (33 qualify so far)
+    ...checked 100/280 traders (40 qualify so far)
+    ...checked 120/280 traders (52 qualify so far)
+    ...checked 140/280 traders (63 qualify so far)
+    ...checked 160/280 traders (69 qualify so far)
+    ...checked 180/280 traders (78 qualify so far)
+    ...checked 200/280 traders (89 qualify so far)
+    ...checked 220/280 traders (99 qualify so far)
+    ...checked 240/280 traders (107 qualify so far)
+    ...checked 260/280 traders (118 qualify so far)
+    ...checked 280/280 traders (129 qualify so far)
+[roster] built 129 qualified wallets for 2026-10
+[scan] reading current positions of 129 roster traders...
+    ...read 20/129 traders
+    ...read 40/129 traders
+    ...read 60/129 traders
+    ...read 80/129 traders
+    ...read 100/129 traders
+    ...read 120/129 traders
+[ENTRY]   Yes @ 0.145  x3  Will Republicans win Iowa and Kansas, and lose Ala
+[ENTRY] Daniil Medvedev @ 0.120  x2  Erste Bank Open: Daniil Medvedev vs Carlos Alcaraz
+[ENTRY]    No @ 0.815  x2  Trump declares election interference national emer
+[ENTRY]   Yes @ 0.285  x2  Will the Democrats win the Kansas governor race in
+[ENTRY]   Yes @ 0.198  x2  Will the next US-Iran senior diplomatic meeting ta
+[RESOLVE]   Yes entry 0.795 -> 1  ret 0.2579
+[RESOLVE]    No entry 0.695 -> 1  ret 0.4388
+[RESOLVE]    No entry 0.410 -> 1  ret 1.439
+[RESOLVE]    No entry 0.458 -> 1  ret 1.1858
+[EXIT]    Yes sharps left, entry 0.200 -> 0.200  ret 0.0
+[RESOLVE]    No entry 0.125 -> 1  ret 7.0
+[EXIT]     No sharps left, entry 0.805 -> 0.780  ret -0.0311
+[EXIT]    Yes sharps left, entry 0.475 -> 0.435  ret -0.0842
+[EXIT]    Yes sharps left, entry 0.115 -> 0.035  ret -0.6957
+[RESOLVE]    No entry 0.320 -> 1  ret 2.125
+[EXIT]     No sharps left, entry 0.725 -> 0.665  ret -0.0828
+[EXIT]     No sharps left, entry 0.735 -> 0.655  ret -0.1088
+[EXIT]     No sharps left, entry 0.360 -> 0.303  ret -0.1569
+[RESOLVE] Joao Lucas Da Silva entry 0.440 -> 1  ret 1.2727
+[RESOLVE] Dmitry Popko entry 0.388 -> 0  ret -1.0
+[EXIT]     No sharps left, entry 0.885 -> 0.875  ret -0.0113
+[EXIT]    Yes sharps left, entry 0.490 -> 0.515  ret 0.051
+[EXIT]    Yes sharps left, entry 0.184 -> 0.115  ret -0.374
+[EXIT]     No sharps left, entry 0.825 -> 0.750  ret -0.0909
+[report] valid-resolved=199 (179 sub-48h excluded)  hit_rate=0.638  avg_entry_price=0.526  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +5 entries, 19 closed, 73 still open
+[check_stuck] clean — every open position is being refreshed.
