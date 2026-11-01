@@ -5062,3 +5062,48 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +5 entries, 19 closed, 73 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-11-01 (frozen strategy v1.1) ===
+[roster] scoring 280 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/280 traders (4 qualify so far)
+    ...checked 40/280 traders (12 qualify so far)
+    ...checked 60/280 traders (21 qualify so far)
+    ...checked 80/280 traders (34 qualify so far)
+    ...checked 100/280 traders (40 qualify so far)
+    ...checked 120/280 traders (52 qualify so far)
+    ...checked 140/280 traders (63 qualify so far)
+    ...checked 160/280 traders (71 qualify so far)
+    ...checked 180/280 traders (80 qualify so far)
+    ...checked 200/280 traders (91 qualify so far)
+    ...checked 220/280 traders (101 qualify so far)
+    ...checked 240/280 traders (109 qualify so far)
+    ...checked 260/280 traders (120 qualify so far)
+    ...checked 280/280 traders (131 qualify so far)
+[roster] built 131 qualified wallets for 2026-11
+[scan] reading current positions of 131 roster traders...
+    ...read 20/131 traders
+    ...read 40/131 traders
+    ...read 60/131 traders
+    ...read 80/131 traders
+    ...read 100/131 traders
+    ...read 120/131 traders
+[ENTRY] Denis Klok @ 0.110  x4  Villa Maria: Ian Luca Vertberger vs Denis Klok
+[ENTRY]    No @ 0.545  x2  Will Gen.G win Worlds 2026?
+[ENTRY]   Yes @ 0.175  x2  Will Paris Saint-Germain win the 2026-27 UEFA Cham
+[ENTRY]    No @ 0.255  x2  Will a team from LCK (South Korea) win LoL Worlds 
+[ENTRY]   Yes @ 0.205  x2  Will the Republicans win the Michigan Senate race 
+[ENTRY]   Yes @ 0.805  x2  Will Bitcoin reach $80,000 in November?
+[ENTRY]   Yes @ 0.515  x2  Will Alisa Simmons win the 2026 Tarrant County Jud
+[ENTRY]    No @ 0.305  x2  Will the Democrats win the Georgia governor race i
+[EXIT]     No sharps left, entry 0.705 -> 0.795  ret 0.1277
+[EXIT]     No sharps left, entry 0.815 -> 0.835  ret 0.0245
+[EXIT]     No sharps left, entry 0.630 -> 0.695  ret 0.1032
+[EXIT]    Yes sharps left, entry 0.630 -> 0.695  ret 0.1032
+[RESOLVE]   Yes entry 0.166 -> 1  ret 5.0423
+[EXIT]     No sharps left, entry 0.535 -> 0.495  ret -0.0748
+[RESOLVE] Daniil Medvedev entry 0.120 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.285 -> 0.245  ret -0.1404
+[EXIT]    Yes sharps left, entry 0.198 -> 0.173  ret -0.1229
+[report] valid-resolved=200 (180 sub-48h excluded)  hit_rate=0.640  avg_entry_price=0.524  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +8 entries, 9 closed, 72 still open
+[check_stuck] clean — every open position is being refreshed.
