@@ -5107,3 +5107,53 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +8 entries, 9 closed, 72 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-11-02 (frozen strategy v1.1) ===
+[roster] scoring 280 candidate traders — first run can take a few minutes, please wait...
+    ...checked 20/280 traders (4 qualify so far)
+    ...checked 40/280 traders (12 qualify so far)
+    ...checked 60/280 traders (21 qualify so far)
+    ...checked 80/280 traders (34 qualify so far)
+    ...checked 100/280 traders (40 qualify so far)
+    ...checked 120/280 traders (52 qualify so far)
+    ...checked 140/280 traders (63 qualify so far)
+    ...checked 160/280 traders (69 qualify so far)
+    ...checked 180/280 traders (78 qualify so far)
+    ...checked 200/280 traders (89 qualify so far)
+    ...checked 220/280 traders (99 qualify so far)
+    ...checked 240/280 traders (107 qualify so far)
+    ...checked 260/280 traders (118 qualify so far)
+    ...checked 280/280 traders (128 qualify so far)
+[roster] built 128 qualified wallets for 2026-11
+[scan] reading current positions of 128 roster traders...
+    ...read 20/128 traders
+    ...read 40/128 traders
+    ...read 60/128 traders
+    ...read 80/128 traders
+    ...read 100/128 traders
+    ...read 120/128 traders
+[ENTRY]    No @ 0.905  x2  Will Bitcoin dip to $70,000 November 2-8?
+[ENTRY]    No @ 0.835  x2  Will Bitcoin dip to $65,000 in November?
+[ENTRY]    No @ 0.275  x2  Will Bitcoin reach $80,000 in November?
+[ENTRY]    No @ 0.805  x2  Will Ethereum dip to $1,800 in November?
+[ENTRY]    No @ 0.725  x2  Will Ethereum dip to $1,900 in November?
+[ENTRY]    No @ 0.590  x2  Will Ethereum dip to $2,000 in November?
+[ENTRY]   Yes @ 0.345  x2  Will Ethereum reach $2,400 November 2-8?
+[ENTRY]   Yes @ 0.125  x2  Will Ethereum dip to $2,000 November 2-8?
+[ENTRY]   Yes @ 0.125  x2  Will Ethereum reach $2,800 in November?
+[ENTRY]   Yes @ 0.460  x2  Will Ethereum reach $2,500 in November?
+[ENTRY]    No @ 0.305  x2  Will Ethereum dip to $2,200 November 2-8?
+[ENTRY]   Yes @ 0.305  x2  Will Ethereum reach $2,600 in November?
+[ENTRY]    No @ 0.155  x2  Will Ethereum dip to $2,200 in November?
+[EXIT]     No sharps left, entry 0.680 -> 0.875  ret 0.2868
+[RESOLVE]   Yes entry 0.895 -> 1  ret 0.1173
+[EXIT]     No sharps left, entry 0.455 -> 0.440  ret -0.033
+[RESOLVE] Steelers entry 0.495 -> 1  ret 1.0202
+[EXIT]     No sharps left, entry 0.875 -> 0.840  ret -0.04
+[RESOLVE]    No entry 0.725 -> 1  ret 0.3793
+[EXIT]     No sharps left, entry 0.815 -> 0.785  ret -0.0368
+[RESOLVE] Denis Klok entry 0.110 -> 0  ret -1.0
+[EXIT]    Yes sharps left, entry 0.805 -> 0.725  ret -0.0994
+[report] valid-resolved=203 (181 sub-48h excluded)  hit_rate=0.645  avg_entry_price=0.527  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +13 entries, 9 closed, 76 still open
+[check_stuck] clean — every open position is being refreshed.
