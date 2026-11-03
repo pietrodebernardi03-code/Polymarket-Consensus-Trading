@@ -5157,3 +5157,89 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +13 entries, 9 closed, 76 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-11-03 (frozen strategy v1.1) ===
+[warn] GET failed after retries: https://data-api.polymarket.com/v1/leaderboard params={'category': 'OVERALL', 'timePeriod': 'ALL', 'orderBy': 'PNL', 'limit': 50, 'offset': 0} err=410 Client Error: Gone for url: https://data-api.polymarket.com/v1/leaderboard?category=OVERALL&timePeriod=ALL&orderBy=PNL&limit=50&offset=0
+[warn] GET failed after retries: https://data-api.polymarket.com/v1/leaderboard params={'category': 'OVERALL', 'timePeriod': 'MONTH', 'orderBy': 'PNL', 'limit': 50, 'offset': 0} err=410 Client Error: Gone for url: https://data-api.polymarket.com/v1/leaderboard?category=OVERALL&timePeriod=MONTH&orderBy=PNL&limit=50&offset=0
+[roster] scoring 0 candidate traders — first run can take a few minutes, please wait...
+[roster] built 0 qualified wallets for 2026-11
+[scan] reading current positions of 0 roster traders...
+[EXIT]    Yes sharps left, entry 0.845 -> 0.935  ret 0.1065
+[EXIT]    Yes sharps left, entry 0.132 -> 0.108  ret -0.1749
+[EXIT]    Yes sharps left, entry 0.435 -> 0.755  ret 0.7356
+[EXIT]     No sharps left, entry 0.775 -> 0.805  ret 0.0387
+[EXIT]    Yes sharps left, entry 0.665 -> 0.045  ret -0.9323
+[EXIT]    Yes sharps left, entry 0.195 -> 0.012  ret -0.9385
+[EXIT]    Yes sharps left, entry 0.155 -> 0.090  ret -0.4194
+[EXIT]     No sharps left, entry 0.905 -> 0.925  ret 0.0221
+[EXIT]    Yes sharps left, entry 0.530 -> 0.353  ret -0.3346
+[EXIT]    Yes sharps left, entry 0.843 -> 0.861  ret 0.0214
+[EXIT]     No sharps left, entry 0.895 -> 0.935  ret 0.0447
+[EXIT]    Yes sharps left, entry 0.845 -> 0.904  ret 0.0704
+[EXIT]     No sharps left, entry 0.905 -> 0.865  ret -0.0442
+[EXIT]     No sharps left, entry 0.870 -> 0.959  ret 0.1017
+[EXIT]    Yes sharps left, entry 0.775 -> 0.590  ret -0.2387
+[EXIT]    Yes sharps left, entry 0.225 -> 0.110  ret -0.5111
+[EXIT]    Yes sharps left, entry 0.235 -> 0.345  ret 0.4681
+[EXIT]    Yes sharps left, entry 0.875 -> 0.940  ret 0.0743
+[EXIT]    Yes sharps left, entry 0.375 -> 0.155  ret -0.5867
+[EXIT]     No sharps left, entry 0.885 -> 0.685  ret -0.226
+[EXIT]    Yes sharps left, entry 0.215 -> 0.301  ret 0.3991
+[EXIT]    Yes sharps left, entry 0.675 -> 0.345  ret -0.4889
+[EXIT]     No sharps left, entry 0.425 -> 0.255  ret -0.4
+[EXIT]     No sharps left, entry 0.635 -> 0.715  ret 0.126
+[EXIT]    Yes sharps left, entry 0.150 -> 0.035  ret -0.7667
+[EXIT]     No sharps left, entry 0.695 -> 0.875  ret 0.259
+[EXIT]    Yes sharps left, entry 0.155 -> 0.120  ret -0.2258
+[EXIT]    Yes sharps left, entry 0.205 -> 0.095  ret -0.5366
+[EXIT]    Yes sharps left, entry 0.635 -> 0.725  ret 0.1417
+[EXIT]     No sharps left, entry 0.735 -> 0.895  ret 0.2177
+[EXIT]    Yes sharps left, entry 0.345 -> 0.475  ret 0.3768
+[EXIT]    Yes sharps left, entry 0.870 -> 0.925  ret 0.0638
+[EXIT]     No sharps left, entry 0.760 -> 0.620  ret -0.1842
+[EXIT]    Yes sharps left, entry 0.145 -> 0.095  ret -0.3448
+[EXIT]    Yes sharps left, entry 0.305 -> 0.395  ret 0.2951
+[EXIT]    Yes sharps left, entry 0.175 -> 0.155  ret -0.1143
+[EXIT]    Yes sharps left, entry 0.155 -> 0.133  ret -0.1452
+[EXIT]     No sharps left, entry 0.825 -> 0.775  ret -0.0606
+[EXIT]    Yes sharps left, entry 0.645 -> 0.850  ret 0.3178
+[EXIT]     No sharps left, entry 0.755 -> 0.705  ret -0.0662
+[EXIT]    Yes sharps left, entry 0.165 -> 0.185  ret 0.1212
+[EXIT]     No sharps left, entry 0.560 -> 0.540  ret -0.0357
+[EXIT]    Yes sharps left, entry 0.908 -> 0.959  ret 0.0558
+[EXIT]    Yes sharps left, entry 0.255 -> 0.165  ret -0.3529
+[EXIT]     No sharps left, entry 0.795 -> 0.820  ret 0.0314
+[EXIT]    Yes sharps left, entry 0.127 -> 0.092  ret -0.2739
+[EXIT]    Yes sharps left, entry 0.370 -> 0.555  ret 0.5
+[EXIT]    Yes sharps left, entry 0.180 -> 0.075  ret -0.5833
+[EXIT]    Yes sharps left, entry 0.215 -> 0.225  ret 0.0465
+[EXIT]    Yes sharps left, entry 0.755 -> 0.695  ret -0.0795
+[EXIT]    Yes sharps left, entry 0.225 -> 0.235  ret 0.0444
+[EXIT]     No sharps left, entry 0.115 -> 0.095  ret -0.1739
+[EXIT]     No sharps left, entry 0.785 -> 0.770  ret -0.0191
+[EXIT]    Yes sharps left, entry 0.890 -> 0.935  ret 0.0506
+[EXIT]     No sharps left, entry 0.765 -> 0.655  ret -0.1438
+[EXIT]    Yes sharps left, entry 0.455 -> 0.505  ret 0.1099
+[EXIT]    Yes sharps left, entry 0.145 -> 0.045  ret -0.6897
+[EXIT]     No sharps left, entry 0.545 -> 0.505  ret -0.0734
+[EXIT]    Yes sharps left, entry 0.175 -> 0.165  ret -0.0571
+[EXIT]     No sharps left, entry 0.255 -> 0.245  ret -0.0392
+[EXIT]    Yes sharps left, entry 0.205 -> 0.185  ret -0.0976
+[EXIT]    Yes sharps left, entry 0.515 -> 0.555  ret 0.0777
+[EXIT]     No sharps left, entry 0.305 -> 0.325  ret 0.0656
+[EXIT]     No sharps left, entry 0.905 -> 0.915  ret 0.011
+[EXIT]     No sharps left, entry 0.835 -> 0.845  ret 0.012
+[EXIT]     No sharps left, entry 0.275 -> 0.225  ret -0.1818
+[EXIT]     No sharps left, entry 0.805 -> 0.845  ret 0.0497
+[EXIT]     No sharps left, entry 0.725 -> 0.755  ret 0.0414
+[EXIT]     No sharps left, entry 0.590 -> 0.645  ret 0.0932
+[EXIT]    Yes sharps left, entry 0.345 -> 0.430  ret 0.2464
+[EXIT]    Yes sharps left, entry 0.125 -> 0.045  ret -0.64
+[EXIT]    Yes sharps left, entry 0.125 -> 0.130  ret 0.04
+[EXIT]    Yes sharps left, entry 0.460 -> 0.505  ret 0.0978
+[EXIT]     No sharps left, entry 0.305 -> 0.530  ret 0.7377
+[EXIT]    Yes sharps left, entry 0.305 -> 0.305  ret 0.0
+[EXIT]     No sharps left, entry 0.155 -> 0.260  ret 0.6774
+[report] valid-resolved=203 (181 sub-48h excluded)  hit_rate=0.645  avg_entry_price=0.527  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +0 entries, 76 closed, 0 still open
+[check_stuck] clean — every open position is being refreshed.
