@@ -5253,3 +5253,13 @@
 [VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
 [cycle] +0 entries, 0 closed, 0 still open
 [check_stuck] clean — every open position is being refreshed.
+=== paper_trader 2026-11-06 (frozen strategy v1.1) ===
+[warn] GET failed after retries: https://data-api.polymarket.com/v1/leaderboard params={'category': 'OVERALL', 'timePeriod': 'ALL', 'orderBy': 'PNL', 'limit': 50, 'offset': 0} err=410 Client Error: Gone for url: https://data-api.polymarket.com/v1/leaderboard?category=OVERALL&timePeriod=ALL&orderBy=PNL&limit=50&offset=0
+[warn] GET failed after retries: https://data-api.polymarket.com/v1/leaderboard params={'category': 'OVERALL', 'timePeriod': 'MONTH', 'orderBy': 'PNL', 'limit': 50, 'offset': 0} err=410 Client Error: Gone for url: https://data-api.polymarket.com/v1/leaderboard?category=OVERALL&timePeriod=MONTH&orderBy=PNL&limit=50&offset=0
+[roster] scoring 0 candidate traders — first run can take a few minutes, please wait...
+[roster] built 0 qualified wallets for 2026-11
+[scan] reading current positions of 0 roster traders...
+[report] valid-resolved=203 (181 sub-48h excluded)  hit_rate=0.645  avg_entry_price=0.527  median_ret=+0.212
+[VERDICT] SUCCESS (median>0 AND hit_rate>price) ✅
+[cycle] +0 entries, 0 closed, 0 still open
+[check_stuck] clean — every open position is being refreshed.
